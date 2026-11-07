@@ -17,7 +17,7 @@ Paes abriu **410.961 votos** na capital; Ruas abriu **975.176 fora dela**, vence
 | Ruas cresceu durante a campanha | **Apoiada por pesquisas** | Cinco séries separadas. Datafolha 19% → 34% até 2–3/10; Paraná 15,5% → 30,1%. Na Atlas, 31 ago e 20 set são rótulos de gráfico, sem ficha de campo; a figura espaça as ondas por igual, não por dia. Paes segue à frente nas últimas ondas com data de campo. A ultrapassagem não é datável |
 | Inserção prévia de Ruas | **Estabelecida** | 175.977 votos em 2022, 149.576 em São Gonçalo, trajetória e rede familiar documentadas |
 | Associação nacional e viabilização da candidatura | **Apoiadas** | Apoios de Flávio, Castro e Altineu; comparação presidencial em duas bases. Não mede quantos votos cada liderança produziu |
-| Contribuição eleitoral de partido, líder, redes ou mensagens | **Não identificada** | Os testes afastam versões exclusivas. Não afastam contribuição parcial |
+| Contribuição eleitoral de partido, líder, redes ou mensagens | **Não identificada** | Os dados não identificam contribuição parcial, exclusividade ou decisividade desses mecanismos |
 | Popularidade municipal garantia vitória estadual | **Refutada como garantia** | Paes manteve força carioca, insuficiente para o conjunto do estado |
 | Prefeitos, igrejas, propaganda ou um debate explicam uma quantidade determinada de votos | **Ainda não demonstrada** | Há peças e publicidade descritas; faltam exposição, painel e identificação. Endosso não equivale a entrega |
 | Garotinho transferiu seus votos para Ruas | **Ainda não demonstrada** | Anulação não é transferência; apoio de Wladimir é posterior; intenção hipotética de segundo turno não é voto observado |
