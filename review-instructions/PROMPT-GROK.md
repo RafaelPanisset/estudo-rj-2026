@@ -1,6 +1,6 @@
 # Auditoria independente — instrução para o Grok Bot
 
-Quero que você crie e coordene oito bots revisores especializados para auditar o projeto privado https://github.com/RafaelPanisset/estudo-rj-2026, produzido pelo GPT a meu pedido. Você será o coordenador. Leia também `review-instructions/BRIEFING-ORIGINAL.md` e `review-instructions/COMO-USAR.md`.
+Quero que você crie e coordene nove bots revisores especializados para auditar o projeto privado https://github.com/RafaelPanisset/estudo-rj-2026, produzido pelo GPT a meu pedido. Você será o coordenador. Leia também `review-instructions/BRIEFING-ORIGINAL.md` e `review-instructions/COMO-USAR.md`.
 
 Não tome a autoria pelo GPT como razão para confiar ou desconfiar. Não é uma disputa entre modelos. Quero saber o que está correto, o que não está sustentado e qual é a melhor conclusão possível.
 
@@ -17,8 +17,8 @@ Não tome a autoria pelo GPT como razão para confiar ou desconfiar. Não é uma
 
 Os bots compartilham computador, arquivos e credenciais. Conversas distintas não são isolamento de segurança nem garantia de independência intelectual.
 
-- Crie os oito bots abaixo com nomes prefixados por `RJ26`. Informe a cada um seu papel, fontes, entregáveis e limites; peça que mantenha essas responsabilidades durante a auditoria.
-- Não substitua meu bot principal nem modifique outros bots existentes. Não crie rotinas recorrentes, monitoramento permanente ou novos bots além destes oito.
+- Crie os nove bots abaixo com nomes prefixados por `RJ26`. Informe a cada um seu papel, fontes, entregáveis e limites; peça que mantenha essas responsabilidades durante a auditoria.
+- Não substitua meu bot principal nem modifique outros bots existentes. Não crie rotinas recorrentes, monitoramento permanente ou novos bots além destes nove.
 - Mantenha a cópia de referência intacta. Faça execuções em cópias de trabalho separadas. Cada bot só escreve na própria pasta; nenhum executa os scripts de reprodução na cópia usada pelos demais.
 - Não faça push, commits remotos, PRs, releases, publicações, mensagens externas ou alterações de permissões. A revisão será entregue em arquivos locais no seu ambiente e disponibilizada para download. Corrigir o estudo será uma etapa posterior.
 - Não instale integrações de terceiros nem conecte Gmail, Slack ou outras contas desnecessárias. Se precisar de ferramenta paga adicional, informe antes de contratar.
@@ -30,7 +30,7 @@ Se não puder criar bots reais, declare a limitação e execute revisões separa
 
 ## Sequência de trabalho
 
-Comece pelo inventário e pelos agentes 1, 2 e 6: procedência, resultados e reprodução. Eles verificam a base antes da interpretação. Depois execute os agentes 3, 4 e 5; finalize com 7 e 8 e consolide. Pode paralelizar tarefas independentes conforme a capacidade real, evitando processos pesados concorrentes no computador compartilhado.
+Comece pelo inventário e pelos agentes 1, 2 e 6: procedência, resultados e reprodução. Eles verificam a base antes da interpretação. Depois execute os agentes 3, 4, 5 e 9; finalize com 7 e 8 e consolide. Pode paralelizar tarefas independentes conforme a capacidade real, evitando processos pesados concorrentes no computador compartilhado.
 
 Cada revisor registra suas primeiras observações antes de ler os pareceres dos outros. Isso reduz contaminação, mas não torna os modelos estatisticamente independentes. Compartilhe prontamente erros factuais confirmados que afetem os demais. Não lance nove buscas idênticas; mantenha um catálogo de fontes compartilhado e permita reconferência independente das evidências centrais.
 
@@ -116,6 +116,22 @@ Faça matriz de todos os dez itens e do formato solicitado: atendido, parcial, n
 
 Verifique resposta direta, clareza para leigo, separação descrição/causa, limitações próximas das afirmações e promessas de completude. A indisponibilidade de causalidade perfeita não dispensa investigar documentos disponíveis. Identifique quais lacunas são inevitáveis e quais exigem trabalho adicional possível.
 
+## Agente 9 — RJ26 Fatores omitidos e conversão do voto
+
+**Função:** investigar mecanismos que podem ter ficado fora da explicação, especialmente material de campanha com números de urna e influência da disputa presidencial. **Por quê:** preferência declarada, mobilização e voto registrado podem divergir, e associação nacional não equivale a transferência automática.
+
+Trate os exemplos do usuário como perguntas, não como fatos estabelecidos. Investigue:
+
+1. **Santinhos e números de urna.** Houve material com o número 22 associado a outra candidatura ou instruções capazes de confundir cargos? Identifique exatamente candidato, cargo, número correto, texto, imagem, autoria alegada/comprovada, local e data. Diferencie propaganda conjunta legítima, peça enganosa, montagem, erro e denúncia ainda não comprovada. Procure originais, registros de distribuição, respostas das campanhas e documentos da Justiça Eleitoral. Uma imagem comprova no máximo a existência daquela peça; não demonstra distribuição ampla nem efeito eleitoral.
+2. **Cadeia do possível efeito.** Separe produção, circulação, exposição, compreensão, intenção, digitação e voto registrado. Procure evidência para cada elo e contraexemplos. Verifique o que os dados públicos realmente registram: não deduza número digitado, preferência anterior ou motivo de anulação a partir de totais de votos nulos. Não classifique brancos/nulos como votos perdidos por Paes. Não atribua todos os votos de um candidato a confusão de número.
+3. **Influência presidencial.** Confira quem concorreu à Presidência, apoios explícitos e suas datas, propaganda conjunta, compartilhamento de número/partido, eventos, redes e mudanças nas pesquisas. Distinga associação a lideranças, identificação partidária, avaliação do governo, rejeição nacional e mobilização. Busque pesquisas individuais com cruzamento de intenção para os dois cargos, painéis ou estudos pós-eleitorais com metodologia disponível. Compare explicações de influência nacional com redes locais e avaliação dos candidatos estaduais.
+4. **Voto entre cargos.** Compare resultados presidenciais e estaduais em unidades compatíveis, com denominadores e participação próprios. Diferenças agregadas podem delimitar padrões ou limites matemáticos sob hipóteses explícitas, mas não identificam quais eleitores dividiram o voto, por quê, nem quantos foram persuadidos. Correlação territorial e uso do mesmo número não demonstram efeito causal presidencial.
+5. **Outras omissões relevantes.** Examine, quando houver indícios documentais, ordem e instruções de votação, desinformação, incidentes no dia, mobilização/abstenção diferencial e acontecimentos tardios. Não crie uma lista infinita de possibilidades: priorize mecanismos com evidência, cronologia compatível e potencial de alterar a interpretação. Procure também evidências de ausência ou alcance restrito, distinguindo-as de mera falta de dados.
+
+Entregue uma matriz: hipótese; mecanismo; evidência favorável; evidência contrária; cronologia; alcance observado; elo causal faltante; explicação alternativa; conclusão permitida; dado necessário para avançar. Se calcular cenário de sensibilidade, rotule todas as premissas e não o apresente como estimativa de votos efetivamente desviados, perdidos ou transferidos. Não declare um fator decisivo sem evidência suficiente sobre sua magnitude.
+
+Coordene com o agente 5, que cataloga campanha e apoios; você examina especificamente omissões e a passagem entre mensagem, preferência e voto. Solicite ao agente 4 a verificação dos cálculos e envie os mecanismos avaliados ao agente 7 para confronto com a narrativa geral. Não duplique achados.
+
 ## Formato obrigatório dos achados
 
 Cada problema: ID; agente; arquivo/seção/linha; afirmação examinada; problema preciso; fonte/página ou comando/cálculo; status; gravidade; confiança justificada; impacto na conclusão; correção ou evidência necessária.
@@ -129,7 +145,7 @@ Não produza elogios genéricos nem defeitos artificiais. Registre verificaçõe
 
 Crie fora da cópia de referência uma pasta `revisao/` com:
 - ESCOPO.md: commit, ambiente, data de corte, capacidades e exclusões.
-- agentes/01-procedencia.md a 08-aderencia.md.
+- agentes/01-procedencia.md a 08-aderencia.md, e agentes/09-fatores-omitidos.md.
 - ACHADOS.csv: problemas estruturados, sem duplicatas.
 - DIVERGENCIAS.md: pareceres conflitantes e sua resolução por evidência.
 - VERIFICACOES.md: fontes abertas, comandos, resultados e itens não acessados.
@@ -144,6 +160,7 @@ O parecer final deve conter:
 4. Matriz dos dez requisitos.
 5. Conclusões a manter, reformular, rebaixar ou retirar.
 6. Respostas independentes: fundamento da expectativa de Paes e por que falhou; construção da votação de Ruas; papel de cada Garotinho; efeito jurídico versus transferência; existência ou não de virada datável; lacunas exatas.
-7. Plano de correção por impacto, distinguindo ajustes simples, novas análises e aquisição externa.
+7. Avaliação dos santinhos/números de urna, da influência presidencial e de outras omissões: o que foi demonstrado, o que apenas é plausível e o que falta para estimar magnitude.
+8. Plano de correção por impacto, distinguindo ajustes simples, novas análises e aquisição externa.
 
 Trabalhe com autonomia. Atualize brevemente sobre descobertas que mudem o diagnóstico. Pergunte apenas pelo que não puder obter e for indispensável. Não declare auditoria completa se etapas essenciais não foram executadas: entregue o parecer possível e marque suas conclusões provisórias.

@@ -12,9 +12,9 @@ O Cursor anunciou em 14/8/2026 sua aquisição pela SpaceX: [anúncio oficial](h
 
 1. Abra o Grok Bot e escolha um bot existente como coordenador desta tarefa. Não precisa mudar seu bot principal.
 2. Em **Connect apps**, procure GitHub, ou peça ao bot acesso ao link privado e use o cartão de conexão. Conclua a autenticação no fluxo do provedor. Autorize somente este repositório quando essa seleção estiver disponível. Não cole senha/token no chat.
-3. Envie o arquivo [PROMPT-GROK.md](PROMPT-GROK.md), junto com o link https://github.com/RafaelPanisset/estudo-rj-2026. Peça que leia o arquivo inteiro e execute suas instruções.
+3. Envie o link direto https://github.com/RafaelPanisset/estudo-rj-2026/blob/main/review-instructions/PROMPT-GROK.md. Peça que leia o arquivo inteiro e execute suas instruções. O caminho local do seu computador não dá acesso ao ambiente do Grok; o link privado também exige a autorização do passo 2. Como alternativa, anexe o arquivo Markdown, mantendo o acesso ao repositório para consultar código, fontes e dados.
 4. O briefing já está em [BRIEFING-ORIGINAL.md](BRIEFING-ORIGINAL.md). Os dados e fontes do estudo estão no repositório; o ZIP bruto maior está na release privada `dados-v1`.
-5. O coordenador deve confirmar o acesso, registrar o commit, criar os oito revisores e apresentar a divisão antes de começar. Se a versão/conta não permitir criação automática, ele deve fornecer a configuração para criar com **New Bot**, sem fingir que criou.
+5. O coordenador deve confirmar o acesso, registrar o commit, criar os nove revisores e apresentar a divisão antes de começar. Se a versão/conta não permitir criação automática, ele deve fornecer a configuração para criar com **New Bot**, sem fingir que criou.
 6. Receba os relatórios e o ZIP de revisão. Não conceda permissão de push só para obter pareceres. Se a integração pedir permissões maiores que leitura, avalie o escopo apresentado; instruir “somente leitura” não muda o escopo técnico do aplicativo.
 
 ## Restaurar o arquivo grande para reproduzir
@@ -47,7 +47,8 @@ A reprodução deve ocorrer em cópia de trabalho porque reescreve `results/`, `
 
 ## Decisões metodológicas deste projeto
 
-- Oito revisores especializados e coordenador; três primeiros verificam procedência, resultado e reprodução.
+- Nove revisores especializados e coordenador; três primeiros verificam procedência, resultado e reprodução.
+- O nono revisor investiga fatores omitidos, santinhos/números de urna e influência presidencial, sem presumir ocorrência ou causalidade.
 - Relatórios iniciais separados, seguida de comparação entre revisores; não confundir isso com independência estatística.
 - Um commit de referência e diretórios de saída próprios; nenhum push ou alteração remota nesta fase.
 - Uma rodada inicial, uma rodada de esclarecimentos e reconferência de achados graves. Checkpoints se faltar limite de uso.
