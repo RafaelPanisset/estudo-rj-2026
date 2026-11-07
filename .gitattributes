@@ -1,0 +1,8 @@
+# Preserve exact snapshot bytes and hashes across operating systems.
+raw/** -text
+*.csv -text
+*.pdf -text
+*.zip -text
+# Human-authored documentation and code use LF.
+*.md text eol=lf
+*.py text eol=lf
