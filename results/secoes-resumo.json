@@ -60,6 +60,6 @@
   "ruas_vence": 24416,
   "paes_vence": 12998,
   "empates": 261,
-  "reconciliacao_zonas": "Ruas, Paes, Anthony vs technical null and blanks: 183 municipal-zones matched",
+  "reconciliacao_zonas": "183 zonas: todos os códigos de votável, brancos, nulos de urna, nulos técnicos, comparecimento e seções principais, 0 divergências",
   "source_sha256": "96664f342d206910a2884fe688c74343f2cc01a495fe57e70f6828705a6278ff"
 }

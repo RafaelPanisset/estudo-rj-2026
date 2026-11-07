@@ -1,0 +1,674 @@
+[
+  {
+    "texto": "",
+    "url": "https://odia.ig.com.br/"
+  },
+  {
+    "texto": "Assine",
+    "url": "https://assine.odia.com.br/"
+  },
+  {
+    "texto": "Acessar edição digital",
+    "url": "https://flip.odia.com.br"
+  },
+  {
+    "texto": "Home",
+    "url": "/home"
+  },
+  {
+    "texto": "Últimas Notícias",
+    "url": "/ultimas-noticias"
+  },
+  {
+    "texto": "Rio de Janeiro",
+    "url": "#"
+  },
+  {
+    "texto": "Página Principal",
+    "url": "/rio-de-janeiro"
+  },
+  {
+    "texto": "O Dia na Baixada",
+    "url": "/rio-de-janeiro/o-dia-na-baixada"
+  },
+  {
+    "texto": "O Dia na Folia",
+    "url": "/diversao/carnaval"
+  },
+  {
+    "texto": "Diversão",
+    "url": "#"
+  },
+  {
+    "texto": "Página Principal",
+    "url": "/diversao"
+  },
+  {
+    "texto": "BBB",
+    "url": "/diversao/bbb"
+  },
+  {
+    "texto": "Celebridades",
+    "url": "/diversao/celebridades"
+  },
+  {
+    "texto": "Televisão",
+    "url": "/diversao/televisao"
+  },
+  {
+    "texto": "Carnaval",
+    "url": "/diversao/carnaval"
+  },
+  {
+    "texto": "Virando A Página",
+    "url": "/diversao/virando-a-pagina"
+  },
+  {
+    "texto": "Esporte",
+    "url": "#"
+  },
+  {
+    "texto": "Página Principal",
+    "url": "/esporte"
+  },
+  {
+    "texto": "Botafogo",
+    "url": "/esporte/botafogo"
+  },
+  {
+    "texto": "Flamengo",
+    "url": "/esporte/flamengo"
+  },
+  {
+    "texto": "Fluminense",
+    "url": "/esporte/fluminense"
+  },
+  {
+    "texto": "Vasco",
+    "url": "/esporte/vasco"
+  },
+  {
+    "texto": "Brasileirão",
+    "url": "/esporte/brasileirao"
+  },
+  {
+    "texto": "Carioca",
+    "url": "/esporte/carioca"
+  },
+  {
+    "texto": "A Palinha Do Apolinho",
+    "url": "/esporte/a-palinha-do-apolinho"
+  },
+  {
+    "texto": "Copa do Mundo",
+    "url": "/esporte/copa-do-mundo"
+  },
+  {
+    "texto": "Copa América",
+    "url": "/esporte/copa-america"
+  },
+  {
+    "texto": "Em Grande Fase",
+    "url": "/esporte/em-grande-fase"
+  },
+  {
+    "texto": "Jogos da Baixada",
+    "url": "/rio-de-janeiro/o-dia-na-baixada/jogos-da-baixada"
+  },
+  {
+    "texto": "Apostas",
+    "url": "https://odia.ig.com.br/apostas/"
+  },
+  {
+    "texto": "Colunas",
+    "url": "#"
+  },
+  {
+    "texto": "Página Principal",
+    "url": "/colunas"
+  },
+  {
+    "texto": "Informe do Dia",
+    "url": "/colunas/informe-do-dia"
+  },
+  {
+    "texto": "Fábia Oliveira",
+    "url": "https://fabiaoliveira.odia.ig.com.br"
+  },
+  {
+    "texto": "Panorama Imobiliário",
+    "url": "/colunas/panorama-imobiliario"
+  },
+  {
+    "texto": "Servidor",
+    "url": "/colunas/servidor"
+  },
+  {
+    "texto": "Gameplay",
+    "url": "/colunas/gameplay"
+  },
+  {
+    "texto": "Um Olhar sobre o Rio",
+    "url": "/rio-de-janeiro/um-olhar-sobre-o-rio"
+  },
+  {
+    "texto": "Alegria no Ar",
+    "url": "/colunas/alegria-no-ar"
+  },
+  {
+    "texto": "Histórias do Luar",
+    "url": "/colunas/historias-do-luar"
+  },
+  {
+    "texto": "Coluna Esplanada",
+    "url": "/colunas/coluna-esplanada"
+  },
+  {
+    "texto": "Fé no Rio",
+    "url": "/colunas/fe-no-rio"
+  },
+  {
+    "texto": "Gardênia Cavalcanti",
+    "url": "/dmulher/gardenia-cavalcanti"
+  },
+  {
+    "texto": "Rio Suburbano",
+    "url": "/rio-de-janeiro/rio-suburbano/"
+  },
+  {
+    "texto": "Desaparecimentos em Pauta",
+    "url": "/desaparecimentos-em-pauta"
+  },
+  {
+    "texto": "Vida & Meio Ambiente",
+    "url": "/colunas/vida--meio-ambiente"
+  },
+  {
+    "texto": "Coisas do Rio",
+    "url": "/colunas/coisas-do-rio"
+  },
+  {
+    "texto": "É o Bicho",
+    "url": "/colunas/e-o-bicho"
+  },
+  {
+    "texto": "Isabele Benito",
+    "url": "/rio-de-janeiro/isabele-benito"
+  },
+  {
+    "texto": "Desbravando",
+    "url": "/colunas/desbravando"
+  },
+  {
+    "texto": "Direito e Cidadania",
+    "url": "/colunas/luciano-bandeira"
+  },
+  {
+    "texto": "Economia",
+    "url": "#"
+  },
+  {
+    "texto": "Página Principal",
+    "url": "/economia"
+  },
+  {
+    "texto": "Empregos e Negócios",
+    "url": "/economia/empregos-e-negocios"
+  },
+  {
+    "texto": "Imóveis e Casa",
+    "url": "/imoveis-e-casa"
+  },
+  {
+    "texto": "Brasil",
+    "url": "/brasil"
+  },
+  {
+    "texto": "Mundo e Ciência",
+    "url": "/mundo-e-ciencia"
+  },
+  {
+    "texto": "Sua Cidade",
+    "url": "#"
+  },
+  {
+    "texto": "Página Principal",
+    "url": "/cidades"
+  },
+  {
+    "texto": "O Dia em Caxias",
+    "url": "/duque-de-caxias"
+  },
+  {
+    "texto": "O Dia em Campos",
+    "url": "/campos"
+  },
+  {
+    "texto": "O Dia em Petrópolis",
+    "url": "/petropolis"
+  },
+  {
+    "texto": "O Dia em Teresópolis",
+    "url": "/teresopolis"
+  },
+  {
+    "texto": "O Dia em Macaé",
+    "url": "/macae"
+  },
+  {
+    "texto": "O Dia em Nova Iguaçu",
+    "url": "/nova-iguacu"
+  },
+  {
+    "texto": "O Dia em Búzios",
+    "url": "/buzios"
+  },
+  {
+    "texto": "O Dia em Volta Redonda",
+    "url": "/volta-redonda"
+  },
+  {
+    "texto": "O Dia em Magé",
+    "url": "/Magé"
+  },
+  {
+    "texto": "O Dia em Cabo Frio",
+    "url": "/cabo-frio"
+  },
+  {
+    "texto": "O Dia em Saquarema",
+    "url": "/saquarema"
+  },
+  {
+    "texto": "O Dia em Porto Real",
+    "url": "/porto-real"
+  },
+  {
+    "texto": "O Dia em Maricá",
+    "url": "/marica"
+  },
+  {
+    "texto": "O Dia em Niterói",
+    "url": "/niteroi"
+  },
+  {
+    "texto": "O Dia em São Gonçalo",
+    "url": "/sao-goncalo"
+  },
+  {
+    "texto": "O Dia em Nova Friburgo",
+    "url": "/nova-friburgo"
+  },
+  {
+    "texto": "O Dia em Itaguaí",
+    "url": "/itaguai"
+  },
+  {
+    "texto": "O Dia em São João de Meriti",
+    "url": "/sao-joao-de-meriti"
+  },
+  {
+    "texto": "O Dia em Silva Jardim",
+    "url": "/silva-jardim"
+  },
+  {
+    "texto": "O Dia em Itaboraí",
+    "url": "/itaborai"
+  },
+  {
+    "texto": "O Dia em Rio das Ostras",
+    "url": "/rio-das-ostras"
+  },
+  {
+    "texto": "Imóveis e Casa",
+    "url": "/imoveis-e-casa"
+  },
+  {
+    "texto": "Fale Conosco",
+    "url": "/fale-conosco"
+  },
+  {
+    "texto": "Expediente",
+    "url": "/expediente"
+  },
+  {
+    "texto": "",
+    "url": "https://odia.ig.com.br/"
+  },
+  {
+    "texto": "Entrar",
+    "url": "https://flip.odia.com.br/"
+  },
+  {
+    "texto": "Anuncie no O Dia",
+    "url": "https://midiakit.odia.ig.com.br"
+  },
+  {
+    "texto": "Faça sua denúncia",
+    "url": "https://odia.ig.com.br/institucional/2024/02/6787657-faca-sua-denuncia.html"
+  },
+  {
+    "texto": "Assine",
+    "url": "https://assine.odia.com.br/?utm_source=assinatura&utm_medium=desktop&utm_campaign=header"
+  },
+  {
+    "texto": "Home",
+    "url": "/home"
+  },
+  {
+    "texto": "Últimas Notícias",
+    "url": "/ultimas-noticias"
+  },
+  {
+    "texto": "Rio de Janeiro",
+    "url": "/rio-de-janeiro"
+  },
+  {
+    "texto": "Diversão",
+    "url": "/diversao"
+  },
+  {
+    "texto": "Esporte",
+    "url": "/esporte"
+  },
+  {
+    "texto": "Colunas",
+    "url": "/colunas"
+  },
+  {
+    "texto": "Economia",
+    "url": "/economia"
+  },
+  {
+    "texto": "Brasil",
+    "url": "/brasil"
+  },
+  {
+    "texto": "Mundo e Ciência",
+    "url": "/mundo-e-ciencia"
+  },
+  {
+    "texto": "Sua Cidade",
+    "url": "/cidades"
+  },
+  {
+    "texto": "Esoterismo",
+    "url": "/esoterismo"
+  },
+  {
+    "texto": "Apostas",
+    "url": "https://odia.ig.com.br/apostas/"
+  },
+  {
+    "texto": "",
+    "url": "javascript:void(0);"
+  },
+  {
+    "texto": "",
+    "url": "javascript:void(0);"
+  },
+  {
+    "texto": "",
+    "url": "javascript:void(0);"
+  },
+  {
+    "texto": "",
+    "url": "javascript:void(0);"
+  },
+  {
+    "texto": "Eleições",
+    "url": "/eleicoes"
+  },
+  {
+    "texto": "",
+    "url": "javascript:void(0);"
+  },
+  {
+    "texto": "",
+    "url": "https://news.google.com/publications/CAAqKQgKIiNDQklTRkFnTWFoQUtEbTlrYVdFdWFXY3VZMjl0TG1KeUtBQVAB/sections/CAQifkNCSVNXRG9pWjJGeVlXMXZibVJmY0hWaWJHbHphR1Z5WDNObFkzUnBiMjVmWldScGRHbHZia0lhWjJGeVlXMXZibVJmY0hWaWJHbHphR1Z5WDNObFkzUnBiMjV5RmdvVUNoSkhRVkpCVFU5T1JGOUdWVXhNWDA1QlRVVW9BQSotCAAqKQgKIiNDQklTRkFnTWFoQUtEbTlrYVdFdWFXY3VZMjl0TG1KeUtBQVABUAE?hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+  },
+  {
+    "texto": "Manuella Viegas manuella.viegas@odia.com.br",
+    "url": "https://odia.ig.com.br/autores/?autor=manuella-viegas"
+  },
+  {
+    "texto": "Eduardo Paes (PSD)",
+    "url": "https://odia.ig.com.br/eleicoes/2026/10/7309394-paes-aponta-manobra-de-garotinho-para-eleger-ruas-no-1-turno.html"
+  },
+  {
+    "texto": "os dois avançaram para o segundo turno",
+    "url": "https://odia.ig.com.br/eleicoes/2026/10/7308863-eduardo-paes-e-douglas-ruas-vao-disputar-o-segundo-turno-no-rio.html"
+  },
+  {
+    "texto": "o candidato desistiu do Recurso Ordinário",
+    "url": "https://odia.ig.com.br/eleicoes/2026/10/7309248-garotinho-desiste-de-recurso-e-ruas-pode-ser-eleito-no-1-turno.html"
+  },
+  {
+    "texto": "determinou, ainda nesta segunda-feira, que a Procuradoria-Geral Eleitoral (PGE) se manifeste, no prazo de dois dias",
+    "url": "https://odia.ig.com.br/eleicoes/2026/10/7309343-tse-da-dois-dias-para-pge-se-manifestar-sobre-desistencia-de-garotinho.html"
+  },
+  {
+    "texto": "o Ministério Público Eleitoral (MPE) se manifestou a favor do pedido de desistência",
+    "url": "https://odia.ig.com.br/eleicoes/2026/10/7309606-mpe-se-posiciona-a-favor-da-desistencia-de-recurso-de-garotinho.html"
+  },
+  {
+    "texto": "Eduardo Paes",
+    "url": "https://odia.ig.com.br/noticias?q=Eduardo Paes"
+  },
+  {
+    "texto": "Douglas Ruas",
+    "url": "https://odia.ig.com.br/noticias?q=Douglas Ruas"
+  },
+  {
+    "texto": "Panfletos",
+    "url": "https://odia.ig.com.br/noticias?q=Panfletos"
+  },
+  {
+    "texto": "Santinhos",
+    "url": "https://odia.ig.com.br/noticias?q=Santinhos"
+  },
+  {
+    "texto": "Eleições Paes pede que TSE contabilize os votos de Garotinho e garanta 2º turno No documento, a Coligação do ex-prefeito do Rio menciona a desistência de candidato um dia depois da apuração",
+    "url": "/eleicoes/2026/10/7309763-paes-pede-que-tse-contabilize-os-votos-de-garotinho-e-garanta-2-turno.html"
+  },
+  {
+    "texto": "Eleições Veja a agenda dos candidatos ao governo do Rio nesta terça Douglas Ruas não realizou atividades de campanha e concentrou atenções no TSE; Eduardo Paes visitou cidades do interior",
+    "url": "/eleicoes/2026/10/7309757-veja-a-agenda-dos-candidatos-ao-governo-do-rio-nesta-terca.html"
+  },
+  {
+    "texto": "Eleições Flávio Bolsonaro e Lula retomam agenda de campanha para 2º turno Candidato do PL defendeu trabalho por hora como alternativa ao fim da escala 6x1. Representante do PT participou de reuniões internas em Brasília",
+    "url": "/eleicoes/2026/10/7309709-flavio-bolsonaro-e-lula-retomam-agenda-de-campanha-para-2-turno.html"
+  },
+  {
+    "texto": "Eleições Site do TSE dá falta a eleitores que votaram no 1º turno Órgão esclareceu que os dados de comparecimento ainda estão em processamento, por isso, a informação exibida não representa uma situação definitiva",
+    "url": "/eleicoes/2026/10/7309655-erro-no-site-do-tse-da-falta-a-eleitores-que-votaram-no-1-turno.html"
+  },
+  {
+    "texto": "Eleições Confira nomes famosos que ficaram fora da Alerj Políticos deixarão a casa legislativa do Rio de Janeiro no final do ano por não conseguir a reeleição ou para assumir novos cargos",
+    "url": "https://ultimosegundo.ig.com.br/brasil/rj/2026-10-06/veja-nomes-famosos-que-ficaram-fora-da-alerj.html"
+  },
+  {
+    "texto": "Eleições Paes denuncia à Justiça panfletos que o associam aos números 13 e 22 Coligação pede busca e apreensão em gráfica e perícia em equipamentos para identificar cadeia de produção e distribuição",
+    "url": "/eleicoes/2026/10/7309637-paes-denuncia-a-justica-panfletos-que-o-associam-aos-numeros-13-e-22.html"
+  },
+  {
+    "texto": "Eleições PSOL recorre ao TSE contra desistência de recurso de Garotinho Partido afirma que situação envolve interesse público e defende que efeitos dos votos recebidos pelo ex-governador sejam decididos pela Justiça",
+    "url": "/eleicoes/2026/10/7309630-psol-recorre-ao-tse-contra-desistencia-de-recurso-de-garotinho.html"
+  },
+  {
+    "texto": "Home",
+    "url": "/home"
+  },
+  {
+    "texto": "Últimas Notícias",
+    "url": "/ultimas-noticias"
+  },
+  {
+    "texto": "Coronavírus",
+    "url": "/mundo-e-ciencia/coronavirus"
+  },
+  {
+    "texto": "Rio de Janeiro",
+    "url": "/rio-de-janeiro"
+  },
+  {
+    "texto": "Diversão",
+    "url": "/diversao"
+  },
+  {
+    "texto": "Esporte",
+    "url": "/esporte"
+  },
+  {
+    "texto": "Colunas",
+    "url": "/colunas"
+  },
+  {
+    "texto": "Economia",
+    "url": "/economia"
+  },
+  {
+    "texto": "Brasil",
+    "url": "/brasil"
+  },
+  {
+    "texto": "Mundo e Ciência",
+    "url": "/mundo-e-ciencia"
+  },
+  {
+    "texto": "Sua Cidade",
+    "url": "/cidades"
+  },
+  {
+    "texto": "Tá na Rede",
+    "url": "/ta-na-rede"
+  },
+  {
+    "texto": "Esoterismo",
+    "url": "/esoterismo"
+  },
+  {
+    "texto": "Opinião",
+    "url": "/opiniao"
+  },
+  {
+    "texto": "Podcasts",
+    "url": "/podcasts/"
+  },
+  {
+    "texto": "Cupons de Desconto",
+    "url": "https://odia.com.br/cupom/"
+  },
+  {
+    "texto": "DMulher",
+    "url": "/dmulher"
+  },
+  {
+    "texto": "Educação",
+    "url": "/educacao"
+  },
+  {
+    "texto": "O Dia de Hoje",
+    "url": "/o-dia-de-hoje"
+  },
+  {
+    "texto": "Automania",
+    "url": "/automania"
+  },
+  {
+    "texto": "Imóveis e Casa",
+    "url": "/imoveis-e-casa"
+  },
+  {
+    "texto": "Vida Saudável",
+    "url": "/vida-saudavel"
+  },
+  {
+    "texto": "Fale Conosco",
+    "url": "/fale-conosco"
+  },
+  {
+    "texto": "Expediente",
+    "url": "/expediente"
+  },
+  {
+    "texto": "Assine agora",
+    "url": "https://assine.odia.com.br/?utm_source=assinatura&utm_medium=desktop&utm_campaign=header"
+  },
+  {
+    "texto": "Disponível no Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.ejesa.epaper.android"
+  },
+  {
+    "texto": "Disponível no App Store",
+    "url": "https://itunes.apple.com/us/app/o-dia-mobile/id1011994522"
+  },
+  {
+    "texto": "",
+    "url": "https://whatsapp.com/channel/0029Va9Z3808qIzqSiL6xi1P"
+  },
+  {
+    "texto": "",
+    "url": "https://www.facebook.com/jornalodia"
+  },
+  {
+    "texto": "",
+    "url": "https://x.com/jornalodia"
+  },
+  {
+    "texto": "",
+    "url": "https://www.instagram.com/odiaonline/"
+  },
+  {
+    "texto": "",
+    "url": "https://www.youtube.com/tvodia"
+  },
+  {
+    "texto": "",
+    "url": "https://www.tiktok.com/@jornalodia"
+  },
+  {
+    "texto": "",
+    "url": "https://www.linkedin.com/company/odiaonline/?originalSubdomain=br"
+  },
+  {
+    "texto": "",
+    "url": "https://open.spotify.com/show/0Af1ceYfTohQjKX7FugfGx"
+  },
+  {
+    "texto": "Anuncie",
+    "url": "http://midiakit.odia.ig.com.br/"
+  },
+  {
+    "texto": "Política de Privacidade",
+    "url": "https://odia.ig.com.br/politica-de-privacidade"
+  },
+  {
+    "texto": "Expediente",
+    "url": "https://odia.ig.com.br/expediente"
+  },
+  {
+    "texto": "Fale Conosco",
+    "url": "https://odia.ig.com.br/fale-conosco"
+  },
+  {
+    "texto": "Quem Somos",
+    "url": "https://odia.ig.com.br/quem-somos"
+  },
+  {
+    "texto": "Faça sua denúncia",
+    "url": "https://odia.ig.com.br/institucional/2024/02/6787657-faca-sua-denuncia.html"
+  },
+  {
+    "texto": "Esqueceu sua senha?",
+    "url": "javascript:void(0);"
+  },
+  {
+    "texto": "termos de uso",
+    "url": "https://assine.odia.com.br/wp-content/themes/assinatura/termo/termo_de_adesao.pdf"
+  },
+  {
+    "texto": "Voltar a lista de planos",
+    "url": "javascript:void(0);"
+  }
+]

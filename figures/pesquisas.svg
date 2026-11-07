@@ -1,24 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450"><rect width="900" height="450" fill="white"/><g font-family="sans-serif"><text x="30" y="30" font-size="22">Datafolha · intenção estimulada total, com Garotinho</text>
-<polyline points="100,104.0 310,92.0 520,92.0 730,98.0" fill="none" stroke="#ad5622" stroke-width="3"/>
-<text x="100" y="94.0" fill="#ad5622">41%</text>
-<text x="310" y="82.0" fill="#ad5622">43%</text>
-<text x="520" y="82.0" fill="#ad5622">43%</text>
-<text x="730" y="88.0" fill="#ad5622">42%</text>
-<text x="760" y="98.0" fill="#ad5622">paes</text>
-<polyline points="100,236.0 310,200.0 520,170.0 730,164.0" fill="none" stroke="#266491" stroke-width="3"/>
-<text x="100" y="226.0" fill="#266491">19%</text>
-<text x="310" y="190.0" fill="#266491">25%</text>
-<text x="520" y="160.0" fill="#266491">30%</text>
-<text x="730" y="154.0" fill="#266491">31%</text>
-<text x="760" y="164.0" fill="#266491">ruas</text>
-<polyline points="100,296.0 310,290.0 520,302.0 730,308.0" fill="none" stroke="#666" stroke-width="3"/>
-<text x="100" y="286.0" fill="#666">9%</text>
-<text x="310" y="280.0" fill="#666">10%</text>
-<text x="520" y="292.0" fill="#666">8%</text>
-<text x="730" y="298.0" fill="#666">7%</text>
-<text x="760" y="308.0" fill="#666">garotinho</text>
-<text x="70" y="380">08-20</text>
-<text x="280" y="380">09-10</text>
-<text x="490" y="380">09-24</text>
-<text x="700" y="380">10-01</text>
-<text x="30" y="420">Datas: fim do campo. Espaçamento por onda; não é curva diária nem probabilidade de vitória.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 980"><rect width="980" height="980" fill="white"/>
+<g font-family="sans-serif">
+<text x="30" y="44" font-size="20">Datafolha · total estimulado, com Anthony</text>
+<polyline points="80.0,143.5 270.0,138.5 460.0,138.5 650.0,141.0 840.0,143.5" fill="none" stroke="#ad5622" stroke-width="3"/>
+<text x="80.0" y="135.5" fill="#ad5622" font-size="13" text-anchor="middle">41%</text>
+<text x="270.0" y="130.5" fill="#ad5622" font-size="13" text-anchor="middle">43%</text>
+<text x="460.0" y="130.5" fill="#ad5622" font-size="13" text-anchor="middle">43%</text>
+<text x="650.0" y="133.0" fill="#ad5622" font-size="13" text-anchor="middle">42%</text>
+<text x="840.0" y="135.5" fill="#ad5622" font-size="13" text-anchor="middle">41%</text>
+<text x="900" y="143.5" fill="#ad5622" font-size="14">Paes</text>
+<polyline points="80.0,198.5 270.0,183.5 460.0,171.0 650.0,168.5 840.0,161.0" fill="none" stroke="#266491" stroke-width="3"/>
+<text x="80.0" y="190.5" fill="#266491" font-size="13" text-anchor="middle">19%</text>
+<text x="270.0" y="175.5" fill="#266491" font-size="13" text-anchor="middle">25%</text>
+<text x="460.0" y="163.0" fill="#266491" font-size="13" text-anchor="middle">30%</text>
+<text x="650.0" y="160.5" fill="#266491" font-size="13" text-anchor="middle">31%</text>
+<text x="840.0" y="153.0" fill="#266491" font-size="13" text-anchor="middle">34%</text>
+<text x="900" y="161.0" fill="#266491" font-size="14">Ruas</text>
+<polyline points="80.0,223.5 270.0,221.0 460.0,226.0 650.0,228.5 840.0,231.0" fill="none" stroke="#666666" stroke-width="3"/>
+<text x="80.0" y="215.5" fill="#666666" font-size="13" text-anchor="middle">9%</text>
+<text x="270.0" y="213.0" fill="#666666" font-size="13" text-anchor="middle">10%</text>
+<text x="460.0" y="218.0" fill="#666666" font-size="13" text-anchor="middle">8%</text>
+<text x="650.0" y="220.5" fill="#666666" font-size="13" text-anchor="middle">7%</text>
+<text x="840.0" y="223.0" fill="#666666" font-size="13" text-anchor="middle">6%</text>
+<text x="900" y="231.0" fill="#666666" font-size="14">Anthony</text>
+<text x="80.0" y="270" font-size="13" text-anchor="middle">08-20</text>
+<text x="270.0" y="270" font-size="13" text-anchor="middle">09-10</text>
+<text x="460.0" y="270" font-size="13" text-anchor="middle">09-24</text>
+<text x="650.0" y="270" font-size="13" text-anchor="middle">10-01</text>
+<text x="840.0" y="270" font-size="13" text-anchor="middle">10-03</text>
+<text x="30" y="344" font-size="20">Paraná · total estimulado, com Anthony</text>
+<polyline points="80.0,434.8 333.3,437.2 586.7,438.2 840.0,441.2" fill="none" stroke="#ad5622" stroke-width="3"/>
+<text x="80.0" y="426.8" fill="#ad5622" font-size="13" text-anchor="middle">44,5%</text>
+<text x="333.3" y="429.2" fill="#ad5622" font-size="13" text-anchor="middle">43,5%</text>
+<text x="586.7" y="430.2" fill="#ad5622" font-size="13" text-anchor="middle">43,1%</text>
+<text x="840.0" y="433.2" fill="#ad5622" font-size="13" text-anchor="middle">41,9%</text>
+<text x="900" y="441.2" fill="#ad5622" font-size="14">Paes</text>
+<polyline points="80.0,507.2 333.3,495.2 586.7,479.2 840.0,470.8" fill="none" stroke="#266491" stroke-width="3"/>
+<text x="80.0" y="499.2" fill="#266491" font-size="13" text-anchor="middle">15,5%</text>
+<text x="333.3" y="487.2" fill="#266491" font-size="13" text-anchor="middle">20,3%</text>
+<text x="586.7" y="471.2" fill="#266491" font-size="13" text-anchor="middle">26,7%</text>
+<text x="840.0" y="462.8" fill="#266491" font-size="13" text-anchor="middle">30,1%</text>
+<text x="900" y="470.8" fill="#266491" font-size="14">Ruas</text>
+<polyline points="80.0,517.0 333.3,521.5 586.7,525.0 840.0,525.5" fill="none" stroke="#666666" stroke-width="3"/>
+<text x="80.0" y="509.0" fill="#666666" font-size="13" text-anchor="middle">11,6%</text>
+<text x="333.3" y="513.5" fill="#666666" font-size="13" text-anchor="middle">9,8%</text>
+<text x="586.7" y="517.0" fill="#666666" font-size="13" text-anchor="middle">8,4%</text>
+<text x="840.0" y="517.5" fill="#666666" font-size="13" text-anchor="middle">8,2%</text>
+<text x="900" y="525.5" fill="#666666" font-size="14">Anthony</text>
+<text x="80.0" y="570" font-size="13" text-anchor="middle">Agosto 2026*</text>
+<text x="333.3" y="570" font-size="13" text-anchor="middle">09-07</text>
+<text x="586.7" y="570" font-size="13" text-anchor="middle">09-22</text>
+<text x="840.0" y="570" font-size="13" text-anchor="middle">10-01</text>
+<text x="30" y="644" font-size="20">Atlas · total estimulado, com Anthony</text>
+<polyline points="80.0,737.0 333.3,731.8 586.7,735.8 840.0,730.0" fill="none" stroke="#ad5622" stroke-width="3"/>
+<text x="80.0" y="729.0" fill="#ad5622" font-size="13" text-anchor="middle">43,6%</text>
+<text x="333.3" y="723.8" fill="#ad5622" font-size="13" text-anchor="middle">45,7%</text>
+<text x="586.7" y="727.8" fill="#ad5622" font-size="13" text-anchor="middle">44,1%</text>
+<text x="840.0" y="722.0" fill="#ad5622" font-size="13" text-anchor="middle">46,4%</text>
+<text x="900" y="730.0" fill="#ad5622" font-size="14">Paes</text>
+<polyline points="80.0,777.0 333.3,765.0 586.7,756.8 840.0,751.0" fill="none" stroke="#266491" stroke-width="3"/>
+<text x="80.0" y="769.0" fill="#266491" font-size="13" text-anchor="middle">27,6%</text>
+<text x="333.3" y="757.0" fill="#266491" font-size="13" text-anchor="middle">32,4%</text>
+<text x="586.7" y="748.8" fill="#266491" font-size="13" text-anchor="middle">35,7%</text>
+<text x="840.0" y="743.0" fill="#266491" font-size="13" text-anchor="middle">38,0%</text>
+<text x="900" y="751.0" fill="#266491" font-size="14">Ruas</text>
+<polyline points="80.0,819.2 333.3,823.8 586.7,830.2 840.0,830.8" fill="none" stroke="#666666" stroke-width="3"/>
+<text x="80.0" y="811.2" fill="#666666" font-size="13" text-anchor="middle">10,7%</text>
+<text x="333.3" y="815.8" fill="#666666" font-size="13" text-anchor="middle">8,9%</text>
+<text x="586.7" y="822.2" fill="#666666" font-size="13" text-anchor="middle">6,3%</text>
+<text x="840.0" y="822.8" fill="#666666" font-size="13" text-anchor="middle">6,1%</text>
+<text x="900" y="830.8" fill="#666666" font-size="14">Anthony</text>
+<text x="80.0" y="870" font-size="13" text-anchor="middle">31 ago*</text>
+<text x="333.3" y="870" font-size="13" text-anchor="middle">20 set*</text>
+<text x="586.7" y="870" font-size="13" text-anchor="middle">09-27</text>
+<text x="586.7" y="886" font-size="11" text-anchor="middle" fill="#555">(28 set)</text>
+<text x="840.0" y="870" font-size="13" text-anchor="middle">10-02</text>
+<text x="840.0" y="886" font-size="11" text-anchor="middle" fill="#555">(03 Out)</text>
+<text x="30" y="930" font-size="14">Eixo por onda, com o mesmo espaçamento: não é proporcional aos dias e não é probabilidade de vitória. Séries separadas.</text>
+<text x="30" y="952" font-size="14">Data sem asterisco: fim de campo na ficha. Asterisco: rótulo do documento, sem período de campo confirmado. Entre parênteses: rótulo do gráfico quando a ficha traz outra data.</text>
+<text x="30" y="974" font-size="14">Quaest e Real Time Big Data ficam fora do desenho. A Quaest é fonte secundária e os válidos são modelo de eleitor provável. A Atlas de 3/10 é republicação, não o original do instituto.</text></g></svg>

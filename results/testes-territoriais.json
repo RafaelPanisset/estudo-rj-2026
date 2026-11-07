@@ -5,7 +5,11 @@
     "validos": 6272167,
     "margem_ruas": 82243,
     "aptos": 9542351,
-    "abstencao": 2267313
+    "abstencao": 2267313,
+    "nulos_tecnicos": 163644,
+    "validos_presidente_2026": 6913791,
+    "presidente22_2026": 3553846,
+    "presidente13_2026": 2827598
   },
   "metropolitana_sem_capital": {
     "DOUGLAS RUAS": 1697375,
@@ -13,7 +17,11 @@
     "validos": 3036993,
     "margem_ruas": 493204,
     "aptos": 4599641,
-    "abstencao": 974327
+    "abstencao": 974327,
+    "nulos_tecnicos": 103526,
+    "validos_presidente_2026": 3441917,
+    "presidente22_2026": 1891492,
+    "presidente13_2026": 1303081
   },
   "interior_fora_metropolitana": {
     "DOUGLAS RUAS": 1254102,
@@ -21,7 +29,11 @@
     "validos": 2122460,
     "margem_ruas": 481972,
     "aptos": 3300166,
-    "abstencao": 729337
+    "abstencao": 729337,
+    "nulos_tecnicos": 110767,
+    "validos_presidente_2026": 2455909,
+    "presidente22_2026": 1412998,
+    "presidente13_2026": 865423
   },
   "ruas_menos_presidente22": -695645,
   "municipios_ruas_supera_presidente22_absoluto": [
@@ -38,5 +50,103 @@
       16881
     ]
   ],
-  "top10_margem_fora_capital": 502396
+  "top10_margem_fora_capital": 502396,
+  "comparacao_presidencial": {
+    "nota": "Votos absolutos e percentuais dos válidos respondem perguntas diferentes. Nenhum dos dois identifica voto cruzado.",
+    "municipios_ruas_supera_flavio_em_votos": [
+      "CAMBUCI",
+      "TANGUÁ",
+      "SÃO GONÇALO"
+    ],
+    "municipios_ruas_supera_flavio_pct_validos": 62,
+    "municipios_ruas_supera_flavio_pct_com_anthony_no_denominador": 35,
+    "municipios_paes_supera_lula_pct_validos": 62,
+    "estado": {
+      "ruas_pct_validos": 50.88015226882624,
+      "paes_pct_validos": 44.15900789874285,
+      "ruas_pct_com_anthony": 49.269584468311244,
+      "flavio_pct_validos_presidenciais": 53.00963744837081,
+      "lula_pct_validos_presidenciais": 39.414506334247626,
+      "paes_pct_com_anthony": 42.76119218764527,
+      "validos_governador": 8394627,
+      "validos_presidente": 9369700
+    },
+    "capital": {
+      "ruas_pct_validos": 40.79292180266038,
+      "paes_pct_validos": 53.49582433587807,
+      "ruas_pct_com_anthony": 40.04871191991484,
+      "flavio_pct_validos_presidenciais": 47.88059704931688,
+      "lula_pct_validos_presidenciais": 43.910493295551625,
+      "paes_pct_com_anthony": 52.51986773857977,
+      "validos_governador": 3235174,
+      "validos_presidente": 3471874
+    },
+    "fora_da_capital": {
+      "ruas_pct_validos": 57.205230864589716,
+      "paes_pct_validos": 38.30446754723805,
+      "ruas_pct_com_anthony": 54.92401390017317,
+      "flavio_pct_validos_presidenciais": 56.02895032847697,
+      "lula_pct_validos_presidenciais": 36.767853103838604,
+      "paes_pct_com_anthony": 36.77697085050168,
+      "validos_governador": 5159453,
+      "validos_presidente": 5897826
+    }
+  },
+  "cenario_territorial_condicional": {
+    "nota": "Cenário, não estimativa. Supõe, sem verificação, que a RM do Datafolha seja a RM analítica de 22 municípios. Não exclui geografia intrarregional, comparecimento diferencial, não resposta nem seleção.",
+    "urna_rm": {
+      "paes": 45.60192957810601,
+      "ruas": 46.87982602348018,
+      "anthony": 2.5427098465135165,
+      "peso_nos_validos_com_anthony": 74.23904474752563
+    },
+    "urna_interior": {
+      "paes": 34.5746312399053,
+      "ruas": 56.15649461519138,
+      "anthony": 4.959952570876136,
+      "peso_nos_validos_com_anthony": 25.760955252474382
+    },
+    "ondas": [
+      {
+        "onda": "Datafolha 28/9-1/10",
+        "fonte": "PDF de 2/10, p.41",
+        "rm": [
+          50,
+          35,
+          6
+        ],
+        "interior": [
+          39,
+          35,
+          13
+        ],
+        "peso_amostra_citado_pct": 74.6,
+        "reponderacao_so_pelo_peso_da_urna": {
+          "paes": 47.16629492222782,
+          "ruas": 35.0,
+          "margem_paes": 12.16629492222782
+        }
+      },
+      {
+        "onda": "Datafolha 2-3/10",
+        "fonte": "PDF v2, p.36",
+        "rm": [
+          50,
+          35,
+          6
+        ],
+        "interior": [
+          35,
+          47,
+          8
+        ],
+        "peso_amostra_citado_pct": 75.3,
+        "reponderacao_so_pelo_peso_da_urna": {
+          "paes": 46.13585671212884,
+          "ruas": 38.09131463029692,
+          "margem_paes": 8.04454208183192
+        }
+      }
+    ]
+  }
 }

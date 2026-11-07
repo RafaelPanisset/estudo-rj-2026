@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Sat, 07 Nov 2026 11:33:09 GMT
+content-type: application/pdf
+content-length: 3859120
+cf-ray: a56c057cdac22072-IAD
+cf-cache-status: REVALIDATED
+accept-ranges: bytes
+cache-control: max-age=3600
+etag: "bb459f40be40ba7b48049bdef575a36a"
+last-modified: Sat, 03 Oct 2026 23:36:57 GMT
+server: cloudflare
+vary: accept-encoding
+x-amz-storage-class: STANDARD
+speculation-rules: "/cdn-cgi/speculation"
+

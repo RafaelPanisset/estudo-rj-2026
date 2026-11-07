@@ -1,0 +1,128 @@
+[
+  {
+    "id": "P01",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/04/panfletos-investigacao-mprj-tre.ghtml",
+    "obtido": "2026-11-07T08:46:00.296753-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "5fba4e7184e6965f6f8c094bb00ac9237f0870950bc014e0506caef15008ad05",
+    "bytes": 1204956,
+    "final_url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/04/panfletos-investigacao-mprj-tre.ghtml"
+  },
+  {
+    "id": "P02",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/coligacao-paes-denuncia-panfletos.ghtml",
+    "obtido": "2026-11-07T08:46:01.572512-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "dfbf0a2382b73f59ef531666a0f83f4046c25e1f1dd7845c10a252a992a4da3a",
+    "bytes": 1230140,
+    "final_url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/coligacao-paes-denuncia-panfletos.ghtml"
+  },
+  {
+    "id": "P03",
+    "url": "https://conjur.com.br/wp-content/uploads/2026/11/AIJE-ERJ-EP-v.-DR-2.pdf",
+    "obtido": "2026-11-07T08:46:02.761266-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "bb99391a2ae57dd0c78d6182ebff5e188e4a59f175b2c6a5a92dcdd6147b93f4",
+    "bytes": 5524813,
+    "final_url": "https://conjur.com.br/wp-content/uploads/2026/11/AIJE-ERJ-EP-v.-DR-2.pdf"
+  },
+  {
+    "id": "P04",
+    "url": "https://www.tre-rj.jus.br/comunicacao/noticias/2026/Outubro",
+    "obtido": "2026-11-07T08:46:03.028980-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 403,
+    "sha256": "92f3760deef0ead52284cf3315a35628954ad9b23b9d199b79fa79597070a280",
+    "bytes": 422,
+    "final_url": "https://www.tre-rj.jus.br/comunicacao/noticias/2026/Outubro",
+    "nota": "HTTP403direto; WebFetchlegível, extratos salvos emoficiais-webfetch-excertos.md."
+  },
+  {
+    "id": "P05",
+    "url": "https://odia.ig.com.br/eleicoes/2026/10/7309637-paes-denuncia-a-justica-panfletos-que-o-associam-aos-numeros-13-e-22.html",
+    "obtido": "2026-11-07T08:46:03.401111-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "c6841e6ed984f553c3d4dde58c8bd7e1a79dc6635cf8103e24cd7be0a48c5e02",
+    "bytes": 130748,
+    "final_url": "https://odia.ig.com.br/eleicoes/2026/10/7309637-paes-denuncia-a-justica-panfletos-que-o-associam-aos-numeros-13-e-22.html"
+  },
+  {
+    "id": "P06",
+    "url": "https://prensadebabel.com.br/paes-panfletos-13-22-justica-eleitoral/",
+    "obtido": "2026-11-07T08:46:03.664644-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "665a9e82d6fab0f2f36a925a556a6e5484e66be50214f2bf83d4b7ec5eb3b414",
+    "bytes": 336871,
+    "final_url": "https://prensadebabel.com.br/paes-panfletos-13-22-justica-eleitoral/"
+  },
+  {
+    "id": "P07",
+    "url": "https://conjur.com.br/wp-content/uploads/2026/10/0600024-96.2026.6.19.0238-3.pdf",
+    "obtido": "2026-11-07T08:46:32.561836-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 403,
+    "sha256": "9c8c654fe26ffff624d54b10e91c30938ac4019fe8c64eb6d739783b9b5f10d0",
+    "bytes": 162,
+    "nota": "HTTP403, resposta HTML com extensão.pdf; não é petição lida nem PDFválido."
+  },
+  {
+    "id": "IMG22",
+    "url": "https://s2-g1.glbimg.com/cC0-gXngJy0h3GHQT7cT151Ngd0=/1431x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/C/QXVAa1SJ24D6PM8RBX7Q/whatsapp-image-2026-10-04-at-12.27.23-2-.jpeg",
+    "obtido": "2026-11-07T08:46:34.005850-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "544461711f6d15353f011b87f5da26e1bd82629b31b5848e48a131042b294df0",
+    "bytes": 303446
+  },
+  {
+    "id": "IMG13",
+    "url": "https://s2-g1.glbimg.com/qJMJdGtEpGKzSWsdt_x1JLoC874=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/X/rWUTw8Qku1lS1YvhMBkA/panfleto-cortada.jpg",
+    "obtido": "2026-11-07T08:46:35.381308-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "4ed20893bc9eef822a2bf6ee32e6079367e7e336001176b7415c9b43eb9ea034",
+    "bytes": 117263
+  },
+  {
+    "id": "P08",
+    "url": "https://pje.tre-rj.jus.br/pje/Processo/ConsultaDocumento/listView.seam",
+    "obtido": "2026-11-07T08:47:37.282181-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "ecfa40ebf57be24aa7aaa57c00c2821aeaaf57abf92fd98d6136a9d15f9df766",
+    "bytes": 55294
+  },
+  {
+    "id": "P09",
+    "url": "https://www.tre-rj.jus.br/comunicacao/noticias/2025/Janeiro/consulta-ao-pje-permite-ao-cidadao-acompanhar-processos-na-justica-eleitoral",
+    "obtido": "2026-11-07T08:47:37.471542-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 403,
+    "sha256": "f45b04d5b017404cbb56db436a8bfdb0f17f3182d3a79917f8996997f4af5fc1",
+    "bytes": 543,
+    "nota": "HTTP403direto; WebFetchlegível, extratos salvos emoficiais-webfetch-excertos.md."
+  },
+  {
+    "id": "P10",
+    "url": "https://odia.ig.com.br/eleicoes/2026/10/7308884-tre-rj-registra-prisoes-por-boca-de-urna-e-relatos-de-compra-de-votos.html",
+    "obtido": "2026-11-07T08:47:37.724878-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "6ef1e9e64a1aae92a5cc17e43bf92b88a26b93ef622c456aed46cce03797e920",
+    "bytes": 135850
+  },
+  {
+    "id": "P11",
+    "url": "https://conjur.com.br/2026-out-06/paes-pede-proibicao-de-panfletos-que-o-associam-a-numero-de-douglas-ruas-ou-do-pt/",
+    "obtido": "2026-11-07T08:47:38.050424-03:00",
+    "zona": "America/Sao_Paulo",
+    "status": 200,
+    "sha256": "32028528457c049212fb9f18df576020e618c6a7679129003f93b04030322b10",
+    "bytes": 145494
+  }
+]

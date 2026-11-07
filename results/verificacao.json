@@ -4,8 +4,9 @@
     "eligible = turnout + abstention in all municipal-zones",
     "valid + blank + null = turnout in all municipal-zones",
     "92 municipalities uniquely partitioned",
-    "state totals reconcile with TRE retabulation"
+    "state totals match embedded constants 8394627, 4271199, 3706984 and 274411"
   ],
+  "nota": "Conferência contra constantes do código, iguais aos recortes TSE deste repositório. Não há snapshot local da página do TRE: o download direto deu 403 em data/download-manifest.json.",
   "sha256": {
     "raw/detalhe-2026-RJ.csv": "4a51adb85809a0416ad4c23f6c4ec8a3a8ce1694c56a85462e2bbc7ec5c013e2",
     "raw/presidente-2022-RJ.csv": "858b1a2ae4a8fc4dffe8492cabb3564c16053e40c213f72f66fc6edd50430861",

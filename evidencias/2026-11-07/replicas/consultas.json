@@ -1,0 +1,42 @@
+{
+  "obtido": "2026-11-07T08:48:32.354663-03:00",
+  "zona": "America/Sao_Paulo",
+  "consultas": [
+    {
+      "query": "site:tre-rj.jus.br 2026 \"Paes\" \"panfletos\" \"Nova Iguaçu\"",
+      "resultado_limitado": "Resultado sobre memória/eleições2024; não é documento do incidente2026. Nenhuma nota/auto específico localizado."
+    },
+    {
+      "query": "site:tre-rj.jus.br \"2026\" \"santinhos\" \"Paes\"",
+      "resultado_limitado": "Cartilha e páginas gerais, diploma2024; não nota específica nem auto."
+    },
+    {
+      "query": "site:mprj.mp.br \"2026\" \"panfletos\" \"Paes\"",
+      "resultado_limitado": "Normas/portarias/ouvidoria e nomes homônimos; não inquérito/auto específico."
+    },
+    {
+      "query": "\"2026\" \"Paes\" \"13 e 22\" \"processo\" gráfica",
+      "resultado_limitado": "O Dia, Prensa e PDF AIJE ConJur; origem de novos localizadores, não confirmação de mérito."
+    },
+    {
+      "query": "\"0600024-96.2026.6.19.0238\"",
+      "resultado_limitado": "PDF de petição de outubro/ConJur e reportagens. PDF retornou403 no download; não lido como PDF."
+    },
+    {
+      "query": "site:tre-rj.jus.br \"0600024-96.2026\"",
+      "resultado_limitado": "Orientação geral de consulta PJe, não processo específico. Síntese mudou indevidamente o número para6.00.0000: descartada."
+    },
+    {
+      "query": "\"Grok Bot\" \"PJe\" consulta pública documento eleitoral",
+      "resultado_limitado": "Pesquisa de método unblock: sem método específico comprovado; resumo automático afirma indevidamente que eleitorais não tramitam noPJe, contradito por orientação oficial P09; descartado."
+    }
+  ],
+  "unblock": {
+    "skill": "lida integralmente",
+    "memoria": "RecallMemory sem resultados",
+    "x_query": "\"Grok Bot\" \"PJe\"",
+    "x_resultado": "0 posts",
+    "metodo_oficial": "P09 informa consulta pública sem login para processos públicos; validação P08 aberta não trouxe o documento",
+    "limite": "Não houve login, browser, integração, token, captcha ou API interna; não houve nova busca ilimitada."
+  }
+}
