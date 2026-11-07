@@ -1,0 +1,146 @@
+[
+  {
+    "file": "raw/ibge-municipios.json",
+    "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/33/municipios",
+    "obtained_at": "2026-11-07T10:49:39.617576+00:00",
+    "content_encoding": "gzip",
+    "final_url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/33/municipios",
+    "status": "downloaded",
+    "bytes": 43116,
+    "sha256": "9259126c654f7825fe7228a8070bb1775b4a5f6f283ea2b33738c588c6991c12"
+  },
+  {
+    "file": "raw/ibge-malha.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/malhas/estados/33?formato=application/vnd.geo+json&qualidade=minima&intrarregiao=municipio",
+    "obtained_at": "2026-11-07T10:49:39.618594+00:00",
+    "content_encoding": "gzip",
+    "final_url": "https://servicodados.ibge.gov.br/api/v3/malhas/estados/33?formato=application/vnd.geo+json&qualidade=minima&intrarregiao=municipio",
+    "status": "downloaded",
+    "bytes": 46987,
+    "sha256": "e40ff0e8b87be8e95cc88b1197c28e0c831a9c825baa6b4e99a9ced063631be8"
+  },
+  {
+    "file": "raw/parana-setembro.pdf",
+    "url": "https://paranapesquisas.com.br/wp-content/uploads/2026/09/RJ_Set26.pdf",
+    "obtained_at": "2026-11-07T10:49:39.619232+00:00",
+    "content_encoding": null,
+    "final_url": "https://paranapesquisas.com.br/wp-content/uploads/2026/09/RJ_Set26.pdf",
+    "status": "downloaded",
+    "bytes": 590258,
+    "sha256": "162ae44b3d033cb8121f081695f0a3a322c5ebfa8d03e4d0efb96ac99b6c3166"
+  },
+  {
+    "file": "raw/atlas-setembro.pdf",
+    "url": "https://cdn1.atlasintel.org/pesquisa_atlas__eleicoes_rio_de_janeiro_2026__260928_692ebb57cee1632a.pdf",
+    "obtained_at": "2026-11-07T10:49:39.619684+00:00",
+    "content_encoding": null,
+    "final_url": "https://cdn1.atlasintel.org/pesquisa_atlas__eleicoes_rio_de_janeiro_2026__260928_692ebb57cee1632a.pdf",
+    "status": "downloaded",
+    "bytes": 2700339,
+    "sha256": "200b30bbf8eb8d231fc5470dd6cdc744ed87feb25996f9ea7c67787d20eec121"
+  },
+  {
+    "file": "raw/datafolha-outubro.pdf",
+    "url": "https://media.folha.uol.com.br/datafolha/2026/10/02/n99iwiwkfastqk40w8-wzdovosu-7-st-wj-w16-788.pdf",
+    "obtained_at": "2026-11-07T10:49:39.620310+00:00",
+    "content_encoding": null,
+    "final_url": "https://media.folha.uol.com.br/datafolha/2026/10/02/n99iwiwkfastqk40w8-wzdovosu-7-st-wj-w16-788.pdf",
+    "status": "downloaded",
+    "bytes": 1497033,
+    "sha256": "bf011e5547f5f9358c63ad64d679c712753f9638ea23fb0ff09764cc184fd503"
+  },
+  {
+    "file": "raw/datafolha-outubro.html",
+    "url": "https://datafolha.folha.uol.com.br/eleicoes/2026/10/eduardo-paes-psd-mantem-a-lideranca-com-47-dos-votos-validos-douglas-ruas-pl-cresce-e-alcanca-35.shtml",
+    "obtained_at": "2026-11-07T10:49:39.620871+00:00",
+    "content_encoding": null,
+    "final_url": "https://datafolha.folha.uol.com.br/eleicoes/2026/10/eduardo-paes-psd-mantem-a-lideranca-com-47-dos-votos-validos-douglas-ruas-pl-cresce-e-alcanca-35.shtml",
+    "status": "downloaded",
+    "bytes": 129038,
+    "sha256": "f97abc70a1ab7ef3aa9fd5b4d20420afb055c739b8a40233b78832d14c090908"
+  },
+  {
+    "file": "raw/tre-retotalizacao.html",
+    "url": "https://www.tre-rj.jus.br/comunicacao/noticias/2026/Outubro/retotalizacao-de-votos-aponta-douglas-ruas-como-vencedor-no-primeiro-turno-para-o-governo-do-rj",
+    "obtained_at": "2026-11-07T10:49:39.872152+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "raw/tre-proclamacao.html",
+    "url": "https://www.tre-rj.jus.br/comunicacao/noticias/2026/Outubro/tre-rj-proclama-douglas-ruas-pl-governador-eleito",
+    "obtained_at": "2026-11-07T10:49:39.876496+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "raw/senado-julgamento.html",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/10/08/rio-de-janeiro-garotinho-tem-votos-anulados-e-douglas-ruas-sera-declarado-governador-eleito",
+    "obtained_at": "2026-11-07T10:49:39.897132+00:00",
+    "content_encoding": null,
+    "final_url": "https://www12.senado.leg.br/noticias/materias/2026/10/08/rio-de-janeiro-garotinho-tem-votos-anulados-e-douglas-ruas-sera-declarado-governador-eleito",
+    "status": "downloaded",
+    "bytes": 55512,
+    "sha256": "a0aa71ccd6e4e50bf291f79f28abfc8f9c1a48c772ed827f15763ec44285a969"
+  },
+  {
+    "file": "raw/quaest-final-cnn.html",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-eduardo-paes-tem-49-no-1o-turno-no-rj-douglas-ruas-40/",
+    "obtained_at": "2026-11-07T10:49:39.932598+00:00",
+    "content_encoding": null,
+    "final_url": "https://www.cnnbrasil.com.br/eleicoes/quaest-eduardo-paes-tem-49-no-1o-turno-no-rj-douglas-ruas-40/",
+    "status": "downloaded",
+    "bytes": 415972,
+    "sha256": "53bd8017d569f4bcb4ed80a2eadab41285b413e45f2ed485c956def9d15f3ffd"
+  },
+  {
+    "file": "raw/wladimir-apoio.html",
+    "url": "https://www.nfnoticias.com.br/noticia-56820/eleito-deputado-federal-wladimir-garotinho-declara-apoio-a-douglas-ruas-no-20-turno-no-rj",
+    "obtained_at": "2026-11-07T10:49:40.586404+00:00",
+    "content_encoding": null,
+    "final_url": "https://www.nfnoticias.com.br/noticia-56820/eleito-deputado-federal-wladimir-garotinho-declara-apoio-a-douglas-ruas-no-20-turno-no-rj",
+    "status": "downloaded",
+    "bytes": 57596,
+    "sha256": "1e77d24e7d42d233b0ca9248bc193d67d314f8b4f80dfacca732897729ade371"
+  },
+  {
+    "file": "raw/prefeitos.html",
+    "url": "https://exame.com/brasil/disputa-por-prefeitos-acirra-corrida-ao-governo-do-rio-entre-paes-e-douglas-ruas/",
+    "obtained_at": "2026-11-07T10:49:40.903758+00:00",
+    "content_encoding": "gzip",
+    "final_url": "https://exame.com/brasil/disputa-por-prefeitos-acirra-corrida-ao-governo-do-rio-entre-paes-e-douglas-ruas/",
+    "status": "downloaded",
+    "bytes": 249543,
+    "sha256": "f2ff73d87182c44dba4fb8546b92b40e4474debe0b29681e0ca6014da879565b"
+  },
+  {
+    "file": "raw/garotinho-apoios.html",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/garotinho-rejeita-paes-pondera-sobre-ruas-e-enfrenta-reves-na-justica/",
+    "obtained_at": "2026-11-07T10:49:41.033175+00:00",
+    "content_encoding": null,
+    "final_url": "https://www.cnnbrasil.com.br/eleicoes/garotinho-rejeita-paes-pondera-sobre-ruas-e-enfrenta-reves-na-justica/",
+    "status": "downloaded",
+    "bytes": 398362,
+    "sha256": "4607f580e9c16cd37a7b9bc2d03224ccebdd8e9ae15d9976551cff39e4b92af7"
+  },
+  {
+    "file": "raw/lupa-sabatinas.html",
+    "url": "https://www.agencialupa.org/checagem/2026/09/11/em-sabatina-ruas-e-paes-omitem-processos-e-tiram-de-contexto-dados-sobre-o-rio/",
+    "obtained_at": "2026-11-07T10:49:41.429197+00:00",
+    "content_encoding": null,
+    "final_url": "https://www.agencialupa.org/checagem/2026/09/11/em-sabatina-ruas-e-paes-omitem-processos-e-tiram-de-contexto-dados-sobre-o-rio/",
+    "status": "downloaded",
+    "bytes": 374856,
+    "sha256": "6f2bc4f8fab359bffa0febb9fc018a9b70dda59cc56e665de84ef2278968e929"
+  },
+  {
+    "file": "raw/acao-novembro.html",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/eduardo-paes-pede-ao-tre-rj-cassacao-de-chapa-de-douglas-ruas/",
+    "obtained_at": "2026-11-07T10:49:41.566646+00:00",
+    "content_encoding": null,
+    "final_url": "https://www.cnnbrasil.com.br/eleicoes/eduardo-paes-pede-ao-tre-rj-cassacao-de-chapa-de-douglas-ruas/",
+    "status": "downloaded",
+    "bytes": 424550,
+    "sha256": "cc8c1db2cb83cd31d3fc1bc7db0dee694c60b5b594e6169abdce6891ac51f306"
+  }
+]

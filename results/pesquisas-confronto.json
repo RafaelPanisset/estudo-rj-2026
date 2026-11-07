@@ -1,0 +1,47 @@
+[
+  {
+    "instituto": "Datafolha",
+    "campo_fim": "2026-10-01",
+    "cenario": "com Garotinho",
+    "margem_pesquisa_paes": 12.0,
+    "margem_resultado_paes": -6.508392280665966,
+    "diferenca_margens_pp": 18.508392280665966,
+    "nota": "Diferença pesquisa-resultado; não mede erro amostral puro nem mudança individual."
+  },
+  {
+    "instituto": "Datafolha",
+    "campo_fim": "2026-10-01",
+    "cenario": "sem Garotinho",
+    "margem_pesquisa_paes": 10.0,
+    "margem_resultado_paes": -6.721144370083387,
+    "diferenca_margens_pp": 16.721144370083387,
+    "nota": "Diferença pesquisa-resultado; não mede erro amostral puro nem mudança individual."
+  },
+  {
+    "instituto": "Atlas",
+    "campo_fim": "2026-09-27",
+    "cenario": "com Garotinho",
+    "margem_pesquisa_paes": 8.600000000000001,
+    "margem_resultado_paes": -6.508392280665966,
+    "diferenca_margens_pp": 15.108392280665967,
+    "nota": "Diferença pesquisa-resultado; não mede erro amostral puro nem mudança individual."
+  },
+  {
+    "instituto": "Quaest",
+    "campo_fim": "2026-10-03",
+    "cenario": "com Garotinho",
+    "margem_pesquisa_paes": 9.0,
+    "margem_resultado_paes": -6.508392280665966,
+    "diferenca_margens_pp": 15.508392280665966,
+    "nota": "Diferença pesquisa-resultado; não mede erro amostral puro nem mudança individual."
+  },
+  {
+    "instituto": "Quaest",
+    "campo_fim": "2026-10-03",
+    "cenario": "sem Garotinho",
+    "margem_pesquisa_paes": 8.0,
+    "margem_resultado_paes": -6.721144370083387,
+    "diferenca_margens_pp": 14.721144370083387,
+    "nota": "Diferença pesquisa-resultado; não mede erro amostral puro nem mudança individual."
+  }
+]

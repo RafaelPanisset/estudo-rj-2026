@@ -1,0 +1,12 @@
+instituto,campo_inicio,campo_fim,divulgacao,cenario,denominador,paes,ruas,garotinho,brancos_nulos,indecisos,n,margem_pp,metodo,registro,fonte,observacao
+Datafolha,2026-08-18,2026-08-20,2026-08-21,com Garotinho,total,41,19,9,16,4,,,pontos de fluxo,,raw/datafolha-outubro.pdf,Série retrospectiva do PDF; ficha original desta onda não obtida
+Datafolha,2026-09-08,2026-09-10,2026-09-11,com Garotinho,total,43,25,10,9,3,,,pontos de fluxo,,raw/datafolha-outubro.pdf,Série retrospectiva do PDF; ficha original desta onda não obtida
+Datafolha,2026-09-22,2026-09-24,2026-09-24,com Garotinho,total,43,30,8,6,4,,,pontos de fluxo,,raw/datafolha-outubro.pdf,Série retrospectiva do PDF; ficha original desta onda não obtida
+Datafolha,2026-09-28,2026-10-01,2026-10-02,com Garotinho,total,42,31,7,8,4,1204,3,presencial pontos de fluxo,RJ-02070/2026,raw/datafolha-outubro.pdf,Ficha p2 inicia 28/9; narrativa p5 inicia 29/9
+Datafolha,2026-09-28,2026-10-01,2026-10-02,com Garotinho,validos,47,35,8,,,1204,3,presencial pontos de fluxo,RJ-02070/2026,raw/datafolha-outubro.pdf,Não comparar diretamente com resultado sem Garotinho
+Datafolha,2026-09-28,2026-10-01,2026-10-02,sem Garotinho,validos,48,38,,,,1204,3,presencial pontos de fluxo,RJ-02070/2026,raw/datafolha-outubro.pdf,Cenário alternativo não é simples renormalização
+Paraná,2026-09-05,2026-09-07,2026-09-08,com Garotinho,total,43.5,20.3,9.8,9.4,6.7,1600,2.5,presencial domiciliar PPT e quotas,RJ-01671/2026,raw/parana-setembro.pdf,p3 metodologia p8 cenário
+Atlas,2026-09-22,2026-09-27,2026-09-29,com Garotinho,total,44.1,35.7,6.3,2,0,1836,2,Atlas RDR digital pós-estratificado,RJ-09456/2026,raw/atlas-setembro.pdf,p5 metodologia p8 gráfico verificado visualmente
+Atlas,2026-09-22,2026-09-27,2026-09-29,com Garotinho,validos,45,36.4,6.4,,,1836,2,Atlas RDR digital pós-estratificado,RJ-09456/2026,raw/atlas-setembro.pdf,p9 gráfico verificado visualmente
+Quaest,2026-10-02,2026-10-03,2026-10-03,com Garotinho,validos,49,40,6,,,3204,2,não confirmado no original,RJ-03032/2026,raw/quaest-final-cnn.html,Fonte secundária; relatório original não obtido
+Quaest,2026-10-02,2026-10-03,2026-10-03,sem Garotinho,validos,51,43,,,,3204,2,não confirmado no original,RJ-03032/2026,raw/quaest-final-cnn.html,Fonte secundária; cenário alternativo

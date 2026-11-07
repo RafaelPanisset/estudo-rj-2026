@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+# Original TSE archive preserved as a private release asset (dados-v1).
+/raw/secoes-RJ.zip
+# Reviewers work outside the reference checkout.
+/revisao/

@@ -1,0 +1,98 @@
+[
+  {
+    "file": "raw/acao-novembro.html",
+    "sha256": "cc8c1db2cb83cd31d3fc1bc7db0dee694c60b5b594e6169abdce6891ac51f306"
+  },
+  {
+    "file": "raw/atlas-setembro.pdf",
+    "sha256": "200b30bbf8eb8d231fc5470dd6cdc744ed87feb25996f9ea7c67787d20eec121"
+  },
+  {
+    "file": "raw/atlas-setembro.txt",
+    "sha256": "e941f6a4b27ccb9a9cd5e833367f66d422e942eae7176bb922a5cc534f2ee0d6"
+  },
+  {
+    "file": "raw/datafolha-outubro.html",
+    "sha256": "f97abc70a1ab7ef3aa9fd5b4d20420afb055c739b8a40233b78832d14c090908"
+  },
+  {
+    "file": "raw/datafolha-outubro.pdf",
+    "sha256": "bf011e5547f5f9358c63ad64d679c712753f9638ea23fb0ff09764cc184fd503"
+  },
+  {
+    "file": "raw/datafolha-outubro.txt",
+    "sha256": "71321b0209786c6ec539f38744cdf8898de4b79448db409da7e548691e317c19"
+  },
+  {
+    "file": "raw/detalhe-2026-RJ.csv",
+    "sha256": "4a51adb85809a0416ad4c23f6c4ec8a3a8ce1694c56a85462e2bbc7ec5c013e2"
+  },
+  {
+    "file": "raw/garotinho-apoios.html",
+    "sha256": "4607f580e9c16cd37a7b9bc2d03224ccebdd8e9ae15d9976551cff39e4b92af7"
+  },
+  {
+    "file": "raw/ibge-malha.json",
+    "sha256": "e40ff0e8b87be8e95cc88b1197c28e0c831a9c825baa6b4e99a9ced063631be8"
+  },
+  {
+    "file": "raw/ibge-municipios.json",
+    "sha256": "9259126c654f7825fe7228a8070bb1775b4a5f6f283ea2b33738c588c6991c12"
+  },
+  {
+    "file": "raw/lupa-sabatinas.html",
+    "sha256": "6f2bc4f8fab359bffa0febb9fc018a9b70dda59cc56e665de84ef2278968e929"
+  },
+  {
+    "file": "raw/parana-setembro.pdf",
+    "sha256": "162ae44b3d033cb8121f081695f0a3a322c5ebfa8d03e4d0efb96ac99b6c3166"
+  },
+  {
+    "file": "raw/parana-setembro.txt",
+    "sha256": "62e0482dcbae9fa5e065bced7768b4fb6bc26f341e649e5910b9352d3075282a"
+  },
+  {
+    "file": "raw/prefeitos.html",
+    "sha256": "f2ff73d87182c44dba4fb8546b92b40e4474debe0b29681e0ca6014da879565b"
+  },
+  {
+    "file": "raw/presidente-2022-RJ.csv",
+    "sha256": "858b1a2ae4a8fc4dffe8492cabb3564c16053e40c213f72f66fc6edd50430861"
+  },
+  {
+    "file": "raw/presidente-2026-RJ.csv",
+    "sha256": "077aaf96e6cf16575406290c24a9b73a200d0fb11ca0ed9524226caac956c1c9"
+  },
+  {
+    "file": "raw/quaest-final-cnn.html",
+    "sha256": "53bd8017d569f4bcb4ed80a2eadab41285b413e45f2ed485c956def9d15f3ffd"
+  },
+  {
+    "file": "raw/secoes-RJ.zip",
+    "sha256": "ec93c020ae1f0088216de92e5acc5d3211aefaf1fa589b961132bbf471ee3cf5"
+  },
+  {
+    "file": "raw/secoes-governador.csv",
+    "sha256": "96664f342d206910a2884fe688c74343f2cc01a495fe57e70f6828705a6278ff"
+  },
+  {
+    "file": "raw/senado-julgamento.html",
+    "sha256": "a0aa71ccd6e4e50bf291f79f28abfc8f9c1a48c772ed827f15763ec44285a969"
+  },
+  {
+    "file": "raw/votacao-2022-RJ.csv",
+    "sha256": "2d947b51afc381f6d83e7723d6520f0c1de9d48674cde6dc9e1ebc237df6f2df"
+  },
+  {
+    "file": "raw/votacao-2026-RJ.csv",
+    "sha256": "03078751a36c9ceddf97a4ffac79a834e2545f65d97e0a432605a1eb2ce83872"
+  },
+  {
+    "file": "raw/wladimir-apoio.html",
+    "sha256": "1e77d24e7d42d233b0ca9248bc193d67d314f8b4f80dfacca732897729ade371"
+  },
+  {
+    "file": "data/pesquisas.csv",
+    "sha256": "af5718460e931f9a7e64d597add516d7e9c866cc4146563bde1268352325cc05"
+  }
+]

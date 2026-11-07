@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "method": "empty results and figures; copied code/data/docs; raw snapshots read through symlink; offline",
+  "compared_outputs": [
+    "results/pesquisas-confronto.json",
+    "results/municipios.csv",
+    "results/verificacao.json",
+    "results/secoes.csv",
+    "results/secoes-resumo.json",
+    "results/regioes.csv",
+    "results/testes-territoriais.json",
+    "results/resumo.json",
+    "results/zonas.csv",
+    "results/TABELAS.md",
+    "figures/abstencao.svg",
+    "figures/pesquisas.svg",
+    "figures/margem.svg"
+  ],
+  "exit_code": 0
+}

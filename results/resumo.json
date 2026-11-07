@@ -1,0 +1,149 @@
+{
+  "estado": {
+    "DOUGLAS RUAS": 4271199,
+    "EDUARDO PAES": 3706984,
+    "validos": 8394627,
+    "aptos": 12842517,
+    "comparecimento": 9845867,
+    "abstencao": 2996650,
+    "brancos": 501537,
+    "nulos": 949703,
+    "nulos_tecnicos": 274411,
+    "ruas_deputado_2022": 175977,
+    "castro_2022": 4930288,
+    "freixo_2022": 2300980,
+    "validos_governo_2022": 8400962,
+    "presidente22_2026": 4966844,
+    "presidente13_2026": 3693021,
+    "validos_presidente_2026": 9369700,
+    "presidente22_2022": 4831246,
+    "presidente13_2022": 3847143,
+    "validos_presidente_2022": 9456677,
+    "margem_ruas": 564215,
+    "ruas_pct": 50.88015226882624,
+    "paes_pct": 44.15900789874285,
+    "abstencao_pct": 23.333821555385132
+  },
+  "capital": {
+    "DOUGLAS RUAS": 1319722,
+    "EDUARDO PAES": 1730683,
+    "validos": 3235174,
+    "aptos": 4942710,
+    "comparecimento": 3649724,
+    "abstencao": 1292986,
+    "brancos": 135047,
+    "nulos": 279503,
+    "nulos_tecnicos": 60118,
+    "ruas_deputado_2022": 4328,
+    "castro_2022": 1572874,
+    "freixo_2022": 1119201,
+    "validos_governo_2022": 3209270,
+    "presidente22_2026": 1662354,
+    "presidente13_2026": 1524517,
+    "validos_presidente_2026": 3471874,
+    "presidente22_2022": 1695777,
+    "presidente13_2022": 1568485,
+    "validos_presidente_2022": 3608284,
+    "margem_ruas": -410961,
+    "ruas_pct": 40.79292180266038,
+    "paes_pct": 53.49582433587807,
+    "abstencao_pct": 26.1594550358002
+  },
+  "fora_capital": {
+    "DOUGLAS RUAS": 2951477,
+    "EDUARDO PAES": 1976301,
+    "validos": 5159453,
+    "aptos": 7899807,
+    "comparecimento": 6196143,
+    "abstencao": 1703664,
+    "brancos": 366490,
+    "nulos": 670200,
+    "nulos_tecnicos": 214293,
+    "ruas_deputado_2022": 171649,
+    "castro_2022": 3357414,
+    "freixo_2022": 1181779,
+    "validos_governo_2022": 5191692,
+    "presidente22_2026": 3304490,
+    "presidente13_2026": 2168504,
+    "validos_presidente_2026": 5897826,
+    "presidente22_2022": 3135469,
+    "presidente13_2022": 2278658,
+    "validos_presidente_2022": 5848393,
+    "margem_ruas": 975176,
+    "ruas_pct": 57.205230864589716,
+    "paes_pct": 38.30446754723805,
+    "abstencao_pct": 21.56589395158641
+  },
+  "municipios": 92,
+  "zonas_municipais": 183,
+  "municipios_ruas_vence": 79,
+  "zonas_capital_ruas_vence": 9,
+  "zonas_capital": 49,
+  "ruas_base_2022_sao_goncalo": 149576,
+  "candidatos": [
+    {
+      "nome": "DOUGLAS RUAS",
+      "numero": "22",
+      "partido": "PL",
+      "situacao": "ELEITO",
+      "votos": 4271199
+    },
+    {
+      "nome": "EDUARDO PAES",
+      "numero": "55",
+      "partido": "PSD",
+      "situacao": "NÃO ELEITO",
+      "votos": 3706984
+    },
+    {
+      "nome": "WILLIAM SIRI",
+      "numero": "50",
+      "partido": "PSOL",
+      "situacao": "NÃO ELEITO",
+      "votos": 235347
+    },
+    {
+      "nome": "CORONEL BUSNELLO",
+      "numero": "14",
+      "partido": "MISSÃO",
+      "situacao": "NÃO ELEITO",
+      "votos": 84889
+    },
+    {
+      "nome": "ANDRÉ MARINHO",
+      "numero": "30",
+      "partido": "NOVO",
+      "situacao": "NÃO ELEITO",
+      "votos": 45359
+    },
+    {
+      "nome": "JULIETE",
+      "numero": "80",
+      "partido": "UP",
+      "situacao": "NÃO ELEITO",
+      "votos": 33430
+    },
+    {
+      "nome": "CYRO GARCIA",
+      "numero": "16",
+      "partido": "PSTU",
+      "situacao": "NÃO ELEITO",
+      "votos": 14642
+    },
+    {
+      "nome": "LUAN MONTEIRO",
+      "numero": "29",
+      "partido": "PCO",
+      "situacao": "NÃO ELEITO",
+      "votos": 2777
+    }
+  ],
+  "retotalizacao": {
+    "garotinho_votos_documentados": 274411,
+    "denominador_antes": 8669038,
+    "denominador_depois": 8394627,
+    "ruas_pct_antes": 49.269584468311244,
+    "votos_acima_metade_depois": 73885.5,
+    "margem_inalterada": 564215
+  }
+}

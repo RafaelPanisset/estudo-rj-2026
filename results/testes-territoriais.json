@@ -1,0 +1,42 @@
+{
+  "metropolitana_22": {
+    "DOUGLAS RUAS": 3017097,
+    "EDUARDO PAES": 2934854,
+    "validos": 6272167,
+    "margem_ruas": 82243,
+    "aptos": 9542351,
+    "abstencao": 2267313
+  },
+  "metropolitana_sem_capital": {
+    "DOUGLAS RUAS": 1697375,
+    "EDUARDO PAES": 1204171,
+    "validos": 3036993,
+    "margem_ruas": 493204,
+    "aptos": 4599641,
+    "abstencao": 974327
+  },
+  "interior_fora_metropolitana": {
+    "DOUGLAS RUAS": 1254102,
+    "EDUARDO PAES": 772130,
+    "validos": 2122460,
+    "margem_ruas": 481972,
+    "aptos": 3300166,
+    "abstencao": 729337
+  },
+  "ruas_menos_presidente22": -695645,
+  "municipios_ruas_supera_presidente22_absoluto": [
+    [
+      "CAMBUCI",
+      134
+    ],
+    [
+      "TANGUÁ",
+      44
+    ],
+    [
+      "SÃO GONÇALO",
+      16881
+    ]
+  ],
+  "top10_margem_fora_capital": 502396
+}

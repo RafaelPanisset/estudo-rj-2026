@@ -1,0 +1,17 @@
+{
+  "checks": [
+    "candidate votes = valid votes in all municipal-zones",
+    "eligible = turnout + abstention in all municipal-zones",
+    "valid + blank + null = turnout in all municipal-zones",
+    "92 municipalities uniquely partitioned",
+    "state totals reconcile with TRE retabulation"
+  ],
+  "sha256": {
+    "raw/detalhe-2026-RJ.csv": "4a51adb85809a0416ad4c23f6c4ec8a3a8ce1694c56a85462e2bbc7ec5c013e2",
+    "raw/presidente-2022-RJ.csv": "858b1a2ae4a8fc4dffe8492cabb3564c16053e40c213f72f66fc6edd50430861",
+    "raw/presidente-2026-RJ.csv": "077aaf96e6cf16575406290c24a9b73a200d0fb11ca0ed9524226caac956c1c9",
+    "raw/secoes-governador.csv": "96664f342d206910a2884fe688c74343f2cc01a495fe57e70f6828705a6278ff",
+    "raw/votacao-2022-RJ.csv": "2d947b51afc381f6d83e7723d6520f0c1de9d48674cde6dc9e1ebc237df6f2df",
+    "raw/votacao-2026-RJ.csv": "03078751a36c9ceddf97a4ffac79a834e2545f65d97e0a432605a1eb2ce83872"
+  }
+}

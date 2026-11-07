@@ -1,0 +1,65 @@
+{
+  "secoes": 37675,
+  "votos_por_codigo": [
+    {
+      "numero": "22",
+      "rotulo": "DOUGLAS RUAS DOS SANTOS",
+      "votos": 4271199
+    },
+    {
+      "numero": "55",
+      "rotulo": "EDUARDO DA COSTA PAES",
+      "votos": 3706984
+    },
+    {
+      "numero": "96",
+      "rotulo": "VOTO NULO",
+      "votos": 675292
+    },
+    {
+      "numero": "95",
+      "rotulo": "VOTO BRANCO",
+      "votos": 501537
+    },
+    {
+      "numero": "10",
+      "rotulo": "ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA",
+      "votos": 274411
+    },
+    {
+      "numero": "50",
+      "rotulo": "WILLIAM CARLOS BRUM BISPO",
+      "votos": 235347
+    },
+    {
+      "numero": "14",
+      "rotulo": "JOÃO JACQUES SOARES BUSNELLO",
+      "votos": 84889
+    },
+    {
+      "numero": "30",
+      "rotulo": "ANDRÉ BOURGUIGNON MARINHO",
+      "votos": 45359
+    },
+    {
+      "numero": "80",
+      "rotulo": "JULIETE PANTOJA ALVES",
+      "votos": 33430
+    },
+    {
+      "numero": "16",
+      "rotulo": "CYRO GARCIA",
+      "votos": 14642
+    },
+    {
+      "numero": "29",
+      "rotulo": "LUAN MONTEIRO PASCHOAL PIRES",
+      "votos": 2777
+    }
+  ],
+  "ruas_vence": 24416,
+  "paes_vence": 12998,
+  "empates": 261,
+  "reconciliacao_zonas": "Ruas, Paes, Anthony vs technical null and blanks: 183 municipal-zones matched",
+  "source_sha256": "96664f342d206910a2884fe688c74343f2cc01a495fe57e70f6828705a6278ff"
+}
