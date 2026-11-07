@@ -16,5 +16,6 @@
     "figures/pesquisas.svg",
     "figures/margem.svg"
   ],
-  "exit_code": 0
+  "exit_code": 0,
+  "limitacao": "Registro da execução de 7/11/2026. Não traz data, versão, hashes nem log, e o campo offline não foi medido. Não é trilha auditável sozinho. O registro com hashes fica em results/reproducao.json."
 }

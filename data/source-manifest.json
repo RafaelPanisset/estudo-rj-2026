@@ -3,8 +3,12 @@
     "file": "raw/presidente-2026-RJ.csv",
     "member": "votacao_candidato_munzona_2026_BR.csv",
     "parent_archive": "votacao.zip",
+    "parent_sha256": "9832ae213986acfdcb7f4b7c4ad2344a3d79fb203c53bda08981012fcefccf3f",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
     "sha256": "077aaf96e6cf16575406290c24a9b73a200d0fb11ca0ed9524226caac956c1c9",
-    "transformation": "SG_UF=RJ; UTF-8 comma CSV"
+    "obtained_original": "2026-11-01 (reference project; filesystem and manifest)",
+    "transformation": "SG_UF=RJ; UTF-8 comma CSV",
+    "parent_hash_note": "Mesmo ZIP pai e mesmo SHA herdado da entrada de votacao-2026 neste manifesto. Não é um novo download do TSE."
   },
   {
     "file": "raw/votacao-2026-RJ.csv",
@@ -15,7 +19,8 @@
     "sha256": "03078751a36c9ceddf97a4ffac79a834e2545f65d97e0a432605a1eb2ce83872",
     "obtained_original": "2026-11-01 (reference project; filesystem and manifest)",
     "extracted_at": "2026-11-07T10:48:40.297250+00:00",
-    "transformation": "CD_CARGO=3; additionally Douglas Ruas state deputy 2022; UTF-8 comma CSV"
+    "transformation": "CD_CARGO=3; UTF-8 comma CSV",
+    "parent_hash_note": "Herdado do manifesto do projeto vizinho. Não reverificado por novo download nesta correção. A auditoria de 07/11/2026 registrou SHA diferente nos ZIPs TSE atuais, com conteúdo idêntico exceto a geração."
   },
   {
     "file": "raw/detalhe-2026-RJ.csv",
@@ -26,14 +31,19 @@
     "sha256": "4a51adb85809a0416ad4c23f6c4ec8a3a8ce1694c56a85462e2bbc7ec5c013e2",
     "obtained_original": "2026-11-01 (reference project; filesystem and manifest)",
     "extracted_at": "2026-11-07T10:48:40.312699+00:00",
-    "transformation": "CD_CARGO=3; additionally Douglas Ruas state deputy 2022; UTF-8 comma CSV"
+    "transformation": "CD_CARGO=3; UTF-8 comma CSV",
+    "parent_hash_note": "Herdado do manifesto do projeto vizinho. Não reverificado por novo download nesta correção. A auditoria de 07/11/2026 registrou SHA diferente nos ZIPs TSE atuais, com conteúdo idêntico exceto a geração."
   },
   {
     "file": "raw/presidente-2022-RJ.csv",
     "member": "votacao_candidato_munzona_2022_BR.csv",
     "parent_archive": "votacao-2022.zip",
+    "parent_sha256": "3cd620314da3cd4b1f24f68b08fcb310e96ebab5aace8d978219937f71a060fc",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip",
     "sha256": "858b1a2ae4a8fc4dffe8492cabb3564c16053e40c213f72f66fc6edd50430861",
-    "transformation": "SG_UF=RJ; UTF-8 comma CSV"
+    "obtained_original": "2026-11-01 (reference project; filesystem and manifest)",
+    "transformation": "SG_UF=RJ; UTF-8 comma CSV",
+    "parent_hash_note": "Mesmo ZIP pai e mesmo SHA herdado da entrada de votacao-2022 neste manifesto. Não é um novo download do TSE."
   },
   {
     "file": "raw/votacao-2022-RJ.csv",
@@ -44,6 +54,7 @@
     "sha256": "2d947b51afc381f6d83e7723d6520f0c1de9d48674cde6dc9e1ebc237df6f2df",
     "obtained_original": "2026-11-01 (reference project; filesystem and manifest)",
     "extracted_at": "2026-11-07T10:48:45.837912+00:00",
-    "transformation": "CD_CARGO=3; additionally Douglas Ruas state deputy 2022; UTF-8 comma CSV"
+    "transformation": "CD_CARGO=3; additionally Douglas Ruas state deputy 2022; UTF-8 comma CSV",
+    "parent_hash_note": "Herdado do manifesto do projeto vizinho. Não reverificado por novo download nesta correção. A auditoria de 07/11/2026 registrou SHA diferente nos ZIPs TSE atuais, com conteúdo idêntico exceto a geração."
   }
 ]
