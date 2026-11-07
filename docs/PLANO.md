@@ -1,12 +1,12 @@
-# Investigação eleitoral do Rio de Janeiro — 2026
+# Método de trabalho
 
-Escopo: pedido do usuário, executado autonomamente; projeto local separado, sem publicação.
+A investigação foi organizada em seis etapas:
 
-1. Verificar resultado, candidatos e alterações judiciais; distinguir votação de denominador legal.
-2. Extrair snapshots RJ do acervo TSE do projeto de referência, verificando hashes e preservando procedência.
-3. Agregar municípios e zonas, reconciliar participação e comparar 2022/presidência; produzir mapas se obtida malha oficial.
-4. Confrontar pesquisas originais por campo, método, cenário, denominador, indecisão e rejeição.
-5. Documentar apoios datados, temas, mecanismos e contraexemplos; não estimar transferências individuais.
-6. Entregar síntese, relatório, tabelas e reprodução; verificar identidades contábeis e links.
+1. Conferir candidatos, resultado e decisões judiciais que alteraram a contagem.
+2. Preservar os arquivos do TSE, suas origens e seus hashes.
+3. Calcular votos e participação por município e zona; comparar com 2022 e com a disputa presidencial; desenhar os mapas com a malha do IBGE.
+4. Comparar pesquisas por datas de campo, perguntas, métodos, indecisão e rejeição.
+5. Reunir apoios e acontecimentos da campanha, procurando evidências favoráveis e contrárias a cada explicação.
+6. Produzir o relatório e as tabelas, conferir as contas e documentar a reprodução.
 
-Escolha técnica: Python 3 e biblioteca padrão para tabelas e auditoria; SVG para mapas. Reaproveitar verificações e organização do estudo presidencial, sem importar conclusões ou presumir dois turnos estaduais. Regiões sobrepostas exigem classificação explícita e não podem ser somadas duas vezes. Comparações históricas municipais são descritivas; zonas não são painéis individuais.
+Os cálculos usam Python 3 e sua biblioteca padrão. Os mapas são arquivos SVG. As verificações reaproveitam métodos do estudo presidencial anterior, mas as conclusões foram construídas para a disputa estadual. Regiões sobrepostas são apresentadas separadamente. Comparações de lugares e eleições não são tratadas como trajetórias dos mesmos eleitores.

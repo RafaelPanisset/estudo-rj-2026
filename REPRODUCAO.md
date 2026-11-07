@@ -1,6 +1,6 @@
 # Reprodução
 
-Python **3.11 ou superior**, biblioteca padrão; sem pacotes pip para reproduzir cálculos, mapas SVG e auditorias. Poppler (`pdftotext` e `pdftoppm`) foi usado para conferir pesquisas; não é necessário para recalcular tabelas. Os mapas são gerados diretamente da malha GeoJSON do IBGE.
+Python **3.11 ou superior**, biblioteca padrão; sem dependências externas para recalcular tabelas e mapas. Poppler (`pdftotext` e `pdftoppm`) foi usado para conferir pesquisas; não é necessário para recalcular tabelas. Os mapas são gerados diretamente da malha GeoJSON do IBGE.
 
 Da pasta do projeto:
 
@@ -8,7 +8,9 @@ Da pasta do projeto:
 python3 scripts/reproduce.py
 ```
 
-O comando verifica hashes dos snapshots antes de executar, nesta ordem, a agregação municipal e por zona, a reconciliação por seção, os mapas, o confronto de pesquisas e as tabelas. Cria `results/` e `figures/` se não existirem. Não use `python -O` nem `PYTHONOPTIMIZE`: o orquestrador recusa esses modos, e as verificações dos scripts são `if`/`raise`, que permanecem ativas também numa execução isolada. A reprodução é local e não exige acesso ao projeto anterior. Sem `raw/secoes-RJ.zip`, ela para com uma mensagem que aponta a seção de obtenção do ZIP abaixo. A exigência do ZIP foi mantida.
+O comando confere os hashes e executa cinco etapas: agregação por município e zona, conferência por seção, mapas, comparação de pesquisas e tabelas. Cria `results/` e `figures/` quando necessário. A execução é local e não depende do projeto anterior. O ZIP de seções precisa estar em `raw/`, conforme as instruções abaixo.
+
+Execute sem `-O` ou `PYTHONOPTIMIZE`. O comando principal recusa esses modos; as verificações de cada script usam `if`/`raise` e permanecem ativas mesmo quando executadas separadamente.
 
 ## Obter o ZIP de seções
 
@@ -31,9 +33,9 @@ Se o arquivo já existir, confira seu hash sem sobrescrevê-lo. O tamanho espera
 - `data/snapshot-manifest.json`: hash de todos os insumos preservados, incluindo pesquisas transcritas. Não identifica conteúdo como verdadeiro só por ter hash.
 - `data/pesquisas.csv`: transcrição editorial. A execução não extrai novamente os números dos PDFs. Conferir a transcrição é outro passo: as páginas estão em [evidencias/2026-11-07/LEIA-ME.md](evidencias/2026-11-07/LEIA-ME.md). Arquivo local com hash não autentica a fonte. Republicação e impressão de matéria não são originais.
 - `evidencias/2026-11-07/`: pareceres, réplicas e PDFs usados nas ondas novas. `reproduce.py` confere o `SHA256SUMS` dessa pasta. As datas de obtenção são da auditoria de 7/11/2026, não do estudo anterior.
-- `results/correspondencia-tse-ibge.csv`: produto da reprodução, junção de 92 municípios por nome normalizado. Não usar código TSE como código IBGE e não tratar o arquivo como insumo.
+- `results/correspondencia-tse-ibge.csv`: tabela gerada pela correspondência dos nomes dos 92 municípios. Ela relaciona os códigos do TSE aos do IBGE.
 
-## Verificações relevantes
+## Conferências realizadas
 
 1. Totais dos candidatos = válidos; válidos + brancos + nulos = comparecimento; aptos = comparecimento + abstenção, nas 183 unidades município-zona.
 2. Votação de todos os códigos por seção recompõe as 183 unidades: candidatos, brancos, nulos de urna, nulos técnicos, comparecimento e número de seções principais.
@@ -46,6 +48,6 @@ Se o arquivo já existir, confira seu hash sem sobrescrevê-lo. O tamanho espera
 
 O registro anterior de reprodução com pastas vazias não traz hashes nem data. [Arquivo histórico](data/clean-reproduction.json).
 
-A reprodução completa exige `evidencias/2026-11-07/SHA256SUMS` não vazio e registra seu SHA-256. Ausência, vazio ou divergência de evidência interrompem a execução antes de gerar resultados. Testes de regressão: `python3 -m unittest discover -s tests`. Eles usam pequenos arquivos sintéticos em diretórios temporários e executam o verificador real; não exigem o ZIP de seções nem os PDFs. A reprodução completa continua exigindo todos os insumos e evidências.
+A reprodução completa exige `evidencias/2026-11-07/SHA256SUMS` não vazio e registra seu SHA-256. Ausência, vazio ou divergência de evidência interrompem a execução antes de gerar resultados. Testes de regressão: `python3 -m unittest discover -s tests`. Eles usam pequenos arquivos sintéticos em diretórios temporários e executam o verificador real; não exigem o ZIP de seções nem os PDFs. A reprodução completa exige os arquivos reais.
 
 Correção editorial posterior à auditoria: a observação dos 57% em `data/pesquisas.csv` explicita a base de 1.769 declarantes; o hash desse CSV foi atualizado, sem alterar números. Os pareceres e documentos da auditoria foram preservados como registro histórico.
