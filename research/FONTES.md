@@ -1,20 +1,20 @@
 # Fontes e decisões de procedência
 
-Consulta em 7/11/2026. Os arquivos baixados têm URL, data UTC, status e SHA-256 em [download-manifest](../data/download-manifest.json). Os recortes TSE têm [manifesto de origem](../data/source-manifest.json); o ZIP estadual por seção tem [manifesto próprio](../data/secoes-download.json). Hash comprova integridade do snapshot, não a verdade de seu conteúdo. Onde se diz que um recorte confere com o TSE, a fórmula é de equivalência de conteúdo com o canal oficial acessado em 7/11/2026, não de autenticação histórica.
+Fontes consultadas até 7/11/2026. URLs, datas de obtenção e hashes estão no [registro de downloads](../data/download-manifest.json), no [manifesto dos recortes TSE](../data/source-manifest.json) e no [registro do ZIP de seções](../data/secoes-download.json). Os hashes permitem conferir se os arquivos mudaram. A comparação com o TSE se refere ao conteúdo disponível em 7/11; não comprova que versões anteriores fossem iguais.
 
 ## Documentos centrais
 
 | ID | Fonte | Uso e limite |
 |---|---|---|
-| F1 | [TRE-RJ, retotalização 10/10](https://www.tre-rj.jus.br/comunicacao/noticias/2026/Outubro/retotalizacao-de-votos-aponta-douglas-ruas-como-vencedor-no-primeiro-turno-para-o-governo-do-rj) | Totais e efeito do denominador; página lida por ferramenta web, sem bytes preservados; download direto 403 |
+| F1 | [TRE-RJ, retotalização 10/10](https://www.tre-rj.jus.br/comunicacao/noticias/2026/Outubro/retotalizacao-de-votos-aponta-douglas-ruas-como-vencedor-no-primeiro-turno-para-o-governo-do-rj) | Totais e efeito do denominador; página lida por ferramenta web, sem cópia local; download direto 403 |
 | F2 | [TRE-RJ, proclamação 15/10](https://www.tre-rj.jus.br/comunicacao/noticias/2026/Outubro/tre-rj-proclama-douglas-ruas-pl-governador-eleito) | Resultado proclamado; não equivale a trânsito em julgado; download direto 403, sem snapshot local |
 | F3 | [Senado, julgamento 8/10](https://www12.senado.leg.br/noticias/materias/2026/10/08/rio-de-janeiro-garotinho-tem-votos-anulados-e-douglas-ruas-sera-declarado-governador-eleito) | Distingue indeferimento, desistência rejeitada e anulação; notícia institucional, não inteiro teor. Não é confirmação independente da notícia do TSE |
-| F4 | [STF, ADPF 1362](https://noticias.stf.jus.br/postsnoticias/psd-pede-ao-stf-realizacao-de-segundo-turno-para-governador-do-rio-de-janeiro/) e [andamento](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7724240) | Ação do PSD; andamento consultado por ferramenta web, sem bytes preservados, registra prestação de informações em 27/10; não se encontrou decisão de mérito nem certidão de trânsito |
+| F4 | [STF, ADPF 1362](https://noticias.stf.jus.br/postsnoticias/psd-pede-ao-stf-realizacao-de-segundo-turno-para-governador-do-rio-de-janeiro/) e [andamento](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7724240) | Ação do PSD; andamento consultado por ferramenta web, sem cópia local, registra prestação de informações em 27/10; não se encontrou decisão de mérito nem certidão de trânsito |
 | F5 | [Datafolha, relatório 2/10](https://media.folha.uol.com.br/datafolha/2026/10/02/n99iwiwkfastqk40w8-wzdovosu-7-st-wj-w16-788.pdf) | Original arquivado; ficha p.2, série total p.10, válidos p.12; campo contraditório dentro do documento. Não é a última onda |
 | F6 | [Paraná, setembro](https://paranapesquisas.com.br/wp-content/uploads/2026/09/RJ_Set26.pdf) | Original; metodologia p.3 e cenário p.8 |
 | F7 | [Atlas, setembro](https://cdn1.atlasintel.org/pesquisa_atlas__eleicoes_rio_de_janeiro_2026__260928_692ebb57cee1632a.pdf) | Original; método na p.4, totais na p.8 e válidos na p.9; gráficos conferidos visualmente. A p.10 traz rótulos de série |
 | F8 | [Quaest final, CNN 3/10](https://www.cnnbrasil.com.br/eleicoes/quaest-eduardo-paes-tem-49-no-1o-turno-no-rj-douglas-ruas-40/), HTML em `raw/quaest-final-cnn.html` | A CNN é assistida por IA e traz só os válidos 49/40/6. O g1 de 3/10, lido na auditoria numa impressão do contratante, informa modelo de eleitor provável e totais 35/28/4. Original Quaest não recuperado |
-| F9 | [Alerj, perfil de Ruas](https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/478?AspxAutoDetectCookieSupport=1&Legislatura=20) | Biografia institucional; conteúdo laudatório não adotado como avaliação independente |
+| F9 | [Alerj, perfil de Ruas](https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/478?AspxAutoDetectCookieSupport=1&Legislatura=20) | Biografia institucional; usada para conferir a trajetória, não para avaliar o desempenho |
 | F10 | [O Dia, escolha de Ruas pelo PL, fevereiro](https://odia.ig.com.br/rio-de-janeiro/2026/02/7212908-pl-escolhe-douglas-ruas-como-candidato-ao-governo-do-rio.html) | Relato da articulação com Flávio, Castro e Altineu; não prova entrega de votos |
 | F11 | [Exame, prefeitos, 13/7](https://exame.com/brasil/disputa-por-prefeitos-acirra-corrida-ao-governo-do-rio-entre-paes-e-douglas-ruas/) | Reproduz apuração de O Globo; contagem de apoios não é censo independente deste projeto |
 | F12 | [NF Notícias, Wladimir, 5/10](https://www.nfnoticias.com.br/noticia-56820/eleito-deputado-federal-wladimir-garotinho-declara-apoio-a-douglas-ruas-no-20-turno-no-rj) | Relata declaração após votação em 4/10, apoio anterior ao pai e posterior a Ruas |
@@ -38,7 +38,7 @@ Consulta em 7/11/2026. Os arquivos baixados têm URL, data UTC, status e SHA-256
 | F28 | [TSE, ordem de votação](https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-conheca-a-ordem-de-votacao-na-urna-eletronica) | Governador antes de presidente |
 | F29 | [TSE, votação segura](https://www.tse.jus.br/eleicoes/processo-eleitoral-brasileiro/votacao/votacao-segura) | RDV registra o digitado, sem identificar o eleitor nem parear cargos. BU agrupa brancos e nulos |
 
-## Fontes auxiliares, não promovidas a evidência causal
+## Fontes complementares
 
 - [Veritá, reportagem Portal Política](https://portalpolitica.com.br/pesquisa-verita-no-rio-de-janeiro-paes-e-douglas-ruas-aparecem-tecnicamente-empatados-para-o-governo/): números e registro divergem de outros cadastros; relatório original não recuperado. Excluída da série certificada.
 - [Resultado 2018 com dados TSE, UOL](https://placar.eleicoes.uol.com.br/2018/2turno/rj/) e [capital em 2018](https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/municipios-rio-de-janeiro/rio-de-janeiro-rj/governador/): contexto histórico; microdados 2018 não auditados.
@@ -47,13 +47,13 @@ Consulta em 7/11/2026. Os arquivos baixados têm URL, data UTC, status e SHA-256
 - [Malafaia, edição de 24/2](https://tribunadosmunicipios.com.br/wp-content/uploads/2026/02/Tribuna-3330-TM.pdf): relato de apresentação de Ruas em templo, não uma posição de toda denominação.
 - [Regiões e fronteiras, Alerj](https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&url=L3NjcHJvMTkyMy5uc2YvMThjMWRkNjhmOTZiZTNlNzgzMjU2NmVjMDAxOGQ4MzMvRDZBMTY0Rjc1NUMxMUVDMTgzMjU4NEI3MDA1Mjk0MEU%2FT3BlbkRvY3VtZW50): explicita diferenças de classificação em relação à Região Metropolitana; a partição analítica é publicada integralmente no código.
 
-## Divergências mantidas visíveis
+## Divergências e pontos não confirmados
 
 1. Datafolha: 28/9 versus 29/9 como início de campo no mesmo documento. O CSV usa a ficha técnica, com nota.
 2. Atlas de setembro: PDF original 45,0/36,4 válidos. Os 48,1/39,0 atribuídos a agregadores não têm referência rastreável e foram retirados da série.
 3. Veritá: registro conflitante e original indisponível; sem certificação.
 4. Algumas notícias dão margem de 564.214 votos; a subtração dos totais oficiais é **564.215**.
-5. Não confundir o parcial provimento quanto à alínea “l” com o indeferimento mantido por direitos políticos e filiação, nem esse indeferimento com o placar de 5–2 da anulação. Não dizer que a desistência foi homologada.
+5. O TSE afastou a inelegibilidade da alínea “l”, mas manteve o indeferimento por direitos políticos e filiação. O placar de 5–2 se refere à anulação dos votos. A desistência não foi homologada.
 6. Notícias de 4–9/10 que anunciam segundo turno descrevem expectativa daquele momento, não um segundo turno efetivamente realizado.
 7. O cruzamento do g1 de 25/9 e a condicional inversa da Folha de 26/9 não fecham entre si. Uso só qualitativo.
 8. A margem de ±3 p.p. atribuída à Atlas de outubro pelo Estadão não coincide com os ±2 p.p. da ficha republicada. A divergência fica registrada e não entra nos cálculos.

@@ -28,7 +28,7 @@ Ruas e Paes: percentuais dos votos válidos após a retotalização. Abstenção
 | CYRO GARCIA | 16 | PSTU | 14.642 |
 | LUAN MONTEIRO | 29 | PCO | 2.777 |
 
-Anthony Garotinho (Republicanos, 10) recebeu 274.411 votos posteriormente anulados, conforme documentos judiciais e notícias oficiais; não aparece nas linhas de candidatos do snapshot munzona pós-retotalização. Não é uma nona votação válida.
+Garotinho (Republicanos, 10) recebeu 274.411 votos que foram anulados. Por isso, sua votação está fora da tabela de votos válidos acima.
 
 ## Maiores margens absolutas favoráveis a Ruas
 
@@ -50,4 +50,4 @@ Anthony Garotinho (Republicanos, 10) recebeu 274.411 votos posteriormente anulad
 | PETRÓPOLIS | 22.528 | 54,03% |
 | RIO DAS OSTRAS | 21.547 | 62,16% |
 
-Esta tabela é de votação, não de pesquisa. As séries de intenção e as ressalvas de data e de fonte estão na análise e em `figures/pesquisas.svg`: “31 ago” e “20 set” da Atlas são rótulos de gráfico, sem ficha de campo; o eixo dessa figura é por onda, não proporcional ao tempo; a onda Atlas de 27/9–2/10 está só em republicação do Poder360; a Quaest é fonte secundária e os válidos são modelo de eleitor provável.
+As pesquisas são apresentadas na análise e em `figures/pesquisas.svg`, com suas limitações: “31 ago” e “20 set” da Atlas são rótulos de gráfico, sem ficha de campo; o eixo dessa figura é por onda, não proporcional ao tempo; a onda Atlas de 27/9–2/10 está só em republicação do Poder360; a Quaest é fonte secundária e os válidos são modelo de eleitor provável.
