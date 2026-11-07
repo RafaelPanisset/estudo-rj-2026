@@ -7,7 +7,7 @@ missing=[r['file'] for r in manifest if not (P/r['file']).exists()]
 if missing:raise FileNotFoundError(
  'Insumo ausente: '+', '.join(missing)+'. A reprodução exige os arquivos do manifesto, inclusive raw/secoes-RJ.zip '
  '(296.106.129 bytes, SHA-256 ec93c020ae1f0088216de92e5acc5d3211aefaf1fa589b961132bbf471ee3cf5). '
- 'Restaure o asset da release privada dados-v1 conforme review-instructions/COMO-USAR.md. A exigência de integridade foi mantida.')
+ 'Restaure o asset da release privada dados-v1 conforme REPRODUCAO.md. A exigência de integridade foi mantida.')
 for r in manifest:
  f=P/r['file'];actual=hashlib.file_digest(f.open('rb'),'sha256').hexdigest()
  if actual!=r['sha256']:raise ValueError(f'Snapshot changed: {f}')

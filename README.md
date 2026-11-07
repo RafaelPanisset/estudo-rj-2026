@@ -1,6 +1,6 @@
 # Estudo eleitoral do Rio de Janeiro — 2026
 
-Investigação independente e apartidária. Fontes consultadas até **7 de novembro de 2026**. Projeto separado de `analise-eleitoral-2026`. Repositório privado autorizado pelo usuário para auditoria; nenhuma publicação pública.
+Investigação independente e apartidária. Fontes consultadas até **7 de novembro de 2026**.
 
 **A expectativa de vitória de Eduardo Paes tinha respaldo nas pesquisas, mas subestimou o resultado de Douglas Ruas. Paes venceu na capital e perdeu a disputa estadual porque sua vantagem carioca foi mais que compensada fora dela. A vitória de Ruas já no primeiro turno teve uma causa adicional e distinta: a anulação dos votos de Anthony Garotinho reduziu o total de votos válidos. Nenhum desses votos foi acrescentado a Ruas.**
 
@@ -32,6 +32,6 @@ A descrição mais segura separa quatro coisas: inserção prévia de Ruas, asso
 
 ![Margem municipal](figures/margem.svg)
 
-## Revisão independente
+## Escopo e reprodução
 
-[Prompt completo para o Grok Bot](review-instructions/PROMPT-GROK.md) · [Como conectar e usar](review-instructions/COMO-USAR.md) · [Briefing original](review-instructions/BRIEFING-ORIGINAL.md). O ZIP bruto de seções é um asset da release privada `dados-v1`; restaure-o antes de reproduzir em um clone novo.
+[Escopo original da investigação](research/ESCOPO-ORIGINAL.md) · [Reprodução e obtenção dos dados](REPRODUCAO.md). O ZIP bruto de seções está na release privada `dados-v1`; restaure-o antes de reproduzir em um clone novo.

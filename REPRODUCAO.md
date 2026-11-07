@@ -8,7 +8,18 @@ Da pasta do projeto:
 python3 scripts/reproduce.py
 ```
 
-O comando verifica hashes dos snapshots antes de executar, nesta ordem, a agregação municipal e por zona, a reconciliação por seção, os mapas, o confronto de pesquisas e as tabelas. Cria `results/` e `figures/` se não existirem. Não use `python -O` nem `PYTHONOPTIMIZE`: o orquestrador recusa esses modos, e as verificações dos scripts são `if`/`raise`, que permanecem ativas também numa execução isolada. A reprodução é local e não exige acesso ao projeto anterior. Sem `raw/secoes-RJ.zip`, ela para com uma mensagem que aponta [COMO-USAR](review-instructions/COMO-USAR.md). A exigência do ZIP foi mantida.
+O comando verifica hashes dos snapshots antes de executar, nesta ordem, a agregação municipal e por zona, a reconciliação por seção, os mapas, o confronto de pesquisas e as tabelas. Cria `results/` e `figures/` se não existirem. Não use `python -O` nem `PYTHONOPTIMIZE`: o orquestrador recusa esses modos, e as verificações dos scripts são `if`/`raise`, que permanecem ativas também numa execução isolada. A reprodução é local e não exige acesso ao projeto anterior. Sem `raw/secoes-RJ.zip`, ela para com uma mensagem que aponta a seção de obtenção do ZIP abaixo. A exigência do ZIP foi mantida.
+
+## Obter o ZIP de seções
+
+O arquivo excede o limite do Git e está na release privada `dados-v1`. Com GitHub CLI autenticado para este repositório, execute da raiz do projeto:
+
+```bash
+gh release download dados-v1 --repo RafaelPanisset/estudo-rj-2026 --pattern secoes-RJ.zip --dir raw
+python3 -c 'import hashlib,pathlib; p=pathlib.Path("raw/secoes-RJ.zip"); actual=hashlib.file_digest(p.open("rb"),"sha256").hexdigest(); expected="ec93c020ae1f0088216de92e5acc5d3211aefaf1fa589b961132bbf471ee3cf5"; print(actual); assert actual == expected, "SHA-256 divergente"'
+```
+
+Se o arquivo já existir, confira seu hash sem sobrescrevê-lo. O tamanho esperado é 296.106.129 bytes. Alternativamente, obtenha a URL original em `data/secoes-download.json`; só use o novo download como este snapshot se o SHA-256 coincidir. Preserve versões divergentes separadamente. [Registro do snapshot](data/SNAPSHOT-SECOES.md).
 
 ## Arquivos e aquisição
 

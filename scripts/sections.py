@@ -6,7 +6,7 @@ def require(cond, msg='verificacao por secao falhou'):
 (P/'results').mkdir(parents=True, exist_ok=True)
 archive=P/'raw/secoes-RJ.zip';out=P/'raw/secoes-governador.csv'
 if not out.exists() and not archive.exists():
-    raise FileNotFoundError('Faltam raw/secoes-governador.csv e raw/secoes-RJ.zip. Restaure o ZIP da release dados-v1 conforme review-instructions/COMO-USAR.md. A exigência do arquivo foi mantida.')
+    raise FileNotFoundError('Faltam raw/secoes-governador.csv e raw/secoes-RJ.zip. Restaure o ZIP da release dados-v1 conforme REPRODUCAO.md. A exigência do arquivo foi mantida.')
 if not out.exists():
  z=zipfile.ZipFile(archive);member=next(n for n in z.namelist() if n.endswith('_RJ.csv'))
  with z.open(member) as f,out.open('w') as g:
