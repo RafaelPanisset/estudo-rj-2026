@@ -1,5 +1,7 @@
 # Análise detalhada
 
+**Quer ir direto às conclusões?** Leia o [resumo final](#12-resumo-para-quem-quer-ir-direto-ao-ponto).
+
 Esta análise reúne as fontes disponíveis até 7/11/2026 para investigar a derrota de Paes, o crescimento de Ruas e o papel de Garotinho. [Resumo](README.md), [fontes](research/FONTES.md), [lacunas](research/LACUNAS.md) e [tabelas](results/TABELAS.md). Os termos técnicos estão no [glossário](#11-glossário).
 
 A auditoria de 7/11/2026 comparou os dados usados aqui com os arquivos disponíveis no TSE e encontrou o mesmo conteúdo eleitoral. A margem de 564.215 votos foi recalculada a partir desses dados oficiais; não houve recontagem independente das urnas. Os detalhes de obtenção e conferência dos arquivos estão em [Reprodução](REPRODUCAO.md).
@@ -197,3 +199,15 @@ O [quadro de hipóteses](research/HIPOTESES.md) distingue o que foi descartado d
 - **Válidos com Anthony.** Votos nominais dos candidatos que permaneceram válidos mais os 274.411 votos depois anulados. É a base usada no confronto com as pesquisas que incluíam Anthony.
 - **Nulo técnico e nulo de urna.** O nulo técnico, neste snapshot, é o voto de Anthony, código 10. O nulo de urna, código 96, agrega o que foi digitado como nulo. O boletim de urna agrupa brancos e nulos por cargo. O registro digital do voto guarda o que foi digitado, sem identificar o eleitor e sem associar o voto de um cargo ao de outro.
 - **Modelo de eleitor provável.** Procedimento da Quaest, segundo o veículo contratante, para chegar aos válidos 49/40/6. Não é o denominador das outras pesquisas.
+
+## 12. Resumo para quem quer ir direto ao ponto
+
+**O favoritismo de Paes tinha fundamento:** ele liderava as últimas pesquisas. Ruas vinha crescendo, mas nenhum levantamento reunido no estudo o mostrava à frente. Ainda não sabemos quanto da diferença para as urnas veio de mudanças nos últimos dias, problemas nas pesquisas ou diferenças de comparecimento.
+
+**Paes venceu na capital e perdeu por mais votos no restante do estado.** Sua vantagem carioca foi de 410.961 votos; a de Ruas fora da capital, de 975.176. A derrota não veio apenas do interior: a periferia metropolitana também teve grande peso. Isso mostra onde se formou a margem, mas não explica sozinho as escolhas dos eleitores.
+
+**Ruas já tinha base e apoios importantes.** Em 2022, recebeu 175.977 votos para deputado, concentrados em São Gonçalo. Em 2026, contou com Flávio Bolsonaro, Cláudio Castro e Altineu Côrtes e venceu em 79 municípios. Há evidências de associação com o campo presidencial de Flávio, mas não uma medida de quantos votos cada apoio trouxe.
+
+**Garotinho mudou o desfecho jurídico.** A anulação de seus 274.411 votos levou Ruas de 49,27% — percentual reconstruído incluindo esses votos — a 50,88% dos válidos. Ruas já estava à frente de Paes; a decisão dispensou o segundo turno. Nenhum voto anulado foi acrescentado à sua votação.
+
+**Santinhos, religião, propaganda e erros de número continuam como questões abertas.** Há material documentado e denúncias que merecem investigação, mas faltam provas sobre alcance e efeito. Não dá para afirmar que decidiram a eleição, nem descartar essa possibilidade.
