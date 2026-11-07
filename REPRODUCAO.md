@@ -34,3 +34,7 @@ O comando verifica hashes dos snapshots antes de executar, nesta ordem, a agrega
 [Registro da execução](results/reproducao.json): data, comando, versão de Python, flag de otimização, hashes dos insumos e hashes dos resultados antes e depois. O campo de execução offline não é medido; os scripts chamados não abrem rede. README e análise são textos editoriais e não são reescritos pelos scripts; mudanças de dados exigem revisão humana das afirmações. Os arquivos de terceiros preservados destinam-se à auditoria local; não foi aplicada licença própria ao conteúdo deles.
 
 O registro anterior de reprodução com pastas vazias não traz hashes nem data. [Arquivo histórico](data/clean-reproduction.json).
+
+A reprodução completa exige `evidencias/2026-11-07/SHA256SUMS` não vazio e registra seu SHA-256. Ausência, vazio ou divergência de evidência interrompem a execução antes de gerar resultados. Testes de regressão: `python3 -m unittest discover -s tests`. Eles usam pequenos arquivos sintéticos em diretórios temporários e executam o verificador real; não exigem o ZIP de seções nem os PDFs. A reprodução completa continua exigindo todos os insumos e evidências.
+
+Correção editorial posterior à auditoria: a observação dos 57% em `data/pesquisas.csv` explicita a base de 1.769 declarantes; o hash desse CSV foi atualizado, sem alterar números. Os pareceres e documentos da auditoria foram preservados como registro histórico.

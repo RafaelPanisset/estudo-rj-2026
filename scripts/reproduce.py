@@ -13,19 +13,23 @@ for r in manifest:
  if actual!=r['sha256']:raise ValueError(f'Snapshot changed: {f}')
 evidence=P/'evidencias/2026-11-07/SHA256SUMS'
 evidence_verified=0
-if evidence.exists():
-    for line in evidence.read_text().splitlines():
-        if not line.strip() or line.startswith('#'):
-            continue
-        digest, rel = line.split(None, 1)
-        rel = rel.strip().lstrip('*')
-        target = evidence.parent / rel
-        if not target.is_file():
-            raise FileNotFoundError(f'Evidência ausente: {target}')
-        actual = hashlib.sha256(target.read_bytes()).hexdigest()
-        if actual != digest:
-            raise ValueError(f'Hash da evidência diverge: {target}')
-        evidence_verified += 1
+if not evidence.is_file():
+    raise FileNotFoundError(f'Manifesto de evidências ausente: {evidence}')
+evidence_manifest_sha256=hashlib.sha256(evidence.read_bytes()).hexdigest()
+for line in evidence.read_text().splitlines():
+    if not line.strip() or line.startswith('#'):
+        continue
+    digest, rel = line.split(None, 1)
+    rel = rel.strip().lstrip('*')
+    target = evidence.parent / rel
+    if not target.is_file():
+        raise FileNotFoundError(f'Evidência ausente: {target}')
+    actual = hashlib.sha256(target.read_bytes()).hexdigest()
+    if actual != digest:
+        raise ValueError(f'Hash da evidência diverge: {target}')
+    evidence_verified += 1
+if not evidence_verified:
+    raise ValueError(f'Manifesto de evidências vazio: {evidence}')
 (P/'results').mkdir(parents=True, exist_ok=True); (P/'figures').mkdir(parents=True, exist_ok=True)
 def digest_dir(folder):
  return {str(f.relative_to(P)):hashlib.sha256(f.read_bytes()).hexdigest() for f in sorted(folder.glob('*')) if f.is_file()}
@@ -44,5 +48,5 @@ for f in P.rglob('*.md'):
   if path and (f.parent/path).resolve()!=(P/'results/reproducao.json').resolve() and not (f.parent/path).exists():broken.append((str(f),target))
 if broken:raise ValueError(broken)
 for f in (P/'figures').glob('*.svg'):ET.parse(f)
-record={'executed_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'command':'python3 scripts/reproduce.py','python':sys.version,'platform':platform.platform(),'optimize_flag':sys.flags.optimize,'offline':'não medido; os scripts chamados não abrem rede','snapshot_files_verified':len(manifest),'evidence_files_verified':evidence_verified,'inputs_sha256':{r['file']:r['sha256'] for r in manifest},'scripts':['analyze','sections','maps','polls','territory'],'local_links':'all exist','svg_xml':'valid','results_sha256_before':before_results,'figures_sha256_before':before_figures,'results_sha256':{k:v for k,v in digest_dir(P/'results').items() if not k.endswith('reproducao.json')},'figures_sha256':digest_dir(P/'figures')}
+record={'executed_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'command':'python3 scripts/reproduce.py','python':sys.version,'platform':platform.platform(),'optimize_flag':sys.flags.optimize,'offline':'não medido; os scripts chamados não abrem rede','snapshot_files_verified':len(manifest),'evidence_files_verified':evidence_verified,'evidence_manifest_sha256':evidence_manifest_sha256,'inputs_sha256':{r['file']:r['sha256'] for r in manifest},'scripts':['analyze','sections','maps','polls','territory'],'local_links':'all exist','svg_xml':'valid','results_sha256_before':before_results,'figures_sha256_before':before_figures,'results_sha256':{k:v for k,v in digest_dir(P/'results').items() if not k.endswith('reproducao.json')},'figures_sha256':digest_dir(P/'figures')}
 (P/'results/reproducao.json').write_text(json.dumps(record,ensure_ascii=False,indent=2));print('Offline reproduction and integrity checks passed')
