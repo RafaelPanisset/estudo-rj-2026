@@ -6,7 +6,7 @@ O projeto anterior foi consultado em README, AUDITORIA, manifesto e scripts: for
 
 - 92 municípios; 183 pares município-zona; 37.675 seções principais de governador.
 - TSE 2022/2026 para comparações municipais e eleição presidencial no primeiro turno; IBGE para correspondência e malha atual.
-- Relatórios originais arquivados: Datafolha de 2/10, Paraná de setembro e Atlas de setembro. A onda Datafolha de 2–3/10, o Paraná de outubro e a Atlas de 3/10 entraram por transcrição da auditoria de 7/11/2026; os PDFs novos não estão neste repositório. Quaest e Real Time Big Data são evidência secundária.
+- Relatórios originais arquivados: Datafolha de 2/10, Paraná de setembro e Atlas de setembro. A onda Datafolha de 2–3/10 está em `evidencias/2026-11-07/pdfs/datafolha-final-0310.pdf`; o Paraná de outubro, em `evidencias/2026-11-07/pdfs/parana-RJ_Out26-original.pdf`. A Atlas de 3/10 está só como republicação do Poder360, em `evidencias/2026-11-07/pdfs/Pesquisa-Atlas_Estadao-Eleicoes-Rio-de-Janeiro-2026-261003.pdf`. Continuam fora o original da Atlas no domínio do instituto, o relatório original da Quaest e os PDFs da Real Time Big Data.
 - Resultado reconciliado contra os recortes e contra constantes do código. As páginas do TRE deram 403 e não há snapshot local. A história jurídica usa notícias institucionais. O acórdão de 8/10 não foi obtido.
 - Fontes e amostras não foram consideradas homogêneas por conveniência.
 

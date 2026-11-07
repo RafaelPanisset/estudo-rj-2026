@@ -21,7 +21,7 @@ Datas do acontecimento quando disponíveis; mês aproximado explicitado. Fontes 
 | 11/9 | Indeferimento regional de Anthony | F3/F5 | Situação sub judice; não candidato retirado da urna |
 | 22–24/9 | Datafolha: Paes 43, Ruas 30. Cruzamento presidente × governador no g1 de 25/9 | F5 e F24 | Intenção declarada, sem matriz. As duas rotas não fecham entre si |
 | 22–27/9 | Atlas: Paes 44,1, Ruas 35,7 totais. Ficha p.5 | F7 | O gráfico da p.10 rotula 28 set. “31 ago” e “20 set”, no mesmo eixo, não têm ficha de campo |
-| 20–22/9 | Paraná: Paes 43,1, Ruas 26,7 | F21 | Original no PDF de outubro, não arquivado aqui |
+| 20–22/9 | Paraná: Paes 43,1, Ruas 26,7 | F21 | Original em `evidencias/2026-11-07/pdfs/parana-RJ_Out26-original.pdf`, p.10 |
 | 28/9–1/10 | Datafolha: Paes 42, Ruas 31; válidos 47/35/8 | F5 | Não é a última onda. Há divergência interna sobre início em 28 ou 29/9 |
 | 29/9–1/10 | Paraná: Paes 41,9, Ruas 30,1; válidos 47,9/34,4 | F21 | Última onda do instituto neste corpus |
 | 29/9 | Debate Globo | Foto e descrição em F5 | Não foi realizada codificação integral nem teste causal de desempenho |

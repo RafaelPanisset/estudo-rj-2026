@@ -36,7 +36,7 @@ As séries abaixo não foram desenhadas como uma curva única. Campo sobreposto,
 | 28/9–1/10 | 42 | 31 | 7 | 8 | 4 |
 | 2–3/10 | 41 | 34 | 6 | 6 | 5 |
 
-A série até 1/10 vem do relatório original de 2/10, página 10, não 11. A onda de 2–3/10 (RJ-01334/2026, n=2.002, margem de 2 p.p.) está no PDF v2 de 5/10, lido na auditoria e não copiado para este repositório. O g1 de 3/10 às 18h18 já trazia os mesmos números; a página do instituto é de 4/10 às 16h32. A ficha da onda de 28/9–1/10 começa em 28/9 e a narrativa em 29/9. As fichas completas das duas primeiras ondas não foram obtidas. A de 22–24/9 (n=1.204, 35 municípios, RJ-02205/2026) foi recuperada em republicação, não no PDF de 2/10. As datas de divulgação 11/9 e 24/9 têm apoio secundário na Folha e em O Globo; 21/8 não tem fonte e saiu do CSV.
+A série até 1/10 vem do relatório original de 2/10, página 10, não 11. A onda de 2–3/10 (RJ-01334/2026, n=2.002, margem de 2 p.p.) está no PDF v2 de 5/10, em `evidencias/2026-11-07/pdfs/datafolha-final-0310.pdf`. O g1 de 3/10 às 18h18 já trazia os mesmos números; a página do instituto é de 4/10 às 16h32. A ficha da onda de 28/9–1/10 começa em 28/9 e a narrativa em 29/9. As fichas completas das duas primeiras ondas não foram obtidas. A de 22–24/9 (n=1.204, 35 municípios, RJ-02205/2026) foi recuperada em republicação, não no PDF de 2/10. As datas de divulgação 11/9 e 24/9 têm apoio secundário na Folha e em O Globo; 21/8 não tem fonte e saiu do CSV.
 
 No total, a margem cai de 22 para 7 pontos. Ruas vai de 19% a 34%; Paes termina como começou, em 41%, com oscilação no meio. A série **não descreve uma perda equivalente de Paes para Ruas**. Nos válidos com Anthony, a última onda é **46 / 38 / 7** (Paes +8), não os 47 / 35 / 8 da onda anterior (Paes +12). O crescimento pode reunir antigos indecisos, terceiros, declarantes de voto inválido e mudanças nos dois sentidos. Sem painel, as entradas e saídas são desconhecidas.
 
@@ -44,7 +44,7 @@ No total, a margem cai de 22 para 7 pontos. Ruas vai de 19% a 34%; Paes termina 
 
 | Instituto | O que entrou | Ruas no total | Últimos válidos com Anthony | Grau |
 |---|---|---|---|---|
-| Paraná | Agosto, sem dias informados; 5–7/9; 20–22/9; 29/9–1/10 | 15,5 → 20,3 → 26,7 → 30,1 | 47,9 / 34,4 / 9,4 (Paes +13,5), RJ-07095/2026 | Original; o PDF de outubro não está arquivado aqui |
+| Paraná | Agosto, sem dias informados; 5–7/9; 20–22/9; 29/9–1/10 | 15,5 → 20,3 → 26,7 → 30,1 | 47,9 / 34,4 / 9,4 (Paes +13,5), RJ-07095/2026 | Original em `evidencias/2026-11-07/pdfs/parana-RJ_Out26-original.pdf` |
 | Atlas | Rótulos 31 ago e 20 set, sem ficha; campo verificado 22–27/9; campo verificado 27/9–2/10 | 27,6 → 32,4 → 35,7 → 38,0, na ordem do gráfico | 48,6 / 39,8 / 6,4 (Paes +8,8), RJ-02601/2026 | Os dois primeiros pontos não têm data de campo. A última onda é só republicação do Poder360 |
 | Quaest | Cerca de 8/9; 19–22/9; 25–28/9; 2–3/10 | 18 → 23 → 25 → 28, nos totais | 49 / 40 / 6 (Paes +9) | Secundária. Os válidos são modelo de eleitor provável. Totais da última onda: 35 / 28 / 4, indecisos 15, branco/nulo/não vai votar 13 |
 | Real Time Big Data | 14/9, RJ-03902; 25–29/9, RJ-08712 | 25 e depois 31 | Válidos não obtidos | Secundária. O PDF de RJ-08712 não foi conferido visualmente. BR-05193 é pesquisa presidencial e não entra |
