@@ -25,6 +25,7 @@ Paes teve **410.961 votos de vantagem** na capital; Ruas, **975.176 fora dela**.
 
 As pesquisas ajudam a entender o favoritismo de Paes e o crescimento de Ruas, mas ainda deixam uma pergunta em aberto: por que todas as últimas ondas apontavam Paes à frente, enquanto as urnas deram vantagem a Ruas? O material reunido não permite distinguir mudança de voto nos últimos dias, problemas de medição ou diferenças de comparecimento. Também não permite medir quanto os apoios, as mensagens de campanha e a rejeição aos candidatos contribuíram para o resultado.
 
+- [Resumo final](ANALISE-DETALHADA.md#12-resumo-para-quem-quer-ir-direto-ao-ponto): principais conclusões em poucos parágrafos.
 - [Análise detalhada](ANALISE-DETALHADA.md): pesquisas, mecanismos, regiões, história, participação e contraexemplos.
 - [Tabelas](results/TABELAS.md), [municípios](results/municipios.csv), [zonas](results/zonas.csv), [seções](results/secoes.csv).
 - [Fontes e divergências](research/FONTES.md), [hipóteses](research/HIPOTESES.md), [lacunas](research/LACUNAS.md).
