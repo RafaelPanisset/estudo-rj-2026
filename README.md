@@ -14,7 +14,7 @@ Paes abriu **410.961 votos** na capital; Ruas abriu **975.176 fora dela**, vence
 |---|---|---|
 | A vantagem fora da capital superou a de Paes na capital | **Estabelecida** | Recortes TSE reconciliados por município, zona e seção. A auditoria de 7/11 comparou o conteúdo ao canal do TSE naquele dia |
 | A exclusão de Garotinho encerrou a disputa no primeiro turno | **Estabelecida no resultado proclamado** | Votação inalterada, denominador menor; há contestação judicial, sem trânsito em julgado demonstrado neste estudo |
-| Ruas cresceu durante a campanha | **Apoiada por pesquisas** | Cinco séries, separadas por instituto: no total, Datafolha 19% → 34% até 2–3/10 e Paraná 15,5% → 30,1%. Paes segue à frente em todas as últimas ondas. A ultrapassagem não é datável |
+| Ruas cresceu durante a campanha | **Apoiada por pesquisas** | Cinco séries separadas. Datafolha 19% → 34% até 2–3/10; Paraná 15,5% → 30,1%. Na Atlas, 31 ago e 20 set são rótulos de gráfico, sem ficha de campo; a figura espaça as ondas por igual, não por dia. Paes segue à frente nas últimas ondas com data de campo. A ultrapassagem não é datável |
 | Inserção prévia de Ruas | **Estabelecida** | 175.977 votos em 2022, 149.576 em São Gonçalo, trajetória e rede familiar documentadas |
 | Associação nacional e viabilização da candidatura | **Apoiadas** | Apoios de Flávio, Castro e Altineu; comparação presidencial em duas bases. Não mede quantos votos cada liderança produziu |
 | Contribuição eleitoral de partido, líder, redes ou mensagens | **Não identificada** | Os testes afastam versões exclusivas. Não afastam contribuição parcial |

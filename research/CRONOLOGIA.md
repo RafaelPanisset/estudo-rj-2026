@@ -20,12 +20,12 @@ Datas do acontecimento quando disponíveis; mês aproximado explicitado. Fontes 
 | 8–10/9 | Datafolha: Paes 43, Ruas 25 | F5 | Crescimento antecede debate final e decisão de outubro |
 | 11/9 | Indeferimento regional de Anthony | F3/F5 | Situação sub judice; não candidato retirado da urna |
 | 22–24/9 | Datafolha: Paes 43, Ruas 30. Cruzamento presidente × governador no g1 de 25/9 | F5 e F24 | Intenção declarada, sem matriz. As duas rotas não fecham entre si |
-| 22–27/9 | Atlas: Paes 44,1, Ruas 35,7 totais | F7 | Nível de Ruas superior ao Datafolha próximo. O gráfico rotula 28 set. Pergunta diferente da onda seguinte |
+| 22–27/9 | Atlas: Paes 44,1, Ruas 35,7 totais. Ficha p.5 | F7 | O gráfico da p.10 rotula 28 set. “31 ago” e “20 set”, no mesmo eixo, não têm ficha de campo |
 | 20–22/9 | Paraná: Paes 43,1, Ruas 26,7 | F21 | Original no PDF de outubro, não arquivado aqui |
 | 28/9–1/10 | Datafolha: Paes 42, Ruas 31; válidos 47/35/8 | F5 | Não é a última onda. Há divergência interna sobre início em 28 ou 29/9 |
 | 29/9–1/10 | Paraná: Paes 41,9, Ruas 30,1; válidos 47,9/34,4 | F21 | Última onda do instituto neste corpus |
 | 29/9 | Debate Globo | Foto e descrição em F5 | Não foi realizada codificação integral nem teste causal de desempenho |
-| 27/9–2/10 | Atlas: Paes 46,4, Ruas 38,0; válidos 48,6/39,8 | F22 | Só republicação. Campo sobreposto em 27/9 |
+| 27/9–2/10 | Atlas: Paes 46,4, Ruas 38,0; válidos 48,6/39,8. Ficha p.5 da republicação | F22 | Só republicação. O gráfico rotula 03 Out; o fim de campo da ficha é 2/10. Campo sobreposto em 27/9 |
 | 1/10 | O Globo: publicidade de Paes “amigo das igrejas” e de Ruas sobre valores cristãos | F26 | Peças relatadas, sem exposição nem efeito |
 | 2/10 | Decisão do PJe revoga liminar e manda tratar os votos de Anthony como anulados sub judice | Decisão aberta na auditoria; hora desconhecida | Efeito sobre o eleitor não identificado |
 | 2–3/10 | Datafolha: totais 41/34/6; válidos 46/38/7; número 75/52 | F20 | Última onda do instituto. Paes +8, não +12 |

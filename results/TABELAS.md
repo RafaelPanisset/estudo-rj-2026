@@ -49,3 +49,5 @@ Anthony Garotinho (Republicanos, 10) recebeu 274.411 votos posteriormente anulad
 | SÃO PEDRO DA ALDEIA | 23.547 | 71,84% |
 | PETRÓPOLIS | 22.528 | 54,03% |
 | RIO DAS OSTRAS | 21.547 | 62,16% |
+
+Esta tabela é de votação, não de pesquisa. As séries de intenção e as ressalvas de data e de fonte estão na análise e em `figures/pesquisas.svg`: “31 ago” e “20 set” da Atlas são rótulos de gráfico, sem ficha de campo; o eixo dessa figura é por onda, não proporcional ao tempo; a onda Atlas de 27/9–2/10 está só em republicação do Poder360; a Quaest é fonte secundária e os válidos são modelo de eleitor provável.

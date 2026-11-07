@@ -1,0 +1,25 @@
+{
+  "data": "2026-11-07T08:49:35.774127-03:00",
+  "zona": "America/Sao_Paulo",
+  "relatorio_sha256": "b879280febfe629f94dc2d44b03b0bbdf37e50142168e1d477178d92a089ab4f",
+  "relatorio_inicial_nao_alterado": true,
+  "matriz_registros": 4,
+  "fontes_ids": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "IMG22",
+    "IMG13",
+    "P08",
+    "P09",
+    "P10",
+    "P11"
+  ],
+  "escopo": "procedência/peças; sem causalidade ou nova auditoria deRDV",
+  "status": "rodadafinita concluída;originaisoficiaispendentes",
+  "relatorio_inicial_nao_alterado_verificado": true
+}

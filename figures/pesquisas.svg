@@ -22,11 +22,11 @@
 <text x="650.0" y="220.5" fill="#666666" font-size="13" text-anchor="middle">7%</text>
 <text x="840.0" y="223.0" fill="#666666" font-size="13" text-anchor="middle">6%</text>
 <text x="900" y="231.0" fill="#666666" font-size="14">Anthony</text>
-<text x="80.0" y="274" font-size="13" text-anchor="middle">08-20</text>
-<text x="270.0" y="274" font-size="13" text-anchor="middle">09-10</text>
-<text x="460.0" y="274" font-size="13" text-anchor="middle">09-24</text>
-<text x="650.0" y="274" font-size="13" text-anchor="middle">10-01</text>
-<text x="840.0" y="274" font-size="13" text-anchor="middle">10-03</text>
+<text x="80.0" y="270" font-size="13" text-anchor="middle">08-20</text>
+<text x="270.0" y="270" font-size="13" text-anchor="middle">09-10</text>
+<text x="460.0" y="270" font-size="13" text-anchor="middle">09-24</text>
+<text x="650.0" y="270" font-size="13" text-anchor="middle">10-01</text>
+<text x="840.0" y="270" font-size="13" text-anchor="middle">10-03</text>
 <text x="30" y="344" font-size="20">Paraná · total estimulado, com Anthony</text>
 <polyline points="80.0,434.8 333.3,437.2 586.7,438.2 840.0,441.2" fill="none" stroke="#ad5622" stroke-width="3"/>
 <text x="80.0" y="426.8" fill="#ad5622" font-size="13" text-anchor="middle">44,5%</text>
@@ -46,10 +46,10 @@
 <text x="586.7" y="517.0" fill="#666666" font-size="13" text-anchor="middle">8,4%</text>
 <text x="840.0" y="517.5" fill="#666666" font-size="13" text-anchor="middle">8,2%</text>
 <text x="900" y="525.5" fill="#666666" font-size="14">Anthony</text>
-<text x="80.0" y="574" font-size="13" text-anchor="middle">ago*</text>
-<text x="333.3" y="574" font-size="13" text-anchor="middle">09-07</text>
-<text x="586.7" y="574" font-size="13" text-anchor="middle">09-22</text>
-<text x="840.0" y="574" font-size="13" text-anchor="middle">10-01</text>
+<text x="80.0" y="570" font-size="13" text-anchor="middle">Agosto 2026*</text>
+<text x="333.3" y="570" font-size="13" text-anchor="middle">09-07</text>
+<text x="586.7" y="570" font-size="13" text-anchor="middle">09-22</text>
+<text x="840.0" y="570" font-size="13" text-anchor="middle">10-01</text>
 <text x="30" y="644" font-size="20">Atlas · total estimulado, com Anthony</text>
 <polyline points="80.0,737.0 333.3,731.8 586.7,735.8 840.0,730.0" fill="none" stroke="#ad5622" stroke-width="3"/>
 <text x="80.0" y="729.0" fill="#ad5622" font-size="13" text-anchor="middle">43,6%</text>
@@ -69,9 +69,12 @@
 <text x="586.7" y="822.2" fill="#666666" font-size="13" text-anchor="middle">6,3%</text>
 <text x="840.0" y="822.8" fill="#666666" font-size="13" text-anchor="middle">6,1%</text>
 <text x="900" y="830.8" fill="#666666" font-size="14">Anthony</text>
-<text x="80.0" y="874" font-size="13" text-anchor="middle">08-31</text>
-<text x="333.3" y="874" font-size="13" text-anchor="middle">09-20</text>
-<text x="586.7" y="874" font-size="13" text-anchor="middle">09-27</text>
-<text x="840.0" y="874" font-size="13" text-anchor="middle">10-02</text>
-<text x="30" y="940" font-size="14">Fim de campo (mês-dia), ou “ago*” quando o PDF só diz agosto. Séries separadas: não formam uma curva única nem uma probabilidade de vitória.</text>
-<text x="30" y="964" font-size="14">Quaest e Real Time Big Data ficam fora do desenho: fonte secundária e, no caso da Quaest, válidos de modelo de eleitor provável.</text></g></svg>
+<text x="80.0" y="870" font-size="13" text-anchor="middle">31 ago*</text>
+<text x="333.3" y="870" font-size="13" text-anchor="middle">20 set*</text>
+<text x="586.7" y="870" font-size="13" text-anchor="middle">09-27</text>
+<text x="586.7" y="886" font-size="11" text-anchor="middle" fill="#555">(28 set)</text>
+<text x="840.0" y="870" font-size="13" text-anchor="middle">10-02</text>
+<text x="840.0" y="886" font-size="11" text-anchor="middle" fill="#555">(03 Out)</text>
+<text x="30" y="930" font-size="14">Eixo por onda, com o mesmo espaçamento: não é proporcional aos dias e não é probabilidade de vitória. Séries separadas.</text>
+<text x="30" y="952" font-size="14">Data sem asterisco: fim de campo na ficha. Asterisco: rótulo do documento, sem período de campo confirmado. Entre parênteses: rótulo do gráfico quando a ficha traz outra data.</text>
+<text x="30" y="974" font-size="14">Quaest e Real Time Big Data ficam fora do desenho. A Quaest é fonte secundária e os válidos são modelo de eleitor provável. A Atlas de 3/10 é republicação, não o original do instituto.</text></g></svg>

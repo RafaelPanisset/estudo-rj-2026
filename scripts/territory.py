@@ -120,5 +120,6 @@ for c in s['candidatos']:
 lines += ['', 'Anthony Garotinho (Republicanos, 10) recebeu 274.411 votos posteriormente anulados, conforme documentos judiciais e notícias oficiais; não aparece nas linhas de candidatos do snapshot munzona pós-retotalização. Não é uma nona votação válida.', '', '## Maiores margens absolutas favoráveis a Ruas', '', '| Município | Margem | Ruas entre válidos |', '|---|---:|---:|']
 for r in sorted(rs, key=lambda r: -num(r, 'margem_ruas'))[:15]:
     lines.append(f'| {r["municipio"]} | {br_int(r["margem_ruas"])} | {br_pct(r["ruas_pct"])} |')
+lines += ['', 'Esta tabela é de votação, não de pesquisa. As séries de intenção e as ressalvas de data e de fonte estão na análise e em `figures/pesquisas.svg`: “31 ago” e “20 set” da Atlas são rótulos de gráfico, sem ficha de campo; o eixo dessa figura é por onda, não proporcional ao tempo; a onda Atlas de 27/9–2/10 está só em republicação do Poder360; a Quaest é fonte secundária e os válidos são modelo de eleitor provável.']
 (P / 'results/TABELAS.md').write_text('\n'.join(lines) + '\n')
 print('Territorial tests and tables generated')

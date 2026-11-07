@@ -18,7 +18,8 @@ O comando verifica hashes dos snapshots antes de executar, nesta ordem, a agrega
 - `scripts/download.py`: documenta URLs de IBGE, pesquisas e páginas. Não baixa o ZIP de seções nem os ZIPs nacionais do TSE. Se o arquivo já existe e o hash confere, não o regrava. Se o hash diverge, grava a versão nova ao lado e preserva o snapshot. O log novo vai para `data/download-attempts.json`. `download-manifest.json` permanece como registro histórico. Este script não foi executado nesta correção.
 - `data/source-manifest.json`, `download-manifest.json`, `secoes-download.json`: procedência, datas, transformações, falhas e hashes de aquisição. As entradas presidenciais repetem URL e SHA do mesmo ZIP pai já registrado na entrada irmã.
 - `data/snapshot-manifest.json`: hash de todos os insumos preservados, incluindo pesquisas transcritas. Não identifica conteúdo como verdadeiro só por ter hash.
-- `data/pesquisas.csv`: transcrição editorial. Ondas cujo PDF não está em `raw/` trazem a URL, a página e o grau da fonte. A execução não extrai novamente os números dos PDFs.
+- `data/pesquisas.csv`: transcrição editorial. A execução não extrai novamente os números dos PDFs. Conferir a transcrição é outro passo: as páginas estão em [evidencias/2026-11-07/LEIA-ME.md](evidencias/2026-11-07/LEIA-ME.md). Arquivo local com hash não autentica a fonte. Republicação e impressão de matéria não são originais.
+- `evidencias/2026-11-07/`: pareceres, réplicas e PDFs usados nas ondas novas. `reproduce.py` confere o `SHA256SUMS` dessa pasta. As datas de obtenção são da auditoria de 7/11/2026, não do estudo anterior.
 - `results/correspondencia-tse-ibge.csv`: produto da reprodução, junção de 92 municípios por nome normalizado. Não usar código TSE como código IBGE e não tratar o arquivo como insumo.
 
 ## Verificações relevantes

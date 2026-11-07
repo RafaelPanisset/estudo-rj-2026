@@ -159,9 +159,17 @@ for i, (key, title, serie) in enumerate(paineis):
         if pts:
             svg.append(f'<text x="900" y="{pts[-1][1]:.1f}" fill="{color}" font-size="14">{nome}</text>')
     for j, r in enumerate(serie):
-        rotulo = r['campo_fim'][5:] if r['campo_fim'] else 'ago*'
-        svg.append(f'<text x="{80 + j * step:.1f}" y="{baseline + 28}" font-size="13" text-anchor="middle">{html.escape(rotulo)}</text>')
-svg.append('<text x="30" y="940" font-size="14">Fim de campo (mês-dia), ou “ago*” quando o PDF só diz agosto. Séries separadas: não formam uma curva única nem uma probabilidade de vitória.</text>')
-svg.append('<text x="30" y="964" font-size="14">Quaest e Real Time Big Data ficam fora do desenho: fonte secundária e, no caso da Quaest, válidos de modelo de eleitor provável.</text></g></svg>')
+        x = 80 + j * step
+        grafico = (r.get('rotulo_grafico') or '').strip()
+        if r['campo_fim']:
+            svg.append(f'<text x="{x:.1f}" y="{baseline + 24}" font-size="13" text-anchor="middle">{html.escape(r["campo_fim"][5:])}</text>')
+            if grafico:
+                svg.append(f'<text x="{x:.1f}" y="{baseline + 40}" font-size="11" text-anchor="middle" fill="#555">({html.escape(grafico)})</text>')
+        else:
+            legenda = (grafico or 'sem data') + '*'
+            svg.append(f'<text x="{x:.1f}" y="{baseline + 24}" font-size="13" text-anchor="middle">{html.escape(legenda)}</text>')
+svg.append('<text x="30" y="930" font-size="14">Eixo por onda, com o mesmo espaçamento: não é proporcional aos dias e não é probabilidade de vitória. Séries separadas.</text>')
+svg.append('<text x="30" y="952" font-size="14">Data sem asterisco: fim de campo na ficha. Asterisco: rótulo do documento, sem período de campo confirmado. Entre parênteses: rótulo do gráfico quando a ficha traz outra data.</text>')
+svg.append('<text x="30" y="974" font-size="14">Quaest e Real Time Big Data ficam fora do desenho. A Quaest é fonte secundária e os válidos são modelo de eleitor provável. A Atlas de 3/10 é republicação, não o original do instituto.</text></g></svg>')
 (P / 'figures/pesquisas.svg').write_text('\n'.join(svg))
 print('Poll comparisons generated')

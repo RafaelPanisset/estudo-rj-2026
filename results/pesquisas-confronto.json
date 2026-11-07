@@ -47,6 +47,23 @@
     },
     {
       "instituto": "Datafolha",
+      "campo_fim": "2026-09-24",
+      "cenario": "com Garotinho",
+      "grau_fonte": "original (série no PDF v2)",
+      "registro": "RJ-02205/2026",
+      "paes": 48.0,
+      "ruas": 33.0,
+      "anthony": 9.0,
+      "margem_pesquisa_paes": 15.0,
+      "margem_resultado_paes": -6.508392280665973,
+      "diferenca_margens_pp": 21.508392280665973,
+      "diferenca_margens_pp_2dec": 21.51,
+      "denominador_resultado": "validos com Anthony",
+      "mesmo_tipo_de_denominador": true,
+      "nota": "Diferença entre a margem da pesquisa e a margem da urna no mesmo rótulo de válidos com Anthony. Não mede erro amostral puro nem mudança individual."
+    },
+    {
+      "instituto": "Datafolha",
       "campo_fim": "2026-10-01",
       "cenario": "com Garotinho",
       "grau_fonte": "original",
@@ -206,6 +223,17 @@
       "erro_margem": 27.508392280665973,
       "erro_anthony": 7.834585336919737,
       "anthony_pesquisa": 11.0,
+      "aviso": "Saldo líquido por candidato. Não identifica transferência de eleitores."
+    },
+    {
+      "instituto": "Datafolha",
+      "campo_fim": "2026-09-24",
+      "grau_fonte": "original (série no PDF v2)",
+      "erro_paes": 5.238807812354729,
+      "erro_ruas": -16.269584468311244,
+      "erro_margem": 21.508392280665973,
+      "erro_anthony": 5.834585336919737,
+      "anthony_pesquisa": 9.0,
       "aviso": "Saldo líquido por candidato. Não identifica transferência de eleitores."
     },
     {
