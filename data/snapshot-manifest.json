@@ -94,5 +94,9 @@
   {
     "file": "data/pesquisas.csv",
     "sha256": "760d57585f9af4da720e564a53b0416f03ddb25448ebd9f52391cb00d471bd9e"
+  },
+  {
+    "file": "data/pesquisas-segundo-turno.csv",
+    "sha256": "fd2371484ae45621b079b043516f4581f2863c46aa466a1e866a3d373c2bcf54"
   }
 ]

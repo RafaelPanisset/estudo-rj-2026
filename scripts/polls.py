@@ -173,3 +173,21 @@ svg.append('<text x="30" y="952" font-size="14">Data sem asterisco: fim de campo
 svg.append('<text x="30" y="974" font-size="14">Quaest e Real Time Big Data ficam fora do desenho. A Quaest é fonte secundária e os válidos são modelo de eleitor provável. A Atlas de 3/10 é republicação, não o original do instituto.</text></g></svg>')
 (P / 'figures/pesquisas.svg').write_text('\n'.join(svg))
 print('Poll comparisons generated')
+
+segundo = P / 'data/pesquisas-segundo-turno.csv'
+require(segundo.is_file(), 'Base de segundo turno ausente: data/pesquisas-segundo-turno.csv')
+st_rows = list(csv.DictReader(segundo.open()))
+require(st_rows, 'Base de segundo turno vazia')
+for r in st_rows:
+    require(r['cenario'] == 'segundo turno', 'Linha fora do cenário de segundo turno')
+    require(r['anterior_ao_primeiro_turno'] == 'sim', 'Pesquisa de segundo turno não anterior ao primeiro turno')
+    require(r['paes'] and r['ruas'], 'Percentual de segundo turno ausente')
+st_out = {
+    'nota': (
+        'Transcrição separada dos cenários Ruas × Paes. Todos os campos são anteriores ao primeiro turno de 4/10/2026. '
+        'Não são previsão, não medem um eleitorado de novembro ou dezembro e não entram no confronto com a urna nem no gráfico de primeiro turno.'
+    ),
+    'pesquisas': st_rows,
+}
+(P / 'results/pesquisas-segundo-turno.json').write_text(json.dumps(st_out, ensure_ascii=False, indent=2) + '\n')
+print('Second-round poll table written')

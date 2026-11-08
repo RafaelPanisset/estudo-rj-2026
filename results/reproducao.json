@@ -1,12 +1,13 @@
 {
-  "executed_at": "2026-11-07T12:56:32.409567+00:00",
+  "executed_at": "2026-11-08T12:18:46.240249+00:00",
   "command": "python3 scripts/reproduce.py",
   "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
   "platform": "Linux-6.12.113+-x86_64-with-glibc2.39",
   "optimize_flag": 0,
   "offline": "não medido; os scripts chamados não abrem rede",
-  "snapshot_files_verified": 24,
+  "snapshot_files_verified": 25,
   "evidence_files_verified": 36,
+  "evidence_manifest_sha256": "33c8eb63b40df22e5c5be0620a6206c6ec17c8358ce7622672dfac6cdcd25910",
   "inputs_sha256": {
     "raw/acao-novembro.html": "cc8c1db2cb83cd31d3fc1bc7db0dee694c60b5b594e6169abdce6891ac51f306",
     "raw/atlas-setembro.pdf": "200b30bbf8eb8d231fc5470dd6cdc744ed87feb25996f9ea7c67787d20eec121",
@@ -31,7 +32,8 @@
     "raw/votacao-2022-RJ.csv": "2d947b51afc381f6d83e7723d6520f0c1de9d48674cde6dc9e1ebc237df6f2df",
     "raw/votacao-2026-RJ.csv": "03078751a36c9ceddf97a4ffac79a834e2545f65d97e0a432605a1eb2ce83872",
     "raw/wladimir-apoio.html": "1e77d24e7d42d233b0ca9248bc193d67d314f8b4f80dfacca732897729ade371",
-    "data/pesquisas.csv": "854309baeae0dd601972a3c3c4bf79887aff5063ebab7a6349a5086fb4f9f7ad"
+    "data/pesquisas.csv": "760d57585f9af4da720e564a53b0416f03ddb25448ebd9f52391cb00d471bd9e",
+    "data/pesquisas-segundo-turno.csv": "fd2371484ae45621b079b043516f4581f2863c46aa466a1e866a3d373c2bcf54"
   },
   "scripts": [
     "analyze",
@@ -42,13 +44,31 @@
   ],
   "local_links": "all exist",
   "svg_xml": "valid",
-  "results_sha256_before": {},
-  "figures_sha256_before": {},
-  "results_sha256": {
-    "results/TABELAS.md": "6a12c3f949c3f02e3f41e7190992c8caa82a0ea1176be033ec70bbbdaf591ab6",
+  "results_sha256_before": {
+    "results/TABELAS.md": "0c1732ec6b1ffa7acc0f80e4e392e00c29da5a947eeb51d5e405256a5af7d668",
     "results/correspondencia-tse-ibge.csv": "1e07c20f381106efef1b159a583a3133cd7e7dd4fff6fd2c41c52e2ad4be5115",
     "results/municipios.csv": "697907d1ca146f87b0a4d9ce4c2d33b24d7a2782c3b51129b328c922827717d6",
     "results/pesquisas-confronto.json": "4a8a7cf725fba3c265248e6c650b94468c31852c9b204cb40d6368e8b76da419",
+    "results/regioes.csv": "09e15a057a441606537fd9f0535298c9bdc0fe539da898beb606349ccf8d0222",
+    "results/reproducao.json": "fda4575e154d52cfeed77140c27fb88786b4cd9bfba523fa9541273283e4dbda",
+    "results/resumo.json": "f525e6ff5ca2f41725bff128b87b6b3ac64f7ea7f9c62e73424a6b6f563de97f",
+    "results/secoes-resumo.json": "ec5b95f4bf8c7eb73cb500f10dcfc212b4b6f461856b01e959ce235560102fbd",
+    "results/secoes.csv": "8ec3cfe5f95e8692115989713396768157f984d8bc8ade18e8d84d16a86f6551",
+    "results/testes-territoriais.json": "639a091e6b48689866d593855d8a75c416048965cf1417883cbb5c113c1e6957",
+    "results/verificacao.json": "7b2c5e033f1fefaf5ebfa2d034fc98b0878ca1e035b615ea30ed0fe8263b0801",
+    "results/zonas.csv": "e0be23729a8418f1d24ab0cf470731a00068b0a5ba04d2a1c913dc6af3db7c30"
+  },
+  "figures_sha256_before": {
+    "figures/abstencao.svg": "f84760abdae7b8531542d8087ad67bf45b8bceba46311033f22b23ccd2abbe63",
+    "figures/margem.svg": "26369f8c1ca60185ef0b953541ab3a409023cb2ac97d353daefe95dfe1f3d56e",
+    "figures/pesquisas.svg": "ad3c0cd06ed9864555c6681b8cd3a020cf9d6571380ef4295bcbc45bccc49d80"
+  },
+  "results_sha256": {
+    "results/TABELAS.md": "0c1732ec6b1ffa7acc0f80e4e392e00c29da5a947eeb51d5e405256a5af7d668",
+    "results/correspondencia-tse-ibge.csv": "1e07c20f381106efef1b159a583a3133cd7e7dd4fff6fd2c41c52e2ad4be5115",
+    "results/municipios.csv": "697907d1ca146f87b0a4d9ce4c2d33b24d7a2782c3b51129b328c922827717d6",
+    "results/pesquisas-confronto.json": "4a8a7cf725fba3c265248e6c650b94468c31852c9b204cb40d6368e8b76da419",
+    "results/pesquisas-segundo-turno.json": "0ad0dacb6a227157a33ecf279af68b57d814e5efabefd245e0c2547e40e71506",
     "results/regioes.csv": "09e15a057a441606537fd9f0535298c9bdc0fe539da898beb606349ccf8d0222",
     "results/resumo.json": "f525e6ff5ca2f41725bff128b87b6b3ac64f7ea7f9c62e73424a6b6f563de97f",
     "results/secoes-resumo.json": "ec5b95f4bf8c7eb73cb500f10dcfc212b4b6f461856b01e959ce235560102fbd",
