@@ -1,0 +1,22 @@
+HTTP/2 200 
+date: Wed, 11 Nov 2026 09:03:17 GMT
+content-type: text/html; charset=UTF-8
+show-page-version: 0
+x-request-id: 50ce19ab-759b-4971-87bd-0066901dd2b9
+x-cache-status: MISS
+x-mobile: desktop
+x-served-from: rpaas-multi-domain-sgr-prod, BS Show Services
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self' https://*.globo.com https://*.globoi.com https://*.i.globo https://*.techtudo.com.br always;
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+expires: Wed, 11 Nov 2026 09:03:27 GMT
+cache-control: max-age=10
+x-virtual-host: cbn.globo.com
+x-location-rule: homes
+age: 0
+vary: Accept-Encoding, X-Forwarded-Proto, User-Agent
+x-bip: varnish-as-sp-ra11-ca02-rkhqm
+via: 2.1 KubeCache
+accept-ranges: bytes
+

@@ -22,7 +22,7 @@ A [tabela de candidatos](results/TABELAS.md) reúne os oito nomes com votos vál
 
 O “antes” é reconstrução contábil: os válidos do snapshot mais os 274.411 votos de Anthony. Não foi lido numa totalização oficial anterior. A exclusão reduz o limiar de maioria pela metade desse volume. Ruas passa a ficar 73.885,5 votos acima da metade dos válidos. Isso explica o encerramento no primeiro turno, **não explica de onde vieram seus 4,27 milhões de votos**. A vantagem sobre Paes já existia antes. Não se pode afirmar quem venceria um segundo turno que não aconteceu.
 
-A [seção provisória de segundo turno](research/SEGUNDO-TURNO.md), não concluída e com corte em 8/11/2026, separa esse resultado proclamado de um pedido ainda sem decisão. Não há, neste estudo, decisão que determine nova votação. A diplomação foi anunciada pelo TRE-RJ para 18/12/2026. Cassação da chapa e restabelecimento do segundo turno são vias diferentes. A seção não projeta vencedor.
+A [seção provisória de segundo turno](research/SEGUNDO-TURNO.md), não concluída e com corte em 11/11/2026, separa esse resultado proclamado de um pedido ainda sem decisão. Não há, neste estudo, decisão que determine nova votação. A diplomação foi anunciada pelo TRE-RJ para 18/12/2026. Cassação da chapa e restabelecimento do segundo turno são vias diferentes. A seção não projeta vencedor.
 
 ## 2. Ruas cresceu nas pesquisas, mas Paes continuou à frente
 

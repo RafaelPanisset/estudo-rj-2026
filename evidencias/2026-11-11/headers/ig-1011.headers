@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Wed, 11 Nov 2026 09:03:18 GMT
+content-type: text/html; charset=UTF-8
+cf-apo-via: origin,host
+access-control-allow-origin: *
+vary: Host,Accept-Encoding
+edge-control: max-age=60s,downstream-ttl=60s
+x-url: /politica/2026-11-10/zanin-recebe-defesa-de-paes-em-acao-para-reabrir-2-turno-no-rj.html
+x-user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 [idealmedia.io CreativeBot v0.2]
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=300
+age: 1521
+last-modified: Wed, 11 Nov 2026 08:38:20 GMT
+expires: Wed, 11 Nov 2026 09:08:18 GMT
+cf-cache-status: HIT
+x-content-type-options: nosniff
+speculation-rules: "/cdn-cgi/speculation"
+server: cloudflare
+cf-ray: a58c1f7a0b630fdd-IAD
+alt-svc: h3=":443"; ma=86400
+
