@@ -29,7 +29,7 @@ As pesquisas ajudam a entender o favoritismo de Paes e o crescimento de Ruas, ma
 - [Análise detalhada](ANALISE-DETALHADA.md): pesquisas, mecanismos, regiões, história, participação e contraexemplos.
 - [Tabelas](results/TABELAS.md), [municípios](results/municipios.csv), [zonas](results/zonas.csv), [seções](results/secoes.csv).
 - [Fontes e divergências](research/FONTES.md), [hipóteses](research/HIPOTESES.md), [lacunas](research/LACUNAS.md).
-- [Cenário de segundo turno (não concluído)](research/SEGUNDO-TURNO.md): possibilidade judicial ainda sem decisão. Não altera o resultado proclamado e não projeta vencedor. Corte desta seção: 11/11/2026.
+- [Cenário de segundo turno (não concluído)](research/SEGUNDO-TURNO.md): a liminar da ADPF 1362 foi indeferida em 12/11/2026; o mérito segue em instrução. Não altera o resultado proclamado e não projeta vencedor. Corte desta seção: 12/11/2026. A diplomação anunciada continua em 18/12/2026.
 - [Reprodução](REPRODUCAO.md) e [auditoria](AUDITORIA.md).
 
 ![Margem municipal](figures/margem.svg)

@@ -1,0 +1,29 @@
+HTTP/2 200 
+date: Thu, 12 Nov 2026 21:42:48 GMT
+content-type: text/html; charset=UTF-8
+show-page-version: 0
+x-request-id: 9598e7d6-21c4-4d5e-a233-7cae3d0c2b74
+x-mobile: desktop
+x-served-from: rpaas-multi-domain-oglobo-prod, BS Show Services
+content-security-policy: upgrade-insecure-requests;
+content-security-policy: frame-ancestors 'self' https://*.globo.com https://*.globoi.com https://*.i.globo https://*.techtudo.com.br always;
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+expires: Thu, 12 Nov 2026 21:41:40 GMT
+cache-control: max-age=10
+x-cache-status-router: STALE
+referrer-policy: no-referrer-when-downgrade
+x-virtual-host: oglobo.globo.com
+x-location-rule: ghtml
+x-remote_addr: 191.255.87.184
+age: 27
+wall-subscription-level: 0
+wall-usl-status: 
+wall-blocked-session: 0
+vary: Accept-Encoding, X-Forwarded-Proto, User-Agent
+x-cache-status: HIT-STALE
+x-bip: varnish-as-sp-ra01-mp14ca03-f58tc
+via: 2.2 KubeCache
+accept-ranges: bytes
+content-length: 979667
+

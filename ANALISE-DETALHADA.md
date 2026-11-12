@@ -22,7 +22,7 @@ A [tabela de candidatos](results/TABELAS.md) reúne os oito nomes com votos vál
 
 O “antes” é reconstrução contábil: os válidos do snapshot mais os 274.411 votos de Anthony. Não foi lido numa totalização oficial anterior. A exclusão reduz o limiar de maioria pela metade desse volume. Ruas passa a ficar 73.885,5 votos acima da metade dos válidos. Isso explica o encerramento no primeiro turno, **não explica de onde vieram seus 4,27 milhões de votos**. A vantagem sobre Paes já existia antes. Não se pode afirmar quem venceria um segundo turno que não aconteceu.
 
-A [seção provisória de segundo turno](research/SEGUNDO-TURNO.md), não concluída e com corte em 11/11/2026, separa esse resultado proclamado de um pedido ainda sem decisão. Não há, neste estudo, decisão que determine nova votação. A diplomação foi anunciada pelo TRE-RJ para 18/12/2026. Cassação da chapa e restabelecimento do segundo turno são vias diferentes. A seção não projeta vencedor.
+A [seção provisória de segundo turno](research/SEGUNDO-TURNO.md), não concluída e com corte em 12/11/2026, separa esse resultado proclamado de um pedido ainda sem decisão de mérito. Em 12/11, o relator indeferiu por ora a liminar. Não há, neste estudo, decisão que determine nova votação. A diplomação foi anunciada pelo TRE-RJ para 18/12/2026. Cassação da chapa e restabelecimento do segundo turno são vias diferentes. A seção não projeta vencedor.
 
 ## 2. Ruas cresceu nas pesquisas, mas Paes continuou à frente
 
@@ -194,7 +194,7 @@ O [quadro de hipóteses](research/HIPOTESES.md) distingue o que foi descartado d
 
 ## 11. Glossário
 
-- **ADPF.** Ação de descumprimento de preceito fundamental, ação constitucional de controle. Aqui, a ADPF 1362, do PSD, pedindo segundo turno. Não se encontrou decisão de mérito. O despacho de 16/10 pediu informações e não deferiu a segunda votação. O acompanhamento provisório está em [Cenário de segundo turno](research/SEGUNDO-TURNO.md).
+- **ADPF.** Ação de descumprimento de preceito fundamental, ação constitucional de controle. Aqui, a ADPF 1362, do PSD, pedindo segundo turno. Em 12/11/2026 a liminar foi indeferida por ora, sem exame de mérito. A instrução segue. O acompanhamento provisório está em [Cenário de segundo turno](research/SEGUNDO-TURNO.md).
 - **PPT.** Probabilidade proporcional ao tamanho. No relatório da Paraná, é o método de seleção de municípios e localidades. Não equivale ao recrutamento digital.
 - **RDR.** Atlas Random Digital Recruitment, o recrutamento digital aleatório descrito no PDF da Atlas arquivado neste repositório.
 - **Pós-estratificação.** Reponderação da amostra para aproximá-la de totais conhecidos da população. A Atlas a descreve assim. Não é o mesmo procedimento que o PPT domiciliar.
@@ -210,6 +210,6 @@ O [quadro de hipóteses](research/HIPOTESES.md) distingue o que foi descartado d
 
 **Ruas já tinha base e apoios importantes.** Em 2022, recebeu 175.977 votos para deputado, concentrados em São Gonçalo. Em 2026, contou com Flávio Bolsonaro, Cláudio Castro e Altineu Côrtes e venceu em 79 municípios. Há evidências de associação com o campo presidencial de Flávio, mas não uma medida de quantos votos cada apoio trouxe.
 
-**Garotinho mudou o desfecho jurídico.** A anulação de seus 274.411 votos levou Ruas de 49,27% — percentual reconstruído incluindo esses votos — a 50,88% dos válidos. Ruas já estava à frente de Paes; a decisão dispensou o segundo turno no resultado proclamado. Nenhum voto anulado foi acrescentado à sua votação. O pedido para reabrir a disputa segue sem decisão que determine segundo turno. A [seção provisória](research/SEGUNDO-TURNO.md) não escolhe vencedor.
+**Garotinho mudou o desfecho jurídico.** A anulação de seus 274.411 votos levou Ruas de 49,27% — percentual reconstruído incluindo esses votos — a 50,88% dos válidos. Ruas já estava à frente de Paes; a decisão dispensou o segundo turno no resultado proclamado. Nenhum voto anulado foi acrescentado à sua votação. Em 12/11 a liminar que pedia o restabelecimento do segundo turno foi indeferida por ora. O mérito, os embargos no TSE e um eventual recurso extraordinário seguem sem desfecho. A [seção provisória](research/SEGUNDO-TURNO.md) não escolhe vencedor.
 
 **Santinhos, religião, propaganda e erros de número continuam como questões abertas.** Há material documentado e denúncias que merecem investigação, mas faltam provas sobre alcance e efeito. Não dá para afirmar que decidiram a eleição, nem descartar essa possibilidade.

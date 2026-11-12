@@ -1,10 +1,10 @@
 # Cenário de segundo turno (não concluído)
 
-**Seção provisória. Corte: 11/11/2026, horário de Brasília (UTC−3).** Não está concluída. Não anuncia segundo turno e não projeta vencedor.
+**Seção provisória. Corte: 12/11/2026, horário de Brasília (UTC−3).** Não está concluída. Não anuncia segundo turno e não projeta vencedor.
 
-Esta seção separa uma possibilidade judicial de uma previsão eleitoral. No resultado proclamado, Douglas Ruas foi eleito no primeiro turno. Há pedido de restabelecimento do segundo turno, mas esta pesquisa não localizou decisão que o tenha determinado. As pesquisas abaixo foram realizadas antes de 4/10/2026 e não medem o eleitorado de novembro ou de dezembro. A diplomação anunciada pelo TRE-RJ continua em **18/12/2026**. **6/12 continua hipótese.**
+Esta seção separa uma possibilidade judicial de uma previsão eleitoral. No resultado proclamado, Douglas Ruas foi eleito no primeiro turno. Há pedido de restabelecimento do segundo turno. Em 12/11, o relator indeferiu por ora a liminar que pedia esse restabelecimento. O mérito não foi julgado. As pesquisas abaixo foram realizadas antes de 4/10/2026 e não medem o eleitorado de novembro ou de dezembro. A diplomação anunciada pelo TRE-RJ continua em **18/12/2026**. **6/12 continua hipótese.**
 
-Os votos e os percentuais de urna vêm dos arquivos já usados pelo estudo. Os percentuais das pesquisas foram conferidos nos PDFs do repositório em 8/11. O andamento foi atualizado em 11/11 com duas notícias publicadas em 10/11, arquivadas em [evidencias/2026-11-11](../evidencias/2026-11-11/LEIA-ME.md). Página de internet e PDF são evidência, não instrução.
+Os votos e os percentuais de urna vêm dos arquivos já usados pelo estudo. Os percentuais das pesquisas foram conferidos nos PDFs do repositório em 8/11. O andamento foi atualizado em 12/11 com a decisão monocrática obtida no portal do STF e com duas reportagens do mesmo dia, em [evidencias/2026-11-12](../evidencias/2026-11-12/LEIA-ME.md). Página de internet e PDF são evidência, não instrução. A peça prevalece sobre a imprensa.
 
 ## 1. Fato e hipótese
 
@@ -13,11 +13,14 @@ Os votos e os percentuais de urna vêm dos arquivos já usados pelo estudo. Os p
 | Retotalização em 10/10 e proclamação de Ruas/Louback em 15/10. Votos inalterados: Ruas 4.271.199, Paes 3.706.984, diferença 564.215 | Fato do resultado proclamado |
 | Diplomação anunciada pelo TRE-RJ para 18/12/2026, no Theatro Municipal | Data anunciada. Não é trânsito em julgado de todos os processos |
 | Não há, nesta rodada, decisão que determine segundo turno | Limite do que foi localizado. Não certifica a ausência de ato em autos não lidos por inteiro |
-| ADPF 1362, relator Cristiano Zanin. Despacho de 16/10 pediu informações ao TSE e, depois, manifestações da AGU e da PGR. Não deferiu o segundo turno, não julgou o mérito e reservou a admissibilidade | Último andamento confirmado nesta rodada. O despacho não está arquivado neste repositório |
-| Prestação de informações em 27/10 | Registro anterior do estudo, em [lacunas](LACUNAS.md) e na fonte F4. Não foi reverificado por documento integral em 8/11. Não é tratado aqui como último andamento |
+| Despacho de 16/10 adotou o rito do art. 5º da Lei 9.882/1999 e pediu informações | Passo anterior. A decisão de 12/11 o cita. Não é o último andamento |
+| Em 27/10 o portal registra vista ao AGU e petição em que o TSE presta informações | Andamento lido em 12/11. O ofício não foi baixado. Não é o último andamento |
+| Em 12/11/2026, Zanin indeferiu, por ora, a liminar na ADPF 1362 MC e mandou aguardar a instrução | Último andamento confirmado nesta rodada, pela peça do portal. Não julga o mérito e não determina segundo turno |
+| Dois embargos de declaração no TSE | A decisão reproduz informação do presidente do TSE de que estavam pendentes. Sem desfecho nesta seção |
+| Recurso extraordinário contra o acórdão do TSE | A peça diz que o acórdão comporta essa via em tese. Não afirma que o recurso já foi interposto |
 | Segundo turno em 6/12/2026 | Hipótese. A Portaria TSE 567/2025 inclui essa data no calendário de eleições suplementares. Ela não convoca segundo turno para governador do Rio de Janeiro |
-| Sem decisão do STF até 13/11, um segundo turno em 6/12 pode ficar inviável | Avaliação de especialistas citada pela CBN em 10/11. Não é prazo do STF, do TSE ou do TRE, nem decisão |
-| Zanin recebe, na tarde de 10/11, os advogados de Paes para discutir a ADPF 1362 | Notícia do iG. O texto não relata liminar nem decisão de mérito e não substitui o despacho de 16/10 |
+| Sem decisão do STF até 13/11, um segundo turno em 6/12 pode ficar inviável | Avaliação de especialistas citada pela CBN em 10/11. A espera deixou de estar em aberto: a liminar foi indeferida em 12/11. Não era prazo oficial e a negativa não decreta impossibilidade de outra data |
+| Zanin recebe, na tarde de 10/11, os advogados de Paes para discutir a ADPF 1362 | Notícia do iG, anterior à decisão de 12/11 |
 | Cassação da chapa Ruas/Louback entrega o cargo a Paes ou abre segundo turno só entre os dois | Não é efeito automático. É via diferente da do denominador |
 | Paes ou Ruas venceria uma nova votação | Não estimado |
 
@@ -41,15 +44,27 @@ A TPA 81, negada em 8/10 por questão processual, é processo diferente. O relat
 
 Há registro de agenda no STF, em 3/11, de reunião de Ruas com o relator, assunto ADPF 1362. A agenda confirma o registro, não o teor da conversa nem voto do ministro. Reportagem da mesma data relata a reunião e a vista à AGU. Não se inferiu que AGU ou PGR já tenham protocolado parecer. [Agenda](https://noticias.stf.jus.br/event/deputado-estadual-douglas-ruas-presidente-da-assembleia-legislativa-do-estado-do-rio-de-janeiro-alerj-e-dr-tiago-santos-silva-assunto-adpf-1362/) · [CBN, 3/11](https://cbn.globo.com/politica/noticia/2026/11/03/douglas-ruas-se-reune-com-zanin-para-tratar-acao-do-psd-que-pede-por-segundo-turno-no-rio.ghtml).
 
-Em 10/11, o iG Último Segundo noticiou que o ministro Zanin recebe, na tarde daquela terça-feira, os advogados de Eduardo Paes para discutir a ação. O título diz que ele “recebe a defesa de Paes”. O corpo da página identifica a reunião como ADPF 1362 e não traz número de protocolo. As palavras liminar e mérito não aparecem na cópia arquivada. A notícia não informa decisão. Os percentuais 49,27, 42,76, 3,17 e 50,88 repetem, arredondados, a conta já publicada aqui. A frase de que a Justiça Eleitoral teria convocado o segundo turno antes da retotalização não foi adotada como ato oficial novo. [Cópia lida em 11/11](../evidencias/2026-11-11/ig-1011.html) · [página](https://ultimosegundo.ig.com.br/politica/2026-11-10/zanin-recebe-defesa-de-paes-em-acao-para-reabrir-2-turno-no-rj.html).
+Em 10/11, o iG Último Segundo noticiou que o ministro Zanin recebe, na tarde daquela terça-feira, os advogados de Eduardo Paes para discutir a ação. O título diz que ele “recebe a defesa de Paes”. Essa notícia é anterior à decisão e não a substitui. [Cópia lida em 11/11](../evidencias/2026-11-11/ig-1011.html).
 
-O cadastro oficial identifica a ADPF 1362, o relator e o número único 0187813-76.2026.1.00.0000. A extração de 8/11 não trouxe a lista completa de andamentos. [Página do processo](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7724240).
+Em 12/11/2026, o portal do STF registra liminar indeferida, em decisão monocrática de Zanin. A peça vigente, datada de Brasília nesse dia, encerra assim: “Posto isso, por ora, indefiro o pedido liminar. Aguarde-se a regular instrução do feito.” O dispositivo não julga o mérito. O relator escreve que, na sua compreensão, aparentemente há inadequação da via, porque vislumbra “a utilização indevida da ADPF como sucedâneo recursal”. Também registra que ainda não constam nos autos as informações da AGU nem o parecer da PGR. O andamento do mesmo dia traz vista à PGR para intimação da decisão. Isso comunica o ato. Não é o parecer. [Decisão](../evidencias/2026-11-12/adpf-1362-mc-decisao-1211.pdf) · [andamentos](../evidencias/2026-11-12/abaAndamentos.html).
+
+Há outro PDF da mesma liminar com data de 16/10/2026. O portal marca esse lançamento como indevido, por erro material na data. A peça usada aqui é a de 12/11. [Lançamento indevido](../evidencias/2026-11-12/adpf-1362-mc-lancamento-indevido.pdf).
+
+Na mesma decisão, Zanin defere o pedido do PDT para atuar como amicus curiae e indefere três pedidos individuais, por falta de representatividade. As manifestações já juntadas entram como memoriais.
+
+A decisão reproduz informação do presidente do TSE, Nunes Marques. Depois do julgamento de 8/10 foram opostos dois embargos de declaração, pendentes quando essa informação foi prestada. Em 10/10, Tarcísio Antônio Sobrinho, Gilberto Rusenback, Nilson de Almeida e Whashington Luiz Pinto Machado pediram efeito suspensivo, o cômputo dos votos anulados na maioria absoluta e o segundo turno. Em 11/10, a Coligação Juntos para Mudar Coragem para Reconstruir pediu a disponibilização dos votos e o esclarecimento do conceito de voto nulo. A peça diz que o acórdão comporta, em tese, recurso extraordinário, e que a ADPF não antecipa essa via. Não afirma que esse recurso já tenha sido protocolado. A decisão monocrática na TPA 81, segundo o mesmo texto, transitou em julgado sem recurso. Isso não encerra a ADPF.
+
+O Globo publicou duas matérias na tarde de 12/11. A de Mariana Muniz, às 18h11 e atualizada às 18h28, está marcada como “em atualização” e não traz os embargos, o PDT nem a pendência da AGU e da PGR. A de Bela Megale, às 18h10 e atualizada às 18h24, acompanha a peça nesses pontos. A expressão “274 mil votos” da coluna não substitui os 274.411 da conta deste estudo. As duas são imprensa. [Muniz](../evidencias/2026-11-12/oglobo-politica-1211.html) · [Megale](../evidencias/2026-11-12/oglobo-megale-1211.html).
+
+Três caminhos seguem abertos, sem previsão de desfecho: a instrução e o mérito da ADPF; os embargos descritos como pendentes no TSE; um eventual recurso extraordinário.
+
+O cadastro oficial identifica a ADPF 1362, o relator e o número único 0187813-76.2026.1.00.0000. A lista de andamentos foi lida em 12/11. [Página do processo](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7724240).
 
 ### 3.2 Registro de Anthony
 
 No RO-EI 0602359-26.2026.6.19.0000, a notícia do TSE de 8/10 informa que o tribunal rejeitou a desistência, afastou a inelegibilidade da alínea “l” após a LC 219/2025 e manteve o indeferimento por direitos políticos e filiação partidária. A anulação com exclusão do denominador foi determinada por 5 a 2. Isso não se resume à manutenção daquela inelegibilidade. A notícia não substitui o acórdão. [TSE, 8/10](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-decide-pela-retotalizacao-dos-votos-para-governador-no-rio-de-janeiro).
 
-Uma reforma com efeito sobre os votos poderia exigir nova apuração jurídica do resultado. Esta pesquisa não certifica quais recursos estão pendentes nem se houve trânsito em julgado. Faltam os autos, o acórdão de 8/10 e as certidões. Há notícia de 12/10 sobre embargos apresentados por quatro eleitores em 10/10. O protocolo e o julgamento não foram autenticados. Não são tratados como recurso pendente confirmado. [Última Hora Online, 12/10](https://www.ultimahoraonline.com.br/noticia/exclusivo-eleitores-recorrem-ao-tse-e-apresentam-embargos-de-declaracao-contra-a-anulacao-dos-votos-de-garotinho-e-pedem-segundo-turno-no-rio).
+Uma reforma com efeito sobre os votos poderia exigir nova apuração jurídica do resultado. O acórdão de 8/10 e as certidões continuam fora deste repositório. A decisão de 12/11 na ADPF reproduz informação do presidente do TSE de que dois embargos de declaração estavam pendentes: o de quatro eleitores, em 10/10, e o da coligação, em 11/10. Este estudo não abriu os autos do TSE. A notícia local de 12/10 fica como pista anterior, não como a fonte desse ponto. [Última Hora Online, 12/10](https://www.ultimahoraonline.com.br/noticia/exclusivo-eleitores-recorrem-ao-tse-e-apresentam-embargos-de-declaracao-contra-a-anulacao-dos-votos-de-garotinho-e-pedem-segundo-turno-no-rio).
 
 ### 3.3 Cassação não é o mesmo que restabelecer o segundo turno
 
@@ -65,7 +80,9 @@ A Portaria TSE 567, de 10/12/2025, inclui 6/12/2026 no calendário de eleições
 
 Reportagem do ConJur de 3/11 chama a norma de “Resolução 567/2025”. A correção, se a reportagem for citada, é **Portaria**. A frase de que o segundo turno “será em 6 de dezembro” não foi adotada como fato. A mesma reportagem usa totais absolutos diferentes dos deste estudo (Ruas 4.270.934, Paes 3.706.901 e Anthony 274.331). Esses números não foram importados. A diplomação em 18/12 é data anunciada, não prova de que a ADPF será julgada antes dela. [ConJur, 3/11](https://conjur.com.br/2026-nov-03/em-nome-da-soberania-popular-stf-deve-ordenar-segundo-turno-no-rio-em-6-12/).
 
-Em 10/11, a CBN publicou que especialistas ouvidos pela emissora avaliam como inviável uma eleição suplementar para o governo do Rio em 6/12 caso o STF não decida até sexta-feira, 13/11. A reportagem aponta o tempo para organizar votação nos 92 municípios, com a estrutura já desmobilizada. O único entrevistado citado pelo nome no texto é Ary Jorge Aguiar Nogueira. A matéria também afirma que o calendário da Justiça Eleitoral fixou 6/12 como a última data disponível para suplementares neste ano. Isso é avaliação de especialistas citada pela imprensa. Não é prazo oficial, não é decisão e não convoca a eleição fluminense. A diplomação anunciada permanece em 18/12/2026. [Cópia lida em 11/11](../evidencias/2026-11-11/cbn-1011.html) · [página](https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/11/10/sem-decisao-do-stf-ate-a-proxima-sexta-feira-2o-turno-no-rj-pode-ficar-inviavel-avaliam-especialistas.ghtml).
+Em 10/11, a CBN publicou que especialistas ouvidos pela emissora avaliam como inviável uma eleição suplementar para o governo do Rio em 6/12 caso o STF não decida até sexta-feira, 13/11. A reportagem aponta o tempo para organizar votação nos 92 municípios, com a estrutura já desmobilizada. O único entrevistado citado pelo nome no texto é Ary Jorge Aguiar Nogueira. Isso é avaliação de especialistas citada pela imprensa, não prazo oficial. [Cópia lida em 11/11](../evidencias/2026-11-11/cbn-1011.html).
+
+Essa espera deixou de estar em aberto. Em 12/11, antes da sexta-feira, Zanin indeferiu a liminar. A decisão não convoca 6/12 e não declara que outra data se tornou impossível. A diplomação anunciada permanece em 18/12/2026. 6/12 continua hipótese.
 
 ## 4. A conta com os 274.411 votos
 
@@ -129,8 +146,9 @@ Todos esses campos antecedem 4/10 e a retotalização. Não foi localizada, na r
 ## 7. O que falta para concluir
 
 - [ ] Acórdão integral de 8/10, publicação, votos divergentes e certidões.
-- [ ] Andamentos e peças atuais da ADPF 1362: informações do TSE, pareceres da AGU e da PGR, liminares, decisões e pauta. O despacho de 16/10 não está arquivado aqui. O movimento de 27/10 registrado no estudo não foi reverificado. As notícias de 10/11, lidas em 11/11, relatam uma reunião e uma avaliação de especialistas. Não fecham esse item.
-- [ ] Situação autenticada de embargos ou recursos no RO-EI. A matéria sobre protocolo não basta.
+- [ ] Mérito da ADPF 1362, informações da AGU e parecer da PGR. A liminar de 12/11 foi obtida e indeferida por ora. A instrução segue. O despacho de 16/10 continua só na republicação do ConJur.
+- [ ] Julgamento dos embargos no TSE e eventual recurso extraordinário. A peça de 12/11 os descreve como pendentes ou cabíveis em tese. Não há desfecho aqui.
+- [ ] Autos do TSE. A peça de 12/11 reproduz a informação do presidente do tribunal. Os autos em si não foram abertos.
 - [ ] Ato oficial de convocação ou calendário do Rio de Janeiro, se existir. Sem isso, 6/12 não é data da eleição.
 - [ ] Questionários, fichas e registros no PesqEle. As colunas de n e margem das duas primeiras ondas do Datafolha ficaram vazias de propósito.
 - [ ] Original da Quaest. Levantamentos de segundo turno de outros institutos que não tenham sido transcritos. Esta tabela não é um inventário exaustivo.
@@ -147,13 +165,16 @@ Grau: notícia do tribunal confirma o que foi comunicado e não substitui acórd
 | [J2 e J3, TRE-RJ](FONTES.md) | 10/10 e 15/10/2026 | Primária institucional; sem cópia local | Retotalização, proclamação e diplomação anunciada para 18/12/2026. Já eram F1 e F2 |
 | [J4, STF](https://noticias.stf.jus.br/postsnoticias/psd-pede-ao-stf-realizacao-de-segundo-turno-para-governador-do-rio-de-janeiro/) | 14/10/2026 | Primária institucional | Ajuizamento e tese do PSD. Não é endosso nem liminar |
 | [J5, STF](https://noticias.stf.jus.br/postsnoticias/stf-rejeita-pedido-de-coligacao-e-mantem-decisao-do-tse-que-invalidou-votos-de-anthony-garotinho-no-rj/) | 8/10/2026 | Primária institucional | TPA 81 negada por questão processual |
-| [J6, despacho](https://conjur.com.br/wp-content/uploads/2026/10/adpf-1362-despacho.pdf) | 16/10/2026 | Documento judicial republicado; não arquivado aqui | Informações ao TSE e vista à AGU e à PGR. Sem segundo turno |
+| [J6, despacho](https://conjur.com.br/wp-content/uploads/2026/10/adpf-1362-despacho.pdf) | 16/10/2026 | Documento judicial republicado; não arquivado aqui | Passo anterior. A decisão de 12/11 diz que o rito foi adotado nessa data |
 | [J11, CNN](https://www.cnnbrasil.com.br/eleicoes/eduardo-paes-pede-ao-tre-rj-cassacao-de-chapa-de-douglas-ruas/) | 4/11/2026 | Imprensa; alegações | Pedido de cassação, sem julgamento |
 | [L3, Portaria 567/2025](https://www.tse.jus.br/legislacao/compilada/prt/2025/portaria-no-567-de-10-de-dezembro-de-2025) | 10/12/2025 | Primária normativa, texto compilado | 6/12/2026 no calendário de suplementares. Sem convocação do RJ |
 | [P1, Datafolha v2](../evidencias/2026-11-07/pdfs/datafolha-final-0310.pdf) | Campo 2–3/10; PDF de 5/10 | Original no repositório | 50/41/6/3 e série da p.14. SHA-256 já auditado, início `b9448e38` |
 | [P4, Atlas](../raw/atlas-setembro.pdf) | Campo 22–27/9 | Original no repositório | 51,1/42,1/5,4/1,5 na p.13. SHA-256 no manifesto, início `200b30bb` |
 | [P6, g1/Quaest](../evidencias/2026-11-07/pdfs/quaest-rio-de-janeiro-outubro-governador.pdf) | 3/10/2026 | Imprensa; não é o relatório do instituto | 45/33/11/11 |
-| [N3, CBN](../evidencias/2026-11-11/cbn-1011.html) | Publicada em 10/11/2026; lida em 11/11 | Imprensa; avaliação de especialistas | Sem decisão até 13/11, especialistas avaliam que 6/12 pode ficar inviável. SHA-256 começa por `e0af7815`. Não é prazo oficial |
-| [N4, iG](../evidencias/2026-11-11/ig-1011.html) | Publicada em 10/11/2026; lida em 11/11 | Imprensa | Reunião de Zanin com advogados de Paes na ADPF 1362. SHA-256 começa por `2691df98`. A página não relata liminar nem mérito |
+| [N3, CBN](../evidencias/2026-11-11/cbn-1011.html) | Publicada em 10/11/2026; lida em 11/11 | Imprensa; avaliação de especialistas | Janela de 13/11 na avaliação dos especialistas. Deixou de ser espera em aberto depois da liminar de 12/11 |
+| [N4, iG](../evidencias/2026-11-11/ig-1011.html) | Publicada em 10/11/2026; lida em 11/11 | Imprensa | Reunião de Zanin com advogados de Paes. Anterior à liminar |
+| [J14, decisão](../evidencias/2026-11-12/adpf-1362-mc-decisao-1211.pdf) | 12/11/2026 | Peça do STF, portal | Liminar indeferida por ora. Sem mérito. Instrução segue. Prevalece sobre a imprensa |
+| [N5, O Globo](../evidencias/2026-11-12/oglobo-politica-1211.html) | 12/11/2026, 18h11 | Imprensa; texto em atualização | Rejeição do pedido e a frase do sucedâneo recursal. Não traz embargos, PDT, AGU nem PGR |
+| [N6, Megale](../evidencias/2026-11-12/oglobo-megale-1211.html) | 12/11/2026, 18h10 | Imprensa | Relato alinhado à peça. “274 mil” não substitui 274.411 |
 
-A leitura de 11/11 também não localizou decisão que determine segundo turno. Isso não certifica que não exista peça fora das duas páginas e do que já estava no estudo.
+A leitura de 12/11 localizou a negativa da liminar e não localizou julgamento de mérito, julgamento dos embargos ou recurso extraordinário interposto. Isso não prevê o desfecho desses caminhos.
