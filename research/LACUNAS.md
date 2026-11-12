@@ -1,11 +1,12 @@
 # O que falta investigar
 
-Situação em 7/11/2026. A tabela reúne os documentos que faltam, as consultas ainda não feitas e as perguntas que os dados disponíveis não respondem. Os registros vêm da auditoria e dos manifestos; esta revisão de texto não refez buscas externas.
+Situação em 7/11/2026. A tabela reúne os documentos que faltam, as consultas ainda não feitas e as perguntas que os dados disponíveis não respondem. Os registros vêm da auditoria e dos manifestos; esta revisão de texto não refez buscas externas. Em 8/11/2026 foram atualizadas apenas a linha da ADPF e a linha da base de segundo turno. Em 11/11/2026 foram lidas duas notícias de 10/11. Em 12/11/2026 a liminar da ADPF foi lida na peça do STF. O restante não foi revisto.
 
 | Questão | Documento | Canal e data | Resultado | Tipo |
 |---|---|---|---|---|
 | Fundamento completo do julgamento de Anthony | Acórdão de 8/10 e certidão de trânsito | Notícia do TSE (F19) e do Senado (F3), lidas em 7/11; PJe da decisão de 2/10 aberto na auditoria | Notícia obtida. Acórdão e certidão não obtidos | Suprível |
-| Segundo turno pedido pelo PSD | Andamentos da ADPF 1362 e decisão de mérito | Notícia e página de andamento do STF, sem bytes preservados | Prestação de informações em 27/10. Decisão de mérito não encontrada nas fontes reunidas | Suprível; busca não exaustiva |
+| Segundo turno pedido pelo PSD | Mérito da ADPF 1362, embargos no TSE e eventual recurso extraordinário | Peça de 12/11 e andamentos em `evidencias/2026-11-12/`. Imprensa do mesmo dia | A liminar foi indeferida por ora. O mérito não foi julgado. A peça reproduz informação do TSE de que dois embargos estavam pendentes e diz que o acórdão comporta recurso extraordinário, sem afirmar que ele foi interposto. A avaliação da CBN sobre 13/11 deixou de ser espera em aberto. [Seção provisória](SEGUNDO-TURNO.md) | Suprível; sem previsão de desfecho |
+| Cenários Ruas × Paes de segundo turno | Questionário, ficha PesqEle e original da Quaest; pesquisa com campo posterior a 4/10 | PDFs já no repositório e impressão de imprensa | Base separada criada em 8/11, só com campos anteriores ao primeiro turno. Original Quaest e levantamento novo continuam faltando. Não é previsão | Parcial |
 | Proclamação | Autos da proclamação | Notícias do TRE de 10/10 e 15/10; download direto 403 | Texto lido por ferramenta web. HTML não arquivado | Suprível |
 | Fichas oficiais das pesquisas | PesqEle | Não consultado | Registros citados nas fontes não foram conferidos. A ordem dos números não segue a ordem das ondas; isso pode ser normal e não foi verificado | Suprível. Não é evidência de ficha falsa |
 | Separar mudança tardia, seleção, ponderação e comparecimento | Microdados, pesos e questionários | PDFs e matérias dos contratantes | Não obtidos. A Quaest original, a Atlas de 3/10 no domínio do instituto e a Veritá também não | Suprível |

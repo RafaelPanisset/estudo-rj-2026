@@ -32,6 +32,7 @@ Se o arquivo já existir, confira seu hash sem sobrescrevê-lo. O tamanho espera
 - `data/source-manifest.json`, `download-manifest.json`, `secoes-download.json`: procedência, datas, transformações, falhas e hashes de aquisição. As entradas presidenciais repetem URL e SHA do mesmo ZIP pai já registrado na entrada irmã.
 - `data/snapshot-manifest.json`: hash de todos os insumos preservados, incluindo pesquisas transcritas. Não identifica conteúdo como verdadeiro só por ter hash.
 - `data/pesquisas.csv`: transcrição editorial. A execução não extrai novamente os números dos PDFs. Conferir a transcrição é outro passo: as páginas estão em [evidencias/2026-11-07/LEIA-ME.md](evidencias/2026-11-07/LEIA-ME.md). Arquivo local com hash não autentica a fonte. Republicação e impressão de matéria não são originais.
+- `data/pesquisas-segundo-turno.csv`: transcrição separada dos cenários Ruas × Paes, também com hash no manifesto. Não é inserida em `pesquisas.csv` nem no confronto com a urna. `polls.py` só confere o formato e grava `results/pesquisas-segundo-turno.json`. A leitura dos PDFs que sustentam esses números está na [seção provisória](research/SEGUNDO-TURNO.md).
 - `evidencias/2026-11-07/`: pareceres, réplicas e PDFs usados nas ondas novas. `reproduce.py` confere o `SHA256SUMS` dessa pasta. As datas de obtenção são da auditoria de 7/11/2026, não do estudo anterior.
 - `results/correspondencia-tse-ibge.csv`: tabela gerada pela correspondência dos nomes dos 92 municípios. Ela relaciona os códigos do TSE aos do IBGE.
 

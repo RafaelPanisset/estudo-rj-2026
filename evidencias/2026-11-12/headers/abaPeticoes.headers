@@ -1,0 +1,12 @@
+HTTP/2 200 
+cache-control: no-cache,private
+content-type: text/html
+expires: Thu, 12 Nov 2026 21:43:37 GMT
+access-control-allow-origin: *
+access-control-allow-private-network: true
+date: Thu, 12 Nov 2026 21:43:37 GMT
+x-envoy-upstream-service-time: 1081
+strict-transport-security: max-age=31536000
+x-volterra-location: c-dc12-ash
+server: volt-adc
+

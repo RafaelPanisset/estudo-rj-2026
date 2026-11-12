@@ -6,3 +6,6 @@ raw/** -text
 # Human-authored documentation and code use LF.
 *.md text eol=lf
 *.py text eol=lf
+# Páginas obtidas em 11/11 e 12/11/2026: preservar os bytes usados no SHA256SUMS.
+evidencias/2026-11-11/** -text
+evidencias/2026-11-12/** -text
